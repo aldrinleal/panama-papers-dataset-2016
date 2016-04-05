@@ -1,1 +1,806 @@
-{"nodes":[{"id":114885,"nodelink":{"x":13.213,"y":3.651},"geo":{"latitudeDiff":0,"longitudeDiff":0},"data":{"properties":{"file_number":"579412","jurisdiction":"BVI","name":"NESCOLL LIMITED","status":"CAR","inactivationDate":"22-JUL-2014","struck_off_date":"31-OCT-2015","registrationDate":"27-JAN-1993"},"categories":{"0":"Company"},"statistics":{"digest":{"0":{"edgeType":"is officer of","nodeCategories":{"0":"Officer"},"nodes":6,"edges":6},"1":{"edgeType":"registered","nodeCategories":{"0":"Client"},"nodes":1,"edges":1}},"edgeCount":7,"visibleEdgeCount":3,"hiddenEdgeCount":4}},"label":"NESCOLL LIMITED","x":31.343496484279626,"y":-14.250156530761718,"fixed":true,"size":1,"glyphs":{"0":{"draw":true,"position":"top-right","content":"4"},"1":{"draw":true,"position":"bottom-right","font":"FontAwesome","textColor":"#000","content":""}},"active":false,"color":"#420e00","icon":{"font":"FontAwesome","scale":1,"color":"#fff","content":""},"fa2_x":41.7249971874237,"fa2_y":-0.8798239410400376,"colors":{"0":"#420e00"},"read_cam0:size":5,"read_cam0:x":31.343496484279626,"read_cam0:y":-14.250156530761718,"renderer1:x":1614.658552920564,"renderer1:y":294.7107327591249,"renderer1:size":31.51679696571687},{"id":288029,"nodelink":{"x":-13.649,"y":22.083,"fixed":true},"geo":{"latitudeDiff":0,"longitudeDiff":0},"data":{"properties":{"name":"MINERVA NOMINEES LIMITED","certificateNumber":"2","numbershares":"499","classofshares":"","dateofissue":"31-05-2001","ceasedmembership":"31-05-2001","transferdate":"","sharestransferred":"","newcertificate":"","custodianname":"","custodianaddress":"","citizenship":"NO","pep":"NO","rst":"NOT NEGATIVE RESULT","registerlocation":""},"categories":{"0":"Officer"},"statistics":{"digest":{"0":{"edgeType":"has similar name and address as","nodeCategories":{"0":"Officer"},"nodes":19,"edges":19},"1":{"edgeType":"registered address","nodeCategories":{"0":"Address"},"nodes":1,"edges":1},"2":{"edgeType":"is officer of","nodeCategories":{"0":"Company"},"nodes":118,"edges":118}},"edgeCount":138,"visibleEdgeCount":1,"hiddenEdgeCount":137}},"label":"MINERVA NOMINEES LIMITED","x":-3.256503515720375,"y":-3.050156530761719,"fixed":true,"size":1,"glyphs":{"0":{"draw":true,"position":"top-right","content":"137"},"1":{"draw":true,"position":"bottom-right","font":"FontAwesome","textColor":"#000","content":""}},"active":false,"color":"#be4400","icon":{"font":"FontAwesome","scale":1,"color":"#fff","content":""},"fa2_x":4.687397187423699,"fa2_y":0.916776058959961,"colors":{"0":"#be4400"},"read_cam0:size":5,"read_cam0:x":-3.256503515720375,"read_cam0:y":-3.050156530761719,"renderer1:x":1269.0844527730874,"renderer1:y":406.572869223048,"renderer1:size":31.51679696571687},{"id":593432,"nodelink":{"x":-0.017,"y":-0.057},"geo":{"latitudeDiff":0,"longitudeDiff":0},"data":{"properties":{"name":"MINERVA TRUST & CORPORATE SERVICES LIMITED","status":"ACTIVE","client_number":"891","client_name":"MINERVA TRUST & CORPORATE SERVICES LIMITED","prospect_date":"","active_since":"23-MAY-1985","country":"UNITED KINGDOM","city":"ST. HELIER","former_name":"MINERVA FINANCIAL SERVICES LIMITED","cross_reference":"KINGSRIDGE TRUSTEE CO (JSY) LTD-379; CITY MANAGEMENT-12399; JUPITER TRUST (GVA CLT 90260)","activity":"TRUST CO.","classification":"Special rates","subclassification":"Professional Fees","region":"CHANNEL ISLANDS & ISLE OF MAN PROFESSIONAL CLIENTS","compliance_classification":"INTRODUCER"},"categories":{"0":"Client"},"statistics":{"digest":{"0":{"edgeType":"registered","nodeCategories":{"0":"Company"},"nodes":768,"edges":768}},"edgeCount":768,"visibleEdgeCount":2,"hiddenEdgeCount":766}},"label":"MINERVA TRUST & CORPORATE SERVICES LIMITED","x":12.83749648427963,"y":17.123543469238296,"fixed":true,"size":1,"glyphs":{"0":{"draw":true,"position":"top-right","content":"766"},"1":{"draw":true,"position":"bottom-right","font":"FontAwesome","textColor":"#000","content":""}},"active":false,"color":"#851d00","icon":{"font":"FontAwesome","scale":1,"color":"#fff","content":""},"fa2_x":13.6703971874237,"fa2_y":29.800576058959937,"colors":{"0":"#851d00"},"read_cam0:size":5,"read_cam0:x":12.83749648427963,"read_cam0:y":17.123543469238296,"renderer1:x":1429.8263477954426,"renderer1:y":608.0615462214629,"renderer1:size":31.51679696571687},{"id":662557,"nodelink":{"x":9.424,"y":-19.001},"geo":{"latitudeDiff":0,"longitudeDiff":0},"data":{"properties":{"name":"Mariam Safdar","citizenship":"YES","pep":"NO","passport_copy":"Y"},"categories":{"0":"Officer"},"statistics":{"digest":{"0":{"edgeType":"has similar name and address as","nodeCategories":{"0":"Officer"},"nodes":1,"edges":1},"1":{"edgeType":"registered address","nodeCategories":{"0":"Address"},"nodes":1,"edges":1},"2":{"edgeType":"is officer of","nodeCategories":{"0":"Company"},"nodes":1,"edges":1}},"edgeCount":3,"visibleEdgeCount":3,"hiddenEdgeCount":0}},"label":"Mariam Safdar","x":14.219496484279631,"y":-23.092656530761726,"fixed":true,"size":1,"glyphs":{"0":{"draw":false,"position":"top-right","content":"0"},"1":{"draw":true,"position":"bottom-right","font":"FontAwesome","textColor":"#000","content":""}},"active":false,"color":"#be4400","icon":{"font":"FontAwesome","scale":1,"color":"#fff","content":""},"fa2_x":12.011997187423699,"fa2_y":-18.29302394104002,"colors":{"0":"#be4400"},"read_cam0:size":5,"read_cam0:x":14.219496484279631,"read_cam0:y":-23.092656530761726,"renderer1:x":1443.6293364198302,"renderer1:y":206.39457725178198,"renderer1:size":31.51679696571687},{"id":162830,"nodelink":{"x":-18.281,"y":3.123},"geo":{"latitudeDiff":0,"longitudeDiff":0},"selected":true,"data":{"properties":{"file_number":"579413","jurisdiction":"BVI","name":"NIELSEN ENTERPRISES LIMITED","status":"CAR","inactivationDate":"22-JUL-2014","struck_off_date":"31-OCT-2015","registrationDate":"14-APR-1994"},"categories":{"0":"Company"},"statistics":{"digest":{"0":{"edgeType":"is officer of","nodeCategories":{"0":"Officer"},"nodes":6,"edges":6},"1":{"edgeType":"registered","nodeCategories":{"0":"Client"},"nodes":1,"edges":1}},"edgeCount":7,"visibleEdgeCount":2,"hiddenEdgeCount":5}},"label":"NIELSEN ENTERPRISES LIMITED","x":-17.428303515720373,"y":8.278743469238286,"fixed":true,"size":1,"glyphs":{"0":{"draw":true,"position":"top-right","content":"5"},"1":{"draw":true,"position":"bottom-right","font":"FontAwesome","textColor":"#000","content":""}},"active":false,"color":"#420e00","icon":{"font":"FontAwesome","scale":1,"color":"#fff","content":""},"fa2_x":-16.288005625152593,"fa2_y":11.884952117919923,"colors":{"0":"#420e00"},"read_cam0:size":5,"read_cam0:x":-17.428303515720373,"read_cam0:y":8.278743469238286,"renderer1:x":1127.540896921353,"renderer1:y":519.7224190253818,"renderer1:size":31.51679696571687},{"id":655937,"data":{"properties":{"name":"Mariam Safdar","citizenship":"NO","pep":"NO","passport_copy":"Y"},"categories":{"0":"Officer"},"statistics":{"digest":{"0":{"edgeType":"has similar name and address as","nodeCategories":{"0":"Officer"},"nodes":1,"edges":1},"1":{"edgeType":"registered address","nodeCategories":{"0":"Address"},"nodes":1,"edges":1},"2":{"edgeType":"is officer of","nodeCategories":{"0":"Company"},"nodes":1,"edges":1}},"edgeCount":3,"visibleEdgeCount":3,"hiddenEdgeCount":0}},"x":-24.03800421886445,"y":-11.45403591156007,"label":"Mariam Safdar","size":1,"glyphs":{"0":{"draw":false,"position":"top-right","content":"0"},"1":{"draw":true,"position":"bottom-right","font":"FontAwesome","textColor":"#000","content":""}},"color":"#be4400","icon":{"font":"FontAwesome","scale":1,"color":"#fff","content":""},"fa2_x":-24.03800421886445,"fa2_y":-11.45403591156007,"fixed":true,"active":false,"colors":{"0":"#be4400"},"read_cam0:size":5,"read_cam0:x":-24.03800421886445,"read_cam0:y":-11.45403591156007,"renderer1:x":1061.525250310568,"renderer1:y":322.63752081936815,"renderer1:size":31.51679696571687},{"id":663078,"data":{"properties":{"name":"Saroor Palace<br/>Bazoue al eman st<br/>Ruwais<br/>Jeddah<br/>Kingdom of Saudi Arabia."},"categories":{"0":"Address"},"statistics":{"digest":{"0":{"edgeType":"registered address","nodeCategories":{"0":"Officer"},"nodes":1,"edges":1}},"edgeCount":1,"visibleEdgeCount":1,"hiddenEdgeCount":0}},"x":-35.670703515720376,"y":-31.384656530761728,"label":"Saroor Palace<br/>Bazoue al eman st<br/>Ruwais<br/>Jeddah<br/>Kingdom of Saudi Arabia.","size":1,"glyphs":{"0":{"draw":false,"position":"top-right","content":"0"},"1":{"draw":true,"position":"bottom-right","font":"FontAwesome","textColor":"#000","content":""}},"color":"#937c6f","icon":{"font":"FontAwesome","scale":1,"color":"#fff","content":""},"fa2_x":-16.038004218864444,"fa2_y":-23.654035911560094,"fixed":true,"active":false,"colors":{"0":"#937c6f"},"read_cam0:size":5,"read_cam0:x":-35.670703515720376,"read_cam0:y":-31.384656530761728,"renderer1:x":945.341447079436,"renderer1:y":123.57664550545604,"renderer1:size":31.51679696571687},{"id":664351,"data":{"properties":{"name":"Saroor Palace<br/>Bazoue el eman el eman st<br/>Ruwais<br/>Jeddah<br/>Kingdom of Saudi Arabia."},"categories":{"0":"Address"},"statistics":{"digest":{"0":{"edgeType":"registered address","nodeCategories":{"0":"Officer"},"nodes":1,"edges":1}},"edgeCount":1,"visibleEdgeCount":1,"hiddenEdgeCount":0}},"x":2.243496484279625,"y":-32.75015653076178,"label":"Saroor Palace<br/>Bazoue el eman el eman st<br/>Ruwais<br/>Jeddah<br/>Kingdom of Saudi Arabia.","size":1,"glyphs":{"0":{"draw":false,"position":"top-right","content":"0"},"1":{"draw":true,"position":"bottom-right","font":"FontAwesome","textColor":"#000","content":""}},"colors":{"0":"#937c6f"},"color":"#937c6f","icon":{"font":"FontAwesome","scale":1,"color":"#fff","content":""},"fa2_x":15.052630424499512,"fa2_y":-26.1204891204834,"fixed":true,"active":false,"read_cam0:size":5,"read_cam0:x":2.243496484279625,"read_cam0:y":-32.75015653076178,"renderer1:x":1324.0167519294782,"renderer1:y":109.93845377853705,"renderer1:size":31.51679696571687}],"edges":[{"id":807828,"source":593432,"target":114885,"data":{"properties":{},"type":"registered"},"label":"registered","size":1,"active":false,"color":"#8a6960","hover":false,"read_cam0:size":2,"renderer1:size":12.606718786286748},{"id":726368,"source":593432,"target":162830,"data":{"properties":{},"type":"registered"},"label":"registered","size":1,"active":false,"color":"#8a6960","hover":false,"read_cam0:size":2,"renderer1:size":12.606718786286748},{"id":58658,"source":655937,"target":162830,"data":{"properties":{"name":"Beneficiay"},"type":"is officer of"},"label":"Beneficiay","size":1,"color":"#d48a60","active":false,"hover":false,"read_cam0:size":2,"renderer1:size":12.606718786286748},{"id":64718,"source":662557,"target":114885,"data":{"properties":{"name":"Beneficiay"},"type":"is officer of"},"label":"Beneficiay","size":1,"color":"#d48a60","active":false,"hover":false,"read_cam0:size":2,"renderer1:size":12.606718786286748},{"id":339413,"source":655937,"target":662557,"data":{"properties":{"simil":1},"type":"has similar name and address as"},"label":"has similar name and address as","size":1,"color":"#d48a60","hover":false,"active":false,"read_cam0:size":2,"renderer1:size":12.606718786286748},{"id":472565,"source":288029,"target":114885,"data":{"properties":{"name":"Shareholder"},"type":"is officer of"},"label":"Shareholder","size":1,"color":"#d48a60","hover":false,"active":false,"read_cam0:size":2,"renderer1:size":12.606718786286748},{"id":333734,"source":655937,"target":663078,"data":{"properties":{},"type":"registered address"},"label":"registered address","size":1,"color":"#baaba3","hover":false,"active":false,"read_cam0:size":2,"renderer1:size":12.606718786286748},{"id":338469,"source":662557,"target":664351,"data":{"properties":{},"type":"registered address"},"label":"registered address","size":1,"color":"#baaba3","hover":false,"active":false,"read_cam0:size":2,"renderer1:size":12.606718786286748}]}
+{
+  "edges": [
+    {
+      "renderer1:size": 12.606718786286748,
+      "read_cam0:size": 2,
+      "hover": false,
+      "id": 807828,
+      "source": 593432,
+      "target": 114885,
+      "data": {
+        "type": "registered",
+        "properties": {}
+      },
+      "label": "registered",
+      "size": 1,
+      "active": false,
+      "color": "#8a6960"
+    },
+    {
+      "renderer1:size": 12.606718786286748,
+      "read_cam0:size": 2,
+      "hover": false,
+      "id": 726368,
+      "source": 593432,
+      "target": 162830,
+      "data": {
+        "type": "registered",
+        "properties": {}
+      },
+      "label": "registered",
+      "size": 1,
+      "active": false,
+      "color": "#8a6960"
+    },
+    {
+      "renderer1:size": 12.606718786286748,
+      "read_cam0:size": 2,
+      "hover": false,
+      "id": 58658,
+      "source": 655937,
+      "target": 162830,
+      "data": {
+        "type": "is officer of",
+        "properties": {
+          "name": "Beneficiay"
+        }
+      },
+      "label": "Beneficiay",
+      "size": 1,
+      "color": "#d48a60",
+      "active": false
+    },
+    {
+      "renderer1:size": 12.606718786286748,
+      "read_cam0:size": 2,
+      "hover": false,
+      "id": 64718,
+      "source": 662557,
+      "target": 114885,
+      "data": {
+        "type": "is officer of",
+        "properties": {
+          "name": "Beneficiay"
+        }
+      },
+      "label": "Beneficiay",
+      "size": 1,
+      "color": "#d48a60",
+      "active": false
+    },
+    {
+      "renderer1:size": 12.606718786286748,
+      "read_cam0:size": 2,
+      "active": false,
+      "id": 339413,
+      "source": 655937,
+      "target": 662557,
+      "data": {
+        "type": "has similar name and address as",
+        "properties": {
+          "simil": 1
+        }
+      },
+      "label": "has similar name and address as",
+      "size": 1,
+      "color": "#d48a60",
+      "hover": false
+    },
+    {
+      "renderer1:size": 12.606718786286748,
+      "read_cam0:size": 2,
+      "active": false,
+      "id": 472565,
+      "source": 288029,
+      "target": 114885,
+      "data": {
+        "type": "is officer of",
+        "properties": {
+          "name": "Shareholder"
+        }
+      },
+      "label": "Shareholder",
+      "size": 1,
+      "color": "#d48a60",
+      "hover": false
+    },
+    {
+      "renderer1:size": 12.606718786286748,
+      "read_cam0:size": 2,
+      "active": false,
+      "id": 333734,
+      "source": 655937,
+      "target": 663078,
+      "data": {
+        "type": "registered address",
+        "properties": {}
+      },
+      "label": "registered address",
+      "size": 1,
+      "color": "#baaba3",
+      "hover": false
+    },
+    {
+      "renderer1:size": 12.606718786286748,
+      "read_cam0:size": 2,
+      "active": false,
+      "id": 338469,
+      "source": 662557,
+      "target": 664351,
+      "data": {
+        "type": "registered address",
+        "properties": {}
+      },
+      "label": "registered address",
+      "size": 1,
+      "color": "#baaba3",
+      "hover": false
+    }
+  ],
+  "nodes": [
+    {
+      "renderer1:size": 31.51679696571687,
+      "renderer1:y": 294.7107327591249,
+      "renderer1:x": 1614.658552920564,
+      "read_cam0:y": -14.250156530761718,
+      "read_cam0:x": 31.343496484279626,
+      "read_cam0:size": 5,
+      "fixed": true,
+      "y": -14.250156530761718,
+      "x": 31.343496484279626,
+      "label": "NESCOLL LIMITED",
+      "data": {
+        "statistics": {
+          "hiddenEdgeCount": 4,
+          "visibleEdgeCount": 3,
+          "edgeCount": 7,
+          "digest": {
+            "1": {
+              "edges": 1,
+              "nodes": 1,
+              "nodeCategories": {
+                "0": "Client"
+              },
+              "edgeType": "registered"
+            },
+            "0": {
+              "edges": 6,
+              "nodes": 6,
+              "nodeCategories": {
+                "0": "Officer"
+              },
+              "edgeType": "is officer of"
+            }
+          }
+        },
+        "categories": {
+          "0": "Company"
+        },
+        "properties": {
+          "registrationDate": "27-JAN-1993",
+          "struck_off_date": "31-OCT-2015",
+          "inactivationDate": "22-JUL-2014",
+          "status": "CAR",
+          "name": "NESCOLL LIMITED",
+          "jurisdiction": "BVI",
+          "file_number": "579412"
+        }
+      },
+      "geo": {
+        "longitudeDiff": 0,
+        "latitudeDiff": 0
+      },
+      "nodelink": {
+        "y": 3.651,
+        "x": 13.213
+      },
+      "id": 114885,
+      "size": 1,
+      "glyphs": {
+        "1": {
+          "content": "",
+          "textColor": "#000",
+          "font": "FontAwesome",
+          "position": "bottom-right",
+          "draw": true
+        },
+        "0": {
+          "content": "4",
+          "position": "top-right",
+          "draw": true
+        }
+      },
+      "active": false,
+      "color": "#420e00",
+      "icon": {
+        "content": "",
+        "color": "#fff",
+        "scale": 1,
+        "font": "FontAwesome"
+      },
+      "fa2_x": 41.7249971874237,
+      "fa2_y": -0.8798239410400376,
+      "colors": {
+        "0": "#420e00"
+      }
+    },
+    {
+      "renderer1:size": 31.51679696571687,
+      "renderer1:y": 406.572869223048,
+      "renderer1:x": 1269.0844527730874,
+      "read_cam0:y": -3.050156530761719,
+      "read_cam0:x": -3.256503515720375,
+      "read_cam0:size": 5,
+      "fixed": true,
+      "y": -3.050156530761719,
+      "x": -3.256503515720375,
+      "label": "MINERVA NOMINEES LIMITED",
+      "data": {
+        "statistics": {
+          "hiddenEdgeCount": 137,
+          "visibleEdgeCount": 1,
+          "edgeCount": 138,
+          "digest": {
+            "2": {
+              "edges": 118,
+              "nodes": 118,
+              "nodeCategories": {
+                "0": "Company"
+              },
+              "edgeType": "is officer of"
+            },
+            "1": {
+              "edges": 1,
+              "nodes": 1,
+              "nodeCategories": {
+                "0": "Address"
+              },
+              "edgeType": "registered address"
+            },
+            "0": {
+              "edges": 19,
+              "nodes": 19,
+              "nodeCategories": {
+                "0": "Officer"
+              },
+              "edgeType": "has similar name and address as"
+            }
+          }
+        },
+        "categories": {
+          "0": "Officer"
+        },
+        "properties": {
+          "registerlocation": "",
+          "rst": "NOT NEGATIVE RESULT",
+          "pep": "NO",
+          "citizenship": "NO",
+          "custodianaddress": "",
+          "custodianname": "",
+          "newcertificate": "",
+          "name": "MINERVA NOMINEES LIMITED",
+          "certificateNumber": "2",
+          "numbershares": "499",
+          "classofshares": "",
+          "dateofissue": "31-05-2001",
+          "ceasedmembership": "31-05-2001",
+          "transferdate": "",
+          "sharestransferred": ""
+        }
+      },
+      "geo": {
+        "longitudeDiff": 0,
+        "latitudeDiff": 0
+      },
+      "nodelink": {
+        "fixed": true,
+        "y": 22.083,
+        "x": -13.649
+      },
+      "id": 288029,
+      "size": 1,
+      "glyphs": {
+        "1": {
+          "content": "",
+          "textColor": "#000",
+          "font": "FontAwesome",
+          "position": "bottom-right",
+          "draw": true
+        },
+        "0": {
+          "content": "137",
+          "position": "top-right",
+          "draw": true
+        }
+      },
+      "active": false,
+      "color": "#be4400",
+      "icon": {
+        "content": "",
+        "color": "#fff",
+        "scale": 1,
+        "font": "FontAwesome"
+      },
+      "fa2_x": 4.687397187423699,
+      "fa2_y": 0.916776058959961,
+      "colors": {
+        "0": "#be4400"
+      }
+    },
+    {
+      "renderer1:size": 31.51679696571687,
+      "renderer1:y": 608.0615462214629,
+      "renderer1:x": 1429.8263477954426,
+      "read_cam0:y": 17.123543469238296,
+      "read_cam0:x": 12.83749648427963,
+      "read_cam0:size": 5,
+      "fixed": true,
+      "y": 17.123543469238296,
+      "x": 12.83749648427963,
+      "label": "MINERVA TRUST & CORPORATE SERVICES LIMITED",
+      "data": {
+        "statistics": {
+          "hiddenEdgeCount": 766,
+          "visibleEdgeCount": 2,
+          "edgeCount": 768,
+          "digest": {
+            "0": {
+              "edges": 768,
+              "nodes": 768,
+              "nodeCategories": {
+                "0": "Company"
+              },
+              "edgeType": "registered"
+            }
+          }
+        },
+        "categories": {
+          "0": "Client"
+        },
+        "properties": {
+          "compliance_classification": "INTRODUCER",
+          "region": "CHANNEL ISLANDS & ISLE OF MAN PROFESSIONAL CLIENTS",
+          "subclassification": "Professional Fees",
+          "classification": "Special rates",
+          "activity": "TRUST CO.",
+          "cross_reference": "KINGSRIDGE TRUSTEE CO (JSY) LTD-379; CITY MANAGEMENT-12399; JUPITER TRUST (GVA CLT 90260)",
+          "former_name": "MINERVA FINANCIAL SERVICES LIMITED",
+          "name": "MINERVA TRUST & CORPORATE SERVICES LIMITED",
+          "status": "ACTIVE",
+          "client_number": "891",
+          "client_name": "MINERVA TRUST & CORPORATE SERVICES LIMITED",
+          "prospect_date": "",
+          "active_since": "23-MAY-1985",
+          "country": "UNITED KINGDOM",
+          "city": "ST. HELIER"
+        }
+      },
+      "geo": {
+        "longitudeDiff": 0,
+        "latitudeDiff": 0
+      },
+      "nodelink": {
+        "y": -0.057,
+        "x": -0.017
+      },
+      "id": 593432,
+      "size": 1,
+      "glyphs": {
+        "1": {
+          "content": "",
+          "textColor": "#000",
+          "font": "FontAwesome",
+          "position": "bottom-right",
+          "draw": true
+        },
+        "0": {
+          "content": "766",
+          "position": "top-right",
+          "draw": true
+        }
+      },
+      "active": false,
+      "color": "#851d00",
+      "icon": {
+        "content": "",
+        "color": "#fff",
+        "scale": 1,
+        "font": "FontAwesome"
+      },
+      "fa2_x": 13.6703971874237,
+      "fa2_y": 29.800576058959937,
+      "colors": {
+        "0": "#851d00"
+      }
+    },
+    {
+      "renderer1:size": 31.51679696571687,
+      "renderer1:y": 206.39457725178198,
+      "renderer1:x": 1443.6293364198302,
+      "read_cam0:y": -23.092656530761726,
+      "read_cam0:x": 14.219496484279631,
+      "read_cam0:size": 5,
+      "fixed": true,
+      "y": -23.092656530761726,
+      "x": 14.219496484279631,
+      "label": "Mariam Safdar",
+      "data": {
+        "statistics": {
+          "hiddenEdgeCount": 0,
+          "visibleEdgeCount": 3,
+          "edgeCount": 3,
+          "digest": {
+            "2": {
+              "edges": 1,
+              "nodes": 1,
+              "nodeCategories": {
+                "0": "Company"
+              },
+              "edgeType": "is officer of"
+            },
+            "1": {
+              "edges": 1,
+              "nodes": 1,
+              "nodeCategories": {
+                "0": "Address"
+              },
+              "edgeType": "registered address"
+            },
+            "0": {
+              "edges": 1,
+              "nodes": 1,
+              "nodeCategories": {
+                "0": "Officer"
+              },
+              "edgeType": "has similar name and address as"
+            }
+          }
+        },
+        "categories": {
+          "0": "Officer"
+        },
+        "properties": {
+          "passport_copy": "Y",
+          "pep": "NO",
+          "citizenship": "YES",
+          "name": "Mariam Safdar"
+        }
+      },
+      "geo": {
+        "longitudeDiff": 0,
+        "latitudeDiff": 0
+      },
+      "nodelink": {
+        "y": -19.001,
+        "x": 9.424
+      },
+      "id": 662557,
+      "size": 1,
+      "glyphs": {
+        "1": {
+          "content": "",
+          "textColor": "#000",
+          "font": "FontAwesome",
+          "position": "bottom-right",
+          "draw": true
+        },
+        "0": {
+          "content": "0",
+          "position": "top-right",
+          "draw": false
+        }
+      },
+      "active": false,
+      "color": "#be4400",
+      "icon": {
+        "content": "",
+        "color": "#fff",
+        "scale": 1,
+        "font": "FontAwesome"
+      },
+      "fa2_x": 12.011997187423699,
+      "fa2_y": -18.29302394104002,
+      "colors": {
+        "0": "#be4400"
+      }
+    },
+    {
+      "renderer1:size": 31.51679696571687,
+      "renderer1:y": 519.7224190253818,
+      "renderer1:x": 1127.540896921353,
+      "read_cam0:y": 8.278743469238286,
+      "read_cam0:x": -17.428303515720373,
+      "read_cam0:size": 5,
+      "colors": {
+        "0": "#420e00"
+      },
+      "y": 8.278743469238286,
+      "x": -17.428303515720373,
+      "label": "NIELSEN ENTERPRISES LIMITED",
+      "data": {
+        "statistics": {
+          "hiddenEdgeCount": 5,
+          "visibleEdgeCount": 2,
+          "edgeCount": 7,
+          "digest": {
+            "1": {
+              "edges": 1,
+              "nodes": 1,
+              "nodeCategories": {
+                "0": "Client"
+              },
+              "edgeType": "registered"
+            },
+            "0": {
+              "edges": 6,
+              "nodes": 6,
+              "nodeCategories": {
+                "0": "Officer"
+              },
+              "edgeType": "is officer of"
+            }
+          }
+        },
+        "categories": {
+          "0": "Company"
+        },
+        "properties": {
+          "registrationDate": "14-APR-1994",
+          "struck_off_date": "31-OCT-2015",
+          "inactivationDate": "22-JUL-2014",
+          "status": "CAR",
+          "name": "NIELSEN ENTERPRISES LIMITED",
+          "jurisdiction": "BVI",
+          "file_number": "579413"
+        }
+      },
+      "selected": true,
+      "geo": {
+        "longitudeDiff": 0,
+        "latitudeDiff": 0
+      },
+      "nodelink": {
+        "y": 3.123,
+        "x": -18.281
+      },
+      "id": 162830,
+      "fixed": true,
+      "size": 1,
+      "glyphs": {
+        "1": {
+          "content": "",
+          "textColor": "#000",
+          "font": "FontAwesome",
+          "position": "bottom-right",
+          "draw": true
+        },
+        "0": {
+          "content": "5",
+          "position": "top-right",
+          "draw": true
+        }
+      },
+      "active": false,
+      "color": "#420e00",
+      "icon": {
+        "content": "",
+        "color": "#fff",
+        "scale": 1,
+        "font": "FontAwesome"
+      },
+      "fa2_x": -16.288005625152593,
+      "fa2_y": 11.884952117919923
+    },
+    {
+      "renderer1:size": 31.51679696571687,
+      "renderer1:y": 322.63752081936815,
+      "renderer1:x": 1061.525250310568,
+      "read_cam0:y": -11.45403591156007,
+      "color": "#be4400",
+      "glyphs": {
+        "1": {
+          "content": "",
+          "textColor": "#000",
+          "font": "FontAwesome",
+          "position": "bottom-right",
+          "draw": true
+        },
+        "0": {
+          "content": "0",
+          "position": "top-right",
+          "draw": false
+        }
+      },
+      "size": 1,
+      "label": "Mariam Safdar",
+      "y": -11.45403591156007,
+      "x": -24.03800421886445,
+      "data": {
+        "statistics": {
+          "hiddenEdgeCount": 0,
+          "visibleEdgeCount": 3,
+          "edgeCount": 3,
+          "digest": {
+            "2": {
+              "edges": 1,
+              "nodes": 1,
+              "nodeCategories": {
+                "0": "Company"
+              },
+              "edgeType": "is officer of"
+            },
+            "1": {
+              "edges": 1,
+              "nodes": 1,
+              "nodeCategories": {
+                "0": "Address"
+              },
+              "edgeType": "registered address"
+            },
+            "0": {
+              "edges": 1,
+              "nodes": 1,
+              "nodeCategories": {
+                "0": "Officer"
+              },
+              "edgeType": "has similar name and address as"
+            }
+          }
+        },
+        "categories": {
+          "0": "Officer"
+        },
+        "properties": {
+          "passport_copy": "Y",
+          "pep": "NO",
+          "citizenship": "NO",
+          "name": "Mariam Safdar"
+        }
+      },
+      "id": 655937,
+      "icon": {
+        "content": "",
+        "color": "#fff",
+        "scale": 1,
+        "font": "FontAwesome"
+      },
+      "fa2_x": -24.03800421886445,
+      "fa2_y": -11.45403591156007,
+      "fixed": true,
+      "active": false,
+      "colors": {
+        "0": "#be4400"
+      },
+      "read_cam0:size": 5,
+      "read_cam0:x": -24.03800421886445
+    },
+    {
+      "renderer1:size": 31.51679696571687,
+      "renderer1:y": 123.57664550545604,
+      "renderer1:x": 945.341447079436,
+      "read_cam0:y": -31.384656530761728,
+      "color": "#937c6f",
+      "glyphs": {
+        "1": {
+          "content": "",
+          "textColor": "#000",
+          "font": "FontAwesome",
+          "position": "bottom-right",
+          "draw": true
+        },
+        "0": {
+          "content": "0",
+          "position": "top-right",
+          "draw": false
+        }
+      },
+      "size": 1,
+      "label": "Saroor Palace<br/>Bazoue al eman st<br/>Ruwais<br/>Jeddah<br/>Kingdom of Saudi Arabia.",
+      "y": -31.384656530761728,
+      "x": -35.670703515720376,
+      "data": {
+        "statistics": {
+          "hiddenEdgeCount": 0,
+          "visibleEdgeCount": 1,
+          "edgeCount": 1,
+          "digest": {
+            "0": {
+              "edges": 1,
+              "nodes": 1,
+              "nodeCategories": {
+                "0": "Officer"
+              },
+              "edgeType": "registered address"
+            }
+          }
+        },
+        "categories": {
+          "0": "Address"
+        },
+        "properties": {
+          "name": "Saroor Palace<br/>Bazoue al eman st<br/>Ruwais<br/>Jeddah<br/>Kingdom of Saudi Arabia."
+        }
+      },
+      "id": 663078,
+      "icon": {
+        "content": "",
+        "color": "#fff",
+        "scale": 1,
+        "font": "FontAwesome"
+      },
+      "fa2_x": -16.038004218864444,
+      "fa2_y": -23.654035911560094,
+      "fixed": true,
+      "active": false,
+      "colors": {
+        "0": "#937c6f"
+      },
+      "read_cam0:size": 5,
+      "read_cam0:x": -35.670703515720376
+    },
+    {
+      "renderer1:size": 31.51679696571687,
+      "renderer1:y": 109.93845377853705,
+      "renderer1:x": 1324.0167519294782,
+      "read_cam0:y": -32.75015653076178,
+      "colors": {
+        "0": "#937c6f"
+      },
+      "glyphs": {
+        "1": {
+          "content": "",
+          "textColor": "#000",
+          "font": "FontAwesome",
+          "position": "bottom-right",
+          "draw": true
+        },
+        "0": {
+          "content": "0",
+          "position": "top-right",
+          "draw": false
+        }
+      },
+      "size": 1,
+      "label": "Saroor Palace<br/>Bazoue el eman el eman st<br/>Ruwais<br/>Jeddah<br/>Kingdom of Saudi Arabia.",
+      "y": -32.75015653076178,
+      "x": 2.243496484279625,
+      "data": {
+        "statistics": {
+          "hiddenEdgeCount": 0,
+          "visibleEdgeCount": 1,
+          "edgeCount": 1,
+          "digest": {
+            "0": {
+              "edges": 1,
+              "nodes": 1,
+              "nodeCategories": {
+                "0": "Officer"
+              },
+              "edgeType": "registered address"
+            }
+          }
+        },
+        "categories": {
+          "0": "Address"
+        },
+        "properties": {
+          "name": "Saroor Palace<br/>Bazoue el eman el eman st<br/>Ruwais<br/>Jeddah<br/>Kingdom of Saudi Arabia."
+        }
+      },
+      "id": 664351,
+      "color": "#937c6f",
+      "icon": {
+        "content": "",
+        "color": "#fff",
+        "scale": 1,
+        "font": "FontAwesome"
+      },
+      "fa2_x": 15.052630424499512,
+      "fa2_y": -26.1204891204834,
+      "fixed": true,
+      "active": false,
+      "read_cam0:size": 5,
+      "read_cam0:x": 2.243496484279625
+    }
+  ]
+}

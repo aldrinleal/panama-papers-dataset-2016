@@ -1,1 +1,3450 @@
-{"nodes":[{"id":582818,"nodelink":{"x":-168.349,"y":-185.914,"fixed":true},"geo":{"latitudeDiff":0,"longitudeDiff":0},"data":{"properties":{"name":"SHEIKH HAMAD BIN JASSEM BIN JABR AL-THANI","status":"SUSPENDED","client_number":"15641","client_name":"SHEIKH HAMAD BIN JASSEM BIN JABR AL-THANI","prospect_date":"07-MAR-2004","active_since":"","country":"QATAR","city":"DOHA","former_name":"","cross_reference":"","activity":"","classification":"","subclassification":"","region":"","compliance_classification":""},"categories":{"0":"Client"},"statistics":{"digest":{"0":{"edgeType":"registered","nodeCategories":{"0":"Company"},"nodes":4,"edges":4}},"edgeCount":4,"visibleEdgeCount":4,"hiddenEdgeCount":0}},"label":"SHEIKH HAMAD BIN JASSEM BIN JABR AL-THANI","x":-168.349,"y":-185.914,"fixed":true,"size":1,"glyphs":{"0":{"draw":false,"position":"top-right","content":"0"}},"active":false,"color":"#851d00","icon":{"font":"FontAwesome","scale":1,"color":"#fff","content":""},"fa2_x":-168.349,"fa2_y":-185.914,"colors":{"0":"#851d00"},"read_cam0:size":5,"read_cam0:x":-168.349,"read_cam0:y":-185.914,"renderer1:x":1025.154273005508,"renderer1:y":170.1378962559377,"renderer1:size":6.15827734317735},{"id":1314,"nodelink":{"x":-8.601,"y":-207.737,"fixed":true},"geo":{"latitudeDiff":0,"longitudeDiff":0},"data":{"properties":{"file_number":"809768","jurisdiction":"BAH","name":"TRICK ONE LIMITED","status":"CAR","inactivationDate":"23-AUG-2006","struck_off_date":"31-DEC-2007","registrationDate":"06-MAY-1998"},"categories":{"0":"Company"},"statistics":{"digest":{"0":{"edgeType":"is officer of","nodeCategories":{"0":"Officer"},"nodes":6,"edges":6},"1":{"edgeType":"registered","nodeCategories":{"0":"Client"},"nodes":1,"edges":1}},"edgeCount":7,"visibleEdgeCount":2,"hiddenEdgeCount":5}},"label":"TRICK ONE LIMITED","x":-8.601,"y":-207.737,"fixed":true,"size":1,"glyphs":{"0":{"draw":true,"position":"top-right","content":"5"}},"active":false,"color":"#420e00","icon":{"font":"FontAwesome","scale":1,"color":"#fff","content":""},"fa2_x":-8.601,"fa2_y":-207.737,"colors":{"0":"#420e00"},"read_cam0:size":5,"read_cam0:x":-8.601,"read_cam0:y":-207.737,"renderer1:x":1232.4292993325269,"renderer1:y":141.82228103988155,"renderer1:size":6.15827734317735},{"id":8131,"nodelink":{"x":-10.347,"y":-228.688,"fixed":true},"geo":{"latitudeDiff":0,"longitudeDiff":0},"data":{"properties":{"file_number":"812754","jurisdiction":"BAH","name":"TRICK ONE MANAGEMENT LIMITED","status":"CAR","inactivationDate":"16-AUG-2006","struck_off_date":"31-DEC-2007","registrationDate":"20-APR-2000"},"categories":{"0":"Company"},"statistics":{"digest":{"0":{"edgeType":"is officer of","nodeCategories":{"0":"Officer"},"nodes":3,"edges":3},"1":{"edgeType":"registered","nodeCategories":{"0":"Client"},"nodes":1,"edges":1}},"edgeCount":4,"visibleEdgeCount":2,"hiddenEdgeCount":2}},"label":"TRICK ONE MANAGEMENT LIMITED","x":-10.347,"y":-228.688,"fixed":true,"size":1,"glyphs":{"0":{"draw":true,"position":"top-right","content":"2"}},"active":false,"color":"#420e00","icon":{"font":"FontAwesome","scale":1,"color":"#fff","content":""},"fa2_x":-10.347,"fa2_y":-228.688,"colors":{"0":"#420e00"},"read_cam0:size":5,"read_cam0:x":-10.347,"read_cam0:y":-228.688,"renderer1:x":1230.1638425132428,"renderer1:y":114.63809672097074,"renderer1:size":6.15827734317735},{"id":173963,"nodelink":{"x":-10.347,"y":-251.384,"fixed":true},"geo":{"latitudeDiff":0,"longitudeDiff":0},"data":{"properties":{"file_number":"528088","jurisdiction":"BVI","name":"REMGREEN PROPERTIES LIMITED","status":"CAR","inactivationDate":"21-AUG-2007","struck_off_date":"30-APR-2008","registrationDate":"14-SEP-1998"},"categories":{"0":"Company"},"statistics":{"digest":{"0":{"edgeType":"is officer of","nodeCategories":{"0":"Officer"},"nodes":2,"edges":2},"1":{"edgeType":"registered","nodeCategories":{"0":"Client"},"nodes":1,"edges":1}},"edgeCount":3,"visibleEdgeCount":2,"hiddenEdgeCount":1}},"label":"REMGREEN PROPERTIES LIMITED","x":-28.529355628058738,"y":-265.79788091354,"fixed":true,"size":1,"glyphs":{"0":{"draw":true,"position":"top-right","content":"1"},"1":{"draw":true,"position":"bottom-right","font":"FontAwesome","textColor":"#000","content":""}},"active":false,"color":"#420e00","icon":{"font":"FontAwesome","scale":1,"color":"#fff","content":""},"fa2_x":-28.529355628058738,"fa2_y":-265.79788091354,"colors":{"0":"#420e00"},"read_cam0:size":5,"read_cam0:x":-28.529355628058738,"read_cam0:y":-265.79788091354,"renderer1:x":1206.5720088659164,"renderer1:y":66.487562483631,"renderer1:size":6.15827734317735},{"id":280700,"nodelink":{"x":-5.983,"y":-164.09,"fixed":true},"geo":{"latitudeDiff":0,"longitudeDiff":0},"data":{"properties":{"file_number":"813989","jurisdiction":"BAH","name":"ANOUD AL-DOHA LIMITED","status":"DIS","inactivationDate":"13-JAN-2010","struck_off_date":"31-DEC-2009","registrationDate":"13-AUG-1998"},"categories":{"0":"Company"},"statistics":{"digest":{"0":{"edgeType":"is officer of","nodeCategories":{"0":"Officer"},"nodes":3,"edges":3},"1":{"edgeType":"registered","nodeCategories":{"0":"Client"},"nodes":1,"edges":1}},"edgeCount":4,"visibleEdgeCount":2,"hiddenEdgeCount":2}},"label":"ANOUD AL-DOHA LIMITED","x":-5.983,"y":-164.09,"fixed":true,"size":1,"glyphs":{"0":{"draw":true,"position":"top-right","content":"2"}},"active":false,"color":"#420e00","icon":{"font":"FontAwesome","scale":1,"color":"#fff","content":""},"fa2_x":-5.983,"fa2_y":-164.09,"colors":{"0":"#420e00"},"read_cam0:size":5,"read_cam0:x":-5.983,"read_cam0:y":-164.09,"renderer1:x":1235.826187048956,"renderer1:y":198.45480898449054,"renderer1:size":6.15827734317735},{"id":190927,"nodelink":{"x":-12.093,"y":57.636,"fixed":true},"geo":{"latitudeDiff":0,"longitudeDiff":0},"data":{"properties":{"file_number":"63890","jurisdiction":"PMA","name":"RIENNE S.A.","status":"ACT","inactivationDate":"","struck_off_date":"","registrationDate":"12-SEP-2011"},"categories":{"0":"Company"},"statistics":{"digest":{"0":{"edgeType":"is officer of","nodeCategories":{"0":"Officer"},"nodes":7,"edges":9},"1":{"edgeType":"registered","nodeCategories":{"0":"Client"},"nodes":1,"edges":1}},"edgeCount":10,"visibleEdgeCount":10,"hiddenEdgeCount":0}},"label":"RIENNE S.A.","x":-12.093,"y":57.636,"fixed":true,"size":1,"glyphs":{"0":{"draw":false,"position":"top-right","content":"0"}},"active":false,"color":"#420e00","icon":{"font":"FontAwesome","scale":1,"color":"#fff","content":""},"fa2_x":-12.093,"fa2_y":57.636,"colors":{"0":"#420e00"},"read_cam0:size":5,"read_cam0:x":-12.093,"read_cam0:y":57.636,"renderer1:x":1227.898385693959,"renderer1:y":486.1470648336067,"renderer1:size":6.15827734317735},{"id":464824,"nodelink":{"x":73.455,"y":40.177,"fixed":true},"geo":{"latitudeDiff":0,"longitudeDiff":0},"data":{"properties":{"name":"THE BEARER","certificateNumber":"1","numbershares":"1","classofshares":"","dateofissue":"13-09-2011","ceasedmembership":"16-09-2013","transferdate":"","sharestransferred":"","newcertificate":"","custodianname":"","custodianaddress":"","citizenship":"NO","pep":"NO","rst":"NOT NEGATIVE RESULT","registerlocation":""},"categories":{"0":"Officer"},"statistics":{"digest":{"0":{"edgeType":"is officer of","nodeCategories":{"0":"Company"},"nodes":1,"edges":1}},"edgeCount":1,"visibleEdgeCount":1,"hiddenEdgeCount":0}},"label":"THE BEARER","x":73.455,"y":40.177,"fixed":true,"size":1,"glyphs":{"0":{"draw":false,"position":"top-right","content":"0"}},"active":false,"color":"#be4400","icon":{"font":"FontAwesome","scale":1,"color":"#fff","content":""},"fa2_x":73.455,"fa2_y":40.177,"colors":{"0":"#be4400"},"read_cam0:size":5,"read_cam0:x":73.455,"read_cam0:y":40.177,"renderer1:x":1338.897984763893,"renderer1:y":463.4937941532637,"renderer1:size":6.15827734317735},{"id":464825,"nodelink":{"x":75.2,"y":7.878,"fixed":true},"geo":{"latitudeDiff":0,"longitudeDiff":0},"data":{"properties":{"name":"THE BEARER","certificateNumber":"2","numbershares":"1","classofshares":"","dateofissue":"13-09-2011","ceasedmembership":"16-09-2013","transferdate":"","sharestransferred":"","newcertificate":"","custodianname":"","custodianaddress":"","citizenship":"NO","pep":"NO","rst":"NOT NEGATIVE RESULT","registerlocation":""},"categories":{"0":"Officer"},"statistics":{"digest":{"0":{"edgeType":"is officer of","nodeCategories":{"0":"Company"},"nodes":1,"edges":1}},"edgeCount":1,"visibleEdgeCount":1,"hiddenEdgeCount":0}},"label":"THE BEARER","x":75.2,"y":7.878,"fixed":true,"size":1,"glyphs":{"0":{"draw":false,"position":"top-right","content":"0"}},"active":false,"color":"#be4400","icon":{"font":"FontAwesome","scale":1,"color":"#fff","content":""},"fa2_x":75.2,"fa2_y":7.878,"colors":{"0":"#be4400"},"read_cam0:size":5,"read_cam0:x":75.2,"read_cam0:y":7.878,"renderer1:x":1341.1621440706801,"renderer1:y":421.5854380215038,"renderer1:size":6.15827734317735},{"id":464826,"nodelink":{"x":74.328,"y":23.591,"fixed":true},"geo":{"latitudeDiff":0,"longitudeDiff":0},"data":{"properties":{"name":"THE BEARER","certificateNumber":"3","numbershares":"1","classofshares":"","dateofissue":"13-09-2011","ceasedmembership":"16-09-2013","transferdate":"","sharestransferred":"","newcertificate":"","custodianname":"","custodianaddress":"","citizenship":"NO","pep":"NO","rst":"NOT NEGATIVE RESULT","registerlocation":""},"categories":{"0":"Officer"},"statistics":{"digest":{"0":{"edgeType":"is officer of","nodeCategories":{"0":"Company"},"nodes":1,"edges":1}},"edgeCount":1,"visibleEdgeCount":1,"hiddenEdgeCount":0}},"label":"THE BEARER","x":74.328,"y":23.591,"fixed":true,"size":1,"glyphs":{"0":{"draw":false,"position":"top-right","content":"0"}},"active":false,"color":"#be4400","icon":{"font":"FontAwesome","scale":1,"color":"#fff","content":""},"fa2_x":74.328,"fa2_y":23.591,"colors":{"0":"#be4400"},"read_cam0:size":5,"read_cam0:x":74.328,"read_cam0:y":23.591,"renderer1:x":1340.0307131735349,"renderer1:y":441.97325188256275,"renderer1:size":6.15827734317735},{"id":464827,"nodelink":{"x":76.073,"y":-10.454,"fixed":true},"geo":{"latitudeDiff":0,"longitudeDiff":0},"data":{"properties":{"name":"THE BEARER","certificateNumber":"4","numbershares":"1","classofshares":"","dateofissue":"13-09-2011","ceasedmembership":"16-09-2013","transferdate":"","sharestransferred":"","newcertificate":"","custodianname":"","custodianaddress":"","citizenship":"NO","pep":"NO","rst":"NOT NEGATIVE RESULT","registerlocation":""},"categories":{"0":"Officer"},"statistics":{"digest":{"0":{"edgeType":"is officer of","nodeCategories":{"0":"Company"},"nodes":1,"edges":1}},"edgeCount":1,"visibleEdgeCount":1,"hiddenEdgeCount":0}},"label":"THE BEARER","x":76.073,"y":-10.454,"fixed":true,"size":1,"glyphs":{"0":{"draw":false,"position":"top-right","content":"0"}},"active":true,"color":"#be4400","icon":{"font":"FontAwesome","scale":1,"color":"#fff","content":""},"fa2_x":76.073,"fa2_y":-10.454,"colors":{"0":"#be4400"},"read_cam0:size":5,"read_cam0:x":76.073,"read_cam0:y":-10.454,"renderer1:x":1342.294872480322,"renderer1:y":397.79943893151886,"renderer1:size":6.15827734317735},{"id":464828,"nodelink":{"x":72.582,"y":55.017,"fixed":true},"geo":{"latitudeDiff":0,"longitudeDiff":0},"data":{"properties":{"name":"Sheikh Hamad Bibkhalifa Binhamad Al-Thani","certificateNumber":"5","numbershares":"75","classofshares":"","dateofissue":"16-09-2013","ceasedmembership":"","transferdate":"","sharestransferred":"","newcertificate":"","custodianname":"","custodianaddress":"","citizenship":"NO","pep":"NO","rst":"NOT NEGATIVE RESULT(SEARCHES CONDUCTED)","registerlocation":""},"categories":{"0":"Officer"},"statistics":{"digest":{"0":{"edgeType":"has similar name and address as","nodeCategories":{"0":"Officer"},"nodes":1,"edges":1},"1":{"edgeType":"registered address","nodeCategories":{"0":"Address"},"nodes":1,"edges":1},"2":{"edgeType":"is officer of","nodeCategories":{"0":"Company"},"nodes":3,"edges":5}},"edgeCount":7,"visibleEdgeCount":6,"hiddenEdgeCount":1}},"label":"Sheikh Hamad Bibkhalifa Binhamad Al-Thani","x":72.582,"y":55.017,"fixed":true,"size":1,"glyphs":{"0":{"draw":true,"position":"top-right","content":"1"}},"active":false,"color":"#be4400","icon":{"font":"FontAwesome","scale":1,"color":"#fff","content":""},"fa2_x":72.582,"fa2_y":55.017,"colors":{"0":"#be4400"},"read_cam0:size":5,"read_cam0:x":72.582,"read_cam0:y":55.017,"renderer1:x":1337.7652563542508,"renderer1:y":482.7488796046807,"renderer1:size":6.15827734317735},{"id":464829,"nodelink":{"x":76.073,"y":-27.039,"fixed":true},"geo":{"latitudeDiff":0,"longitudeDiff":0},"data":{"properties":{"name":"Sheikh Hamad Jassim J.M. Al-Thani","certificateNumber":"6","numbershares":"25","classofshares":"","dateofissue":"16-09-2013","ceasedmembership":"","transferdate":"","sharestransferred":"","newcertificate":"","custodianname":"","custodianaddress":"","citizenship":"NO","pep":"NO","rst":"NOT NEGATIVE RESULT(SEARCHES CONDUCTED)","registerlocation":""},"categories":{"0":"Officer"},"statistics":{"digest":{"0":{"edgeType":"has similar name and address as","nodeCategories":{"0":"Officer"},"nodes":1,"edges":1},"1":{"edgeType":"registered address","nodeCategories":{"0":"Address"},"nodes":1,"edges":1},"2":{"edgeType":"is officer of","nodeCategories":{"0":"Company"},"nodes":8,"edges":10}},"edgeCount":12,"visibleEdgeCount":12,"hiddenEdgeCount":0}},"label":"Sheikh Hamad Jassim J.M. Al-Thani","x":76.073,"y":-27.039,"fixed":true,"size":1,"glyphs":{"0":{"draw":false,"position":"top-right","content":"0"}},"active":false,"color":"#be4400","icon":{"font":"FontAwesome","scale":1,"color":"#fff","content":""},"fa2_x":76.073,"fa2_y":-27.039,"colors":{"0":"#be4400"},"read_cam0:size":5,"read_cam0:x":76.073,"read_cam0:y":-27.039,"renderer1:x":1342.294872480322,"renderer1:y":376.28019417331467,"renderer1:size":6.15827734317735},{"id":586404,"nodelink":{"x":-176.205,"y":11.37,"fixed":true},"geo":{"latitudeDiff":0,"longitudeDiff":0},"data":{"properties":{"name":"WILDGEN & PARTNERS","status":"ACTIVE","client_number":"28369","client_name":"WILDGEN & PARTNERS","prospect_date":"","active_since":"22-FEB-2010","country":"LUXEMBOURG","city":"LUXEMBOURG CITY","former_name":"","cross_reference":"WILDGEN & PARTNERS (FORMER REP OFFICE CLIENT)","activity":"","classification":"","subclassification":"","region":"","compliance_classification":""},"categories":{"0":"Client"},"statistics":{"digest":{"0":{"edgeType":"registered","nodeCategories":{"0":"Company"},"nodes":74,"edges":74}},"edgeCount":74,"visibleEdgeCount":4,"hiddenEdgeCount":70}},"label":"WILDGEN & PARTNERS","x":-176.205,"y":11.37,"fixed":true,"size":1,"glyphs":{"0":{"draw":true,"position":"top-right","content":"70"}},"active":false,"color":"#851d00","icon":{"font":"FontAwesome","scale":1,"color":"#fff","content":""},"fa2_x":-176.205,"fa2_y":11.37,"colors":{"0":"#851d00"},"read_cam0:size":5,"read_cam0:x":-176.205,"read_cam0:y":11.37,"renderer1:x":1014.9610148312267,"renderer1:y":426.11635166007176,"renderer1:size":6.15827734317735},{"id":226781,"nodelink":{"x":-2.491,"y":-59.338,"fixed":true},"geo":{"latitudeDiff":0,"longitudeDiff":0},"selected":true,"data":{"properties":{"file_number":"64160","jurisdiction":"PMA","name":"YALIS S.A.","status":"ACT","inactivationDate":"","struck_off_date":"","registrationDate":"30-SEP-2011"},"categories":{"0":"Company"},"statistics":{"digest":{"0":{"edgeType":"is officer of","nodeCategories":{"0":"Officer"},"nodes":9,"edges":11},"1":{"edgeType":"registered","nodeCategories":{"0":"Client"},"nodes":1,"edges":1}},"edgeCount":12,"visibleEdgeCount":12,"hiddenEdgeCount":0}},"label":"YALIS S.A.","x":-2.491,"y":-59.338,"fixed":true,"size":1,"glyphs":{"0":{"draw":false,"position":"top-right","content":"0"}},"active":false,"color":"#420e00","icon":{"font":"FontAwesome","scale":1,"color":"#fff","content":""},"fa2_x":-2.491,"fa2_y":-59.338,"colors":{"0":"#420e00"},"read_cam0:size":5,"read_cam0:x":-2.491,"read_cam0:y":-59.338,"renderer1:x":1240.357100687524,"renderer1:y":334.3718380415547,"renderer1:size":6.15827734317735},{"id":535279,"nodelink":{"x":232.329,"y":-14.818,"fixed":true},"geo":{"latitudeDiff":0,"longitudeDiff":0},"data":{"properties":{"name":"Doha<br/>Al Wajba Palace<br/>Qatar"},"categories":{"0":"Address"},"statistics":{"digest":{"0":{"edgeType":"registered address","nodeCategories":{"0":"Officer"},"nodes":4,"edges":4}},"edgeCount":4,"visibleEdgeCount":4,"hiddenEdgeCount":0}},"label":"Doha<br/>Al Wajba Palace<br/>Qatar","x":232.329,"y":-14.818,"fixed":true,"size":1,"glyphs":{"0":{"draw":false,"position":"top-right","content":"0"}},"active":false,"color":"#937c6f","icon":{"font":"FontAwesome","scale":1,"color":"#fff","content":""},"fa2_x":232.329,"fa2_y":-14.818,"colors":{"0":"#937c6f"},"read_cam0:size":5,"read_cam0:x":232.329,"read_cam0:y":-14.818,"renderer1:x":1545.0389851687733,"renderer1:y":392.13709439580566,"renderer1:size":6.15827734317735},{"id":117432,"nodelink":{"x":-18.204,"y":99.537,"fixed":true},"geo":{"latitudeDiff":0,"longitudeDiff":0},"data":{"properties":{"file_number":"61335","jurisdiction":"PMA","name":"KNIBOS CONSULTING S.A.","status":"ACT","inactivationDate":"","struck_off_date":"","registrationDate":"07-FEB-2011"},"categories":{"0":"Company"},"statistics":{"digest":{"0":{"edgeType":"is officer of","nodeCategories":{"0":"Officer"},"nodes":5,"edges":5},"1":{"edgeType":"registered","nodeCategories":{"0":"Client"},"nodes":1,"edges":1}},"edgeCount":6,"visibleEdgeCount":6,"hiddenEdgeCount":0}},"label":"KNIBOS CONSULTING S.A.","x":-18.204,"y":99.537,"fixed":true,"size":1,"glyphs":{"0":{"draw":false,"position":"top-right","content":"0"}},"active":false,"color":"#420e00","icon":{"font":"FontAwesome","scale":1,"color":"#fff","content":""},"fa2_x":-18.204,"fa2_y":99.537,"colors":{"0":"#420e00"},"read_cam0:size":5,"read_cam0:x":-18.204,"read_cam0:y":99.537,"renderer1:x":1219.969286826465,"renderer1:y":540.5141359589317,"renderer1:size":6.15827734317735},{"id":462902,"nodelink":{"x":130.195,"y":104.774,"fixed":true},"geo":{"latitudeDiff":0,"longitudeDiff":0},"data":{"properties":{"name":"THE BEARER","certificateNumber":"1","numbershares":"1","classofshares":"","dateofissue":"08-02-2011","ceasedmembership":"","transferdate":"","sharestransferred":"","newcertificate":"","custodianname":"","custodianaddress":"","citizenship":"NO","pep":"NO","rst":"NOT NEGATIVE RESULT","registerlocation":""},"categories":{"0":"Officer"},"statistics":{"digest":{"0":{"edgeType":"is officer of","nodeCategories":{"0":"Company"},"nodes":1,"edges":1}},"edgeCount":1,"visibleEdgeCount":1,"hiddenEdgeCount":0}},"label":"THE BEARER","x":130.195,"y":104.774,"fixed":true,"size":1,"glyphs":{"0":{"draw":false,"position":"top-right","content":"0"}},"active":false,"color":"#be4400","icon":{"font":"FontAwesome","scale":1,"color":"#fff","content":""},"fa2_x":130.195,"fa2_y":104.774,"colors":{"0":"#be4400"},"read_cam0:size":5,"read_cam0:x":130.195,"read_cam0:y":104.774,"renderer1:x":1412.5188438281382,"renderer1:y":547.3092089042868,"renderer1:size":6.15827734317735},{"id":462903,"nodelink":{"x":129.323,"y":74.221,"fixed":true},"geo":{"latitudeDiff":0,"longitudeDiff":0},"data":{"properties":{"name":"THE BEARER","certificateNumber":"2","numbershares":"1","classofshares":"","dateofissue":"08-02-2011","ceasedmembership":"","transferdate":"","sharestransferred":"","newcertificate":"","custodianname":"","custodianaddress":"","citizenship":"NO","pep":"NO","rst":"NOT NEGATIVE RESULT","registerlocation":""},"categories":{"0":"Officer"},"statistics":{"digest":{"0":{"edgeType":"is officer of","nodeCategories":{"0":"Company"},"nodes":1,"edges":1}},"edgeCount":1,"visibleEdgeCount":1,"hiddenEdgeCount":0}},"label":"THE BEARER","x":129.323,"y":74.221,"fixed":true,"size":1,"glyphs":{"0":{"draw":false,"position":"top-right","content":"0"}},"active":false,"color":"#be4400","icon":{"font":"FontAwesome","scale":1,"color":"#fff","content":""},"fa2_x":129.323,"fa2_y":74.221,"colors":{"0":"#be4400"},"read_cam0:size":5,"read_cam0:x":129.323,"read_cam0:y":74.221,"renderer1:x":1411.387412930993,"renderer1:y":507.6663095918109,"renderer1:size":6.15827734317735},{"id":462904,"nodelink":{"x":128.45,"y":58.508,"fixed":true},"geo":{"latitudeDiff":0,"longitudeDiff":0},"data":{"properties":{"name":"THE BEARER","certificateNumber":"3","numbershares":"1","classofshares":"","dateofissue":"08-02-2011","ceasedmembership":"","transferdate":"","sharestransferred":"","newcertificate":"","custodianname":"","custodianaddress":"","citizenship":"NO","pep":"NO","rst":"NOT NEGATIVE RESULT","registerlocation":""},"categories":{"0":"Officer"},"statistics":{"digest":{"0":{"edgeType":"is officer of","nodeCategories":{"0":"Company"},"nodes":1,"edges":1}},"edgeCount":1,"visibleEdgeCount":1,"hiddenEdgeCount":0}},"label":"THE BEARER","x":128.45,"y":58.508,"fixed":true,"size":1,"glyphs":{"0":{"draw":false,"position":"top-right","content":"0"}},"active":false,"color":"#be4400","icon":{"font":"FontAwesome","scale":1,"color":"#fff","content":""},"fa2_x":128.45,"fa2_y":58.508,"colors":{"0":"#be4400"},"read_cam0:size":5,"read_cam0:x":128.45,"read_cam0:y":58.508,"renderer1:x":1410.254684521351,"renderer1:y":487.27849573075196,"renderer1:size":6.15827734317735},{"id":462905,"nodelink":{"x":128.45,"y":89.934,"fixed":true},"geo":{"latitudeDiff":0,"longitudeDiff":0},"data":{"properties":{"name":"THE BEARER","certificateNumber":"4","numbershares":"1","classofshares":"","dateofissue":"08-02-2011","ceasedmembership":"","transferdate":"","sharestransferred":"","newcertificate":"","custodianname":"","custodianaddress":"","citizenship":"NO","pep":"NO","rst":"NOT NEGATIVE RESULT","registerlocation":""},"categories":{"0":"Officer"},"statistics":{"digest":{"0":{"edgeType":"is officer of","nodeCategories":{"0":"Company"},"nodes":1,"edges":1}},"edgeCount":1,"visibleEdgeCount":1,"hiddenEdgeCount":0}},"label":"THE BEARER","x":128.45,"y":89.934,"fixed":true,"size":1,"glyphs":{"0":{"draw":false,"position":"top-right","content":"0"}},"active":false,"color":"#be4400","icon":{"font":"FontAwesome","scale":1,"color":"#fff","content":""},"fa2_x":128.45,"fa2_y":89.934,"colors":{"0":"#be4400"},"read_cam0:size":5,"read_cam0:x":128.45,"read_cam0:y":89.934,"renderer1:x":1410.254684521351,"renderer1:y":528.0541234528698,"renderer1:size":6.15827734317735},{"id":465033,"nodelink":{"x":154.638,"y":-72.432,"fixed":true},"geo":{"latitudeDiff":0,"longitudeDiff":0},"data":{"properties":{"name":"THE BEARER","certificateNumber":"1","numbershares":"1","classofshares":"","dateofissue":"01-10-2011","ceasedmembership":"26-07-2013","transferdate":"","sharestransferred":"","newcertificate":"","custodianname":"","custodianaddress":"","citizenship":"NO","pep":"NO","rst":"NOT NEGATIVE RESULT","registerlocation":""},"categories":{"0":"Officer"},"statistics":{"digest":{"0":{"edgeType":"is officer of","nodeCategories":{"0":"Company"},"nodes":1,"edges":1}},"edgeCount":1,"visibleEdgeCount":1,"hiddenEdgeCount":0}},"label":"THE BEARER","x":154.638,"y":-72.432,"fixed":true,"size":1,"glyphs":{"0":{"draw":false,"position":"top-right","content":"0"}},"active":false,"color":"#be4400","icon":{"font":"FontAwesome","scale":1,"color":"#fff","content":""},"fa2_x":154.638,"fa2_y":-72.432,"colors":{"0":"#be4400"},"read_cam0:size":5,"read_cam0:x":154.638,"read_cam0:y":-72.432,"renderer1:x":1444.233941785617,"renderer1:y":317.3822094094217,"renderer1:size":6.15827734317735},{"id":465034,"nodelink":{"x":157.257,"y":-38.387,"fixed":true},"geo":{"latitudeDiff":0,"longitudeDiff":0},"data":{"properties":{"name":"THE BEARER","certificateNumber":"2","numbershares":"1","classofshares":"","dateofissue":"01-10-2011","ceasedmembership":"26-07-2013","transferdate":"","sharestransferred":"","newcertificate":"","custodianname":"","custodianaddress":"","citizenship":"NO","pep":"NO","rst":"NOT NEGATIVE RESULT","registerlocation":""},"categories":{"0":"Officer"},"statistics":{"digest":{"0":{"edgeType":"is officer of","nodeCategories":{"0":"Company"},"nodes":1,"edges":1}},"edgeCount":1,"visibleEdgeCount":1,"hiddenEdgeCount":0}},"label":"THE BEARER","x":157.257,"y":-38.387,"fixed":true,"size":1,"glyphs":{"0":{"draw":false,"position":"top-right","content":"0"}},"active":false,"color":"#be4400","icon":{"font":"FontAwesome","scale":1,"color":"#fff","content":""},"fa2_x":157.257,"fa2_y":-38.387,"colors":{"0":"#be4400"},"read_cam0:size":5,"read_cam0:x":157.257,"read_cam0:y":-38.387,"renderer1:x":1447.632127014543,"renderer1:y":361.5560223604656,"renderer1:size":6.15827734317735},{"id":465035,"nodelink":{"x":153.765,"y":-89.891,"fixed":true},"geo":{"latitudeDiff":0,"longitudeDiff":0},"data":{"properties":{"name":"THE BEARER","certificateNumber":"3","numbershares":"1","classofshares":"","dateofissue":"01-10-2011","ceasedmembership":"26-07-2013","transferdate":"","sharestransferred":"","newcertificate":"","custodianname":"","custodianaddress":"","citizenship":"NO","pep":"NO","rst":"NOT NEGATIVE RESULT","registerlocation":""},"categories":{"0":"Officer"},"statistics":{"digest":{"0":{"edgeType":"is officer of","nodeCategories":{"0":"Company"},"nodes":1,"edges":1}},"edgeCount":1,"visibleEdgeCount":1,"hiddenEdgeCount":0}},"label":"THE BEARER","x":153.765,"y":-89.891,"fixed":true,"size":1,"glyphs":{"0":{"draw":false,"position":"top-right","content":"0"}},"active":false,"color":"#be4400","icon":{"font":"FontAwesome","scale":1,"color":"#fff","content":""},"fa2_x":153.765,"fa2_y":-89.891,"colors":{"0":"#be4400"},"read_cam0:size":5,"read_cam0:x":153.765,"read_cam0:y":-89.891,"renderer1:x":1443.101213375975,"renderer1:y":294.7289387290788,"renderer1:size":6.15827734317735},{"id":465036,"nodelink":{"x":157.257,"y":-56.719,"fixed":true},"geo":{"latitudeDiff":0,"longitudeDiff":0},"data":{"properties":{"name":"THE BEARER","certificateNumber":"4","numbershares":"1","classofshares":"","dateofissue":"01-10-2011","ceasedmembership":"26-07-2013","transferdate":"","sharestransferred":"","newcertificate":"","custodianname":"","custodianaddress":"","citizenship":"NO","pep":"NO","rst":"NOT NEGATIVE RESULT","registerlocation":""},"categories":{"0":"Officer"},"statistics":{"digest":{"0":{"edgeType":"is officer of","nodeCategories":{"0":"Company"},"nodes":1,"edges":1}},"edgeCount":1,"visibleEdgeCount":1,"hiddenEdgeCount":0}},"label":"THE BEARER","x":157.257,"y":-56.719,"fixed":true,"size":1,"glyphs":{"0":{"draw":false,"position":"top-right","content":"0"}},"active":false,"color":"#be4400","icon":{"font":"FontAwesome","scale":1,"color":"#fff","content":""},"fa2_x":157.257,"fa2_y":-56.719,"colors":{"0":"#be4400"},"read_cam0:size":5,"read_cam0:x":157.257,"read_cam0:y":-56.719,"renderer1:x":1447.632127014543,"renderer1:y":337.7700232704807,"renderer1:size":6.15827734317735},{"id":62330,"nodelink":{"x":-21.695,"y":118.741,"fixed":true},"geo":{"latitudeDiff":0,"longitudeDiff":0},"data":{"properties":{"file_number":"61422","jurisdiction":"PMA","name":"NOTART CONSULTING S.A.","status":"ACT","inactivationDate":"","struck_off_date":"","registrationDate":"09-FEB-2011"},"categories":{"0":"Company"},"statistics":{"digest":{"0":{"edgeType":"is officer of","nodeCategories":{"0":"Officer"},"nodes":5,"edges":5},"1":{"edgeType":"registered","nodeCategories":{"0":"Client"},"nodes":1,"edges":1}},"edgeCount":6,"visibleEdgeCount":6,"hiddenEdgeCount":0}},"label":"NOTART CONSULTING S.A.","x":-21.695,"y":118.741,"fixed":true,"size":1,"glyphs":{"0":{"draw":false,"position":"top-right","content":"0"}},"active":false,"color":"#420e00","icon":{"font":"FontAwesome","scale":1,"color":"#fff","content":""},"fa2_x":-21.695,"fa2_y":118.741,"colors":{"0":"#420e00"},"read_cam0:size":5,"read_cam0:x":-21.695,"read_cam0:y":118.741,"renderer1:x":1215.439670700394,"renderer1:y":565.4315659460618,"renderer1:size":6.15827734317735},{"id":463062,"nodelink":{"x":120.593,"y":136.2,"fixed":true},"geo":{"latitudeDiff":0,"longitudeDiff":0},"data":{"properties":{"name":"THE BEARER","certificateNumber":"1","numbershares":"1","classofshares":"","dateofissue":"10-02-2011","ceasedmembership":"","transferdate":"","sharestransferred":"","newcertificate":"","custodianname":"","custodianaddress":"","citizenship":"NO","pep":"NO","rst":"NOT NEGATIVE RESULT","registerlocation":""},"categories":{"0":"Officer"},"statistics":{"digest":{"0":{"edgeType":"is officer of","nodeCategories":{"0":"Company"},"nodes":1,"edges":1}},"edgeCount":1,"visibleEdgeCount":1,"hiddenEdgeCount":0}},"label":"THE BEARER","x":120.593,"y":136.2,"fixed":true,"size":1,"glyphs":{"0":{"draw":false,"position":"top-right","content":"0"}},"active":false,"color":"#be4400","icon":{"font":"FontAwesome","scale":1,"color":"#fff","content":""},"fa2_x":120.593,"fa2_y":136.2,"colors":{"0":"#be4400"},"read_cam0:size":5,"read_cam0:x":120.593,"read_cam0:y":136.2,"renderer1:x":1400.060128834573,"renderer1:y":588.0848366264048,"renderer1:size":6.15827734317735},{"id":463063,"nodelink":{"x":120.593,"y":151.913,"fixed":true},"geo":{"latitudeDiff":0,"longitudeDiff":0},"data":{"properties":{"name":"THE BEARER","certificateNumber":"2","numbershares":"1","classofshares":"","dateofissue":"10-02-2011","ceasedmembership":"","transferdate":"","sharestransferred":"","newcertificate":"","custodianname":"","custodianaddress":"","citizenship":"NO","pep":"NO","rst":"NOT NEGATIVE RESULT","registerlocation":""},"categories":{"0":"Officer"},"statistics":{"digest":{"0":{"edgeType":"is officer of","nodeCategories":{"0":"Company"},"nodes":1,"edges":1}},"edgeCount":1,"visibleEdgeCount":1,"hiddenEdgeCount":0}},"label":"THE BEARER","x":120.593,"y":151.913,"fixed":true,"size":1,"glyphs":{"0":{"draw":false,"position":"top-right","content":"0"}},"active":false,"color":"#be4400","icon":{"font":"FontAwesome","scale":1,"color":"#fff","content":""},"fa2_x":120.593,"fa2_y":151.913,"colors":{"0":"#be4400"},"read_cam0:size":5,"read_cam0:x":120.593,"read_cam0:y":151.913,"renderer1:x":1400.060128834573,"renderer1:y":608.4726504874639,"renderer1:size":6.15827734317735},{"id":463064,"nodelink":{"x":122.339,"y":185.084,"fixed":true},"geo":{"latitudeDiff":0,"longitudeDiff":0},"data":{"properties":{"name":"THE BEARER","certificateNumber":"3","numbershares":"1","classofshares":"","dateofissue":"10-02-2011","ceasedmembership":"","transferdate":"","sharestransferred":"","newcertificate":"","custodianname":"","custodianaddress":"","citizenship":"NO","pep":"NO","rst":"NOT NEGATIVE RESULT","registerlocation":""},"categories":{"0":"Officer"},"statistics":{"digest":{"0":{"edgeType":"is officer of","nodeCategories":{"0":"Company"},"nodes":1,"edges":1}},"edgeCount":1,"visibleEdgeCount":1,"hiddenEdgeCount":0}},"label":"THE BEARER","x":122.339,"y":185.084,"fixed":true,"size":1,"glyphs":{"0":{"draw":false,"position":"top-right","content":"0"}},"active":false,"color":"#be4400","icon":{"font":"FontAwesome","scale":1,"color":"#fff","content":""},"fa2_x":122.339,"fa2_y":185.084,"colors":{"0":"#be4400"},"read_cam0:size":5,"read_cam0:x":122.339,"read_cam0:y":185.084,"renderer1:x":1402.3255856538572,"renderer1:y":651.5124375163689,"renderer1:size":6.15827734317735},{"id":463065,"nodelink":{"x":121.466,"y":167.626,"fixed":true},"geo":{"latitudeDiff":0,"longitudeDiff":0},"data":{"properties":{"name":"THE BEARER","certificateNumber":"4","numbershares":"1","classofshares":"","dateofissue":"10-02-2011","ceasedmembership":"","transferdate":"","sharestransferred":"","newcertificate":"","custodianname":"","custodianaddress":"","citizenship":"NO","pep":"NO","rst":"NOT NEGATIVE RESULT","registerlocation":""},"categories":{"0":"Officer"},"statistics":{"digest":{"0":{"edgeType":"is officer of","nodeCategories":{"0":"Company"},"nodes":1,"edges":1}},"edgeCount":1,"visibleEdgeCount":1,"hiddenEdgeCount":0}},"label":"THE BEARER","x":121.466,"y":167.626,"fixed":true,"size":1,"glyphs":{"0":{"draw":false,"position":"top-right","content":"0"}},"active":false,"color":"#be4400","icon":{"font":"FontAwesome","scale":1,"color":"#fff","content":""},"fa2_x":121.466,"fa2_y":167.626,"colors":{"0":"#be4400"},"read_cam0:size":5,"read_cam0:x":121.466,"read_cam0:y":167.626,"renderer1:x":1401.192857244215,"renderer1:y":628.8604643485228,"renderer1:size":6.15827734317735},{"id":652036,"nodelink":{"x":158.129,"y":-7.835,"fixed":true},"geo":{"latitudeDiff":0,"longitudeDiff":0},"data":{"properties":{"name":"Sheikh Hamad Jassim J.M. Al-Thani","citizenship":"NO","pep":"NO","passport_copy":"N"},"categories":{"0":"Officer"},"statistics":{"digest":{"0":{"edgeType":"has similar name and address as","nodeCategories":{"0":"Officer"},"nodes":1,"edges":1},"1":{"edgeType":"registered address","nodeCategories":{"0":"Address"},"nodes":1,"edges":1},"2":{"edgeType":"is officer of","nodeCategories":{"0":"Company"},"nodes":1,"edges":1}},"edgeCount":3,"visibleEdgeCount":3,"hiddenEdgeCount":0}},"label":"Sheikh Hamad Jassim J.M. Al-Thani","x":158.129,"y":-7.835,"fixed":true,"size":1,"glyphs":{"0":{"draw":false,"position":"top-right","content":"0"}},"active":false,"color":"#be4400","icon":{"font":"FontAwesome","scale":1,"color":"#fff","content":""},"fa2_x":158.129,"fa2_y":-7.835,"colors":{"0":"#be4400"},"read_cam0:size":5,"read_cam0:x":158.129,"read_cam0:y":-7.835,"renderer1:x":1448.7635579116882,"renderer1:y":401.19762416044483,"renderer1:size":6.15827734317735},{"id":653905,"nodelink":{"x":156.384,"y":-22.675,"fixed":true},"geo":{"latitudeDiff":0,"longitudeDiff":0},"data":{"properties":{"name":"Sheikh Hamad Bibkhalifa Binhamad Al-Thani","citizenship":"NO","pep":"NO","passport_copy":"N"},"categories":{"0":"Officer"},"statistics":{"digest":{"0":{"edgeType":"has similar name and address as","nodeCategories":{"0":"Officer"},"nodes":1,"edges":1},"1":{"edgeType":"registered address","nodeCategories":{"0":"Address"},"nodes":1,"edges":1},"2":{"edgeType":"is officer of","nodeCategories":{"0":"Company"},"nodes":1,"edges":1}},"edgeCount":3,"visibleEdgeCount":3,"hiddenEdgeCount":0}},"label":"Sheikh Hamad Bibkhalifa Binhamad Al-Thani","x":156.384,"y":-22.675,"fixed":true,"size":1,"glyphs":{"0":{"draw":false,"position":"top-right","content":"0"}},"active":false,"color":"#be4400","icon":{"font":"FontAwesome","scale":1,"color":"#fff","content":""},"fa2_x":156.384,"fa2_y":-22.675,"colors":{"0":"#be4400"},"read_cam0:size":5,"read_cam0:x":156.384,"read_cam0:y":-22.675,"renderer1:x":1446.499398604901,"renderer1:y":381.9425387090278,"renderer1:size":6.15827734317735},{"id":417090,"data":{"properties":{"name":"HH Sheikh Hamad Bin Khalifa Bin Hamad al Thani","certificateNumber":"1","numbershares":"1","classofshares":"ORDINARY","dateofissue":"02-01-2014","ceasedmembership":"","transferdate":"","sharestransferred":"","newcertificate":"","custodianname":"","custodianaddress":"","citizenship":"NO","pep":"NO","rst":"NOT NEGATIVE RESULT(SEARCHES CONDUCTED)","registerlocation":"L 2320 Luxembourg   67   boulevard de la Petrusse"},"categories":{"0":"Officer"},"statistics":{"digest":{"0":{"edgeType":"registered address","nodeCategories":{"0":"Address"},"nodes":1,"edges":1},"1":{"edgeType":"is officer of","nodeCategories":{"0":"Company"},"nodes":3,"edges":4}},"edgeCount":5,"visibleEdgeCount":2,"hiddenEdgeCount":3}},"x":-2.7744836807250977,"y":-0.14133496582508087,"label":"HH Sheikh Hamad Bin Khalifa Bin Hamad al Thani","size":1,"glyphs":{"0":{"draw":true,"position":"top-right","content":"3"}},"color":"#be4400","icon":{"font":"FontAwesome","scale":1,"color":"#fff","content":""},"fa2_x":-2.7744836807250977,"fa2_y":-0.14133496582508087,"active":false,"colors":{"0":"#be4400"},"read_cam0:size":5,"read_cam0:x":-2.7744836807250977,"read_cam0:y":-0.14133496582508087,"renderer1:x":1239.9892770691652,"renderer1:y":411.1802506879123,"renderer1:size":6.15827734317735}],"edges":[{"id":689942,"source":582818,"target":173963,"data":{"properties":{},"type":"registered"},"label":"registered","size":1,"active":false,"color":"#8a6960","hover":false,"read_cam0:size":2,"renderer1:size":2.46331093727094},{"id":784206,"source":582818,"target":1314,"data":{"properties":{},"type":"registered"},"label":"registered","size":1,"active":false,"color":"#8a6960","hover":false,"read_cam0:size":2,"renderer1:size":2.46331093727094},{"id":787070,"source":582818,"target":8131,"data":{"properties":{},"type":"registered"},"label":"registered","size":1,"active":false,"color":"#8a6960","hover":false,"read_cam0:size":2,"renderer1:size":2.46331093727094},{"id":787327,"source":582818,"target":280700,"data":{"properties":{},"type":"registered"},"label":"registered","size":1,"active":false,"color":"#8a6960","hover":false,"read_cam0:size":2,"renderer1:size":2.46331093727094},{"id":241640,"source":464829,"target":535279,"data":{"properties":{},"type":"registered address"},"label":"registered address","size":1,"active":false,"color":"#baaba3","hover":false,"read_cam0:size":2,"renderer1:size":2.46331093727094},{"id":762043,"source":586404,"target":62330,"data":{"properties":{},"type":"registered"},"label":"registered","size":1,"active":false,"color":"#8a6960","hover":false,"read_cam0:size":2,"renderer1:size":2.46331093727094},{"id":763379,"source":586404,"target":226781,"data":{"properties":{},"type":"registered"},"label":"registered","size":1,"active":false,"color":"#8a6960","hover":false,"read_cam0:size":2,"renderer1:size":2.46331093727094},{"id":764892,"source":586404,"target":190927,"data":{"properties":{},"type":"registered"},"label":"registered","size":1,"active":false,"color":"#8a6960","hover":false,"read_cam0:size":2,"renderer1:size":2.46331093727094},{"id":769433,"source":586404,"target":117432,"data":{"properties":{},"type":"registered"},"label":"registered","size":1,"active":false,"color":"#8a6960","hover":false,"read_cam0:size":2,"renderer1:size":2.46331093727094},{"id":826955,"source":464828,"target":535279,"data":{"properties":{},"type":"registered address"},"label":"registered address","size":1,"active":false,"color":"#baaba3","hover":false,"read_cam0:size":2,"renderer1:size":2.46331093727094},{"id":327779,"source":652036,"target":535279,"data":{"properties":{},"type":"registered address"},"label":"registered address","size":1,"active":false,"color":"#baaba3","read_cam0:size":2,"renderer1:size":2.46331093727094},{"id":330718,"source":653905,"target":535279,"data":{"properties":{},"type":"registered address"},"label":"registered address","size":1,"active":false,"color":"#baaba3","read_cam0:size":2,"renderer1:size":2.46331093727094},{"id":841342,"source":464829,"target":652036,"data":{"properties":{"simil":1},"type":"has similar name and address as"},"label":"has similar name and address as","size":1,"active":false,"color":"#d48a60","read_cam0:size":2,"renderer1:size":2.46331093727094},{"id":879410,"source":464828,"target":653905,"data":{"properties":{"simil":1},"type":"has similar name and address as"},"label":"has similar name and address as","size":1,"active":false,"color":"#d48a60","hover":false,"read_cam0:size":2,"renderer1:size":2.46331093727094},{"id":51088,"source":652036,"target":226781,"data":{"properties":{"name":"Beneficiay"},"type":"is officer of"},"label":"Beneficiay","size":1,"color":"#d48a60","active":false,"hover":false,"read_cam0:size":2,"renderer1:size":2.46331093727094},{"id":54813,"source":653905,"target":226781,"data":{"properties":{"name":"Beneficiay"},"type":"is officer of"},"label":"Beneficiay","size":1,"color":"#d48a60","active":false,"hover":false,"read_cam0:size":2,"renderer1:size":2.46331093727094},{"id":68487,"source":464829,"target":280700,"data":{"properties":{"name":"Director / Beneficial Owner"},"type":"is officer of"},"label":"Director / Beneficial Owner","size":1,"color":"#d48a60","active":false,"hover":false,"read_cam0:size":2,"renderer1:size":2.46331093727094},{"id":68488,"source":464829,"target":8131,"data":{"properties":{"name":"Director / Beneficial Owner"},"type":"is officer of"},"label":"Director / Beneficial Owner","size":1,"color":"#d48a60","active":false,"hover":false,"read_cam0:size":2,"renderer1:size":2.46331093727094},{"id":68489,"source":464829,"target":173963,"data":{"properties":{"name":"Director / Beneficial Owner"},"type":"is officer of"},"label":"Director / Beneficial Owner","size":1,"color":"#d48a60","active":false,"hover":false,"read_cam0:size":2,"renderer1:size":2.46331093727094},{"id":68490,"source":464829,"target":1314,"data":{"properties":{"name":"Director / Beneficial Owner"},"type":"is officer of"},"label":"Director / Beneficial Owner","size":1,"color":"#d48a60","active":false,"hover":false,"read_cam0:size":2,"renderer1:size":2.46331093727094},{"id":68491,"source":464829,"target":117432,"data":{"properties":{"name":"Power of Attorney"},"type":"is officer of"},"label":"Power of Attorney","size":1,"color":"#d48a60","hover":false,"active":false,"read_cam0:size":2,"renderer1:size":2.46331093727094},{"id":68492,"source":464829,"target":190927,"data":{"properties":{"name":"Power of Attorney"},"type":"is officer of"},"label":"Power of Attorney","size":1,"type":"curvedArrow","cc":{"y":null},"color":"#d48a60","active":false,"hover":false,"read_cam0:size":2,"renderer1:size":2.46331093727094},{"id":68493,"source":464829,"target":62330,"data":{"properties":{"name":"Power of Attorney"},"type":"is officer of"},"label":"Power of Attorney","size":1,"color":"#d48a60","hover":false,"active":false,"read_cam0:size":2,"renderer1:size":2.46331093727094},{"id":68494,"source":464829,"target":226781,"data":{"properties":{"name":"Power of Attorney / Shareholder"},"type":"is officer of"},"label":"Power of Attorney / Shareholder","size":1,"type":"curvedArrow","cc":{"y":null},"color":"#d48a60","active":false,"read_cam0:size":2,"renderer1:size":2.46331093727094},{"id":68570,"source":464828,"target":190927,"data":{"properties":{"name":"Owner"},"type":"is officer of"},"label":"Owner","size":1,"type":"curvedArrow","cc":{"y":null},"color":"#d48a60","active":false,"read_cam0:size":2,"renderer1:size":2.46331093727094},{"id":68571,"source":464828,"target":226781,"data":{"properties":{"name":"Owner"},"type":"is officer of"},"label":"Owner","size":1,"type":"curvedArrow","cc":{"y":null},"color":"#d48a60","active":false,"hover":false,"read_cam0:size":2,"renderer1:size":2.46331093727094},{"id":68573,"source":417090,"target":190927,"data":{"properties":{"name":"Owner"},"type":"is officer of"},"label":"Owner","size":1,"color":"#d48a60","active":false,"read_cam0:size":2,"renderer1:size":2.46331093727094},{"id":68574,"source":417090,"target":226781,"data":{"properties":{"name":"Owner"},"type":"is officer of"},"label":"Owner","size":1,"color":"#d48a60","active":false,"read_cam0:size":2,"renderer1:size":2.46331093727094},{"id":450557,"source":464828,"target":190927,"data":{"properties":{"name":"Shareholder"},"type":"is officer of"},"label":"Shareholder","size":1,"type":"curvedArrow","cc":{"y":2},"color":"#d48a60","hover":false,"active":false,"read_cam0:size":2,"renderer1:size":2.46331093727094},{"id":450561,"source":464829,"target":190927,"data":{"properties":{"name":"Shareholder"},"type":"is officer of"},"label":"Shareholder","size":1,"type":"curvedArrow","cc":{"y":2},"color":"#d48a60","active":false,"hover":false,"read_cam0:size":2,"renderer1:size":2.46331093727094},{"id":602503,"source":464828,"target":226781,"data":{"properties":{"name":"Shareholder"},"type":"is officer of"},"label":"Shareholder","size":1,"type":"curvedArrow","cc":{"y":2},"color":"#d48a60","active":false,"hover":false,"read_cam0:size":2,"renderer1:size":2.46331093727094},{"id":602504,"source":464829,"target":226781,"data":{"properties":{"name":"Shareholder"},"type":"is officer of"},"label":"Shareholder","size":1,"type":"curvedArrow","cc":{"y":2},"color":"#d48a60","active":false,"read_cam0:size":2,"renderer1:size":2.46331093727094},{"id":602505,"source":465036,"target":226781,"data":{"properties":{"name":"Shareholder"},"type":"is officer of"},"label":"Shareholder","size":1,"color":"#d48a60","active":false,"hover":false,"read_cam0:size":2,"renderer1:size":2.46331093727094},{"id":602506,"source":465033,"target":226781,"data":{"properties":{"name":"Shareholder"},"type":"is officer of"},"label":"Shareholder","size":1,"color":"#d48a60","active":false,"read_cam0:size":2,"renderer1:size":2.46331093727094},{"id":602507,"source":465035,"target":226781,"data":{"properties":{"name":"Shareholder"},"type":"is officer of"},"label":"Shareholder","size":1,"color":"#d48a60","active":false,"read_cam0:size":2,"renderer1:size":2.46331093727094},{"id":602508,"source":465034,"target":226781,"data":{"properties":{"name":"Shareholder"},"type":"is officer of"},"label":"Shareholder","size":1,"color":"#d48a60","active":false,"read_cam0:size":2,"renderer1:size":2.46331093727094},{"id":40185,"source":462903,"target":117432,"data":{"properties":{"name":"Shareholder"},"type":"is officer of"},"label":"Shareholder","size":1,"color":"#d48a60","active":false,"read_cam0:size":2,"renderer1:size":2.46331093727094},{"id":40186,"source":462904,"target":117432,"data":{"properties":{"name":"Shareholder"},"type":"is officer of"},"label":"Shareholder","size":1,"color":"#d48a60","active":false,"read_cam0:size":2,"renderer1:size":2.46331093727094},{"id":40187,"source":462905,"target":117432,"data":{"properties":{"name":"Shareholder"},"type":"is officer of"},"label":"Shareholder","size":1,"color":"#d48a60","active":false,"read_cam0:size":2,"renderer1:size":2.46331093727094},{"id":40188,"source":462902,"target":117432,"data":{"properties":{"name":"Shareholder"},"type":"is officer of"},"label":"Shareholder","size":1,"color":"#d48a60","active":false,"read_cam0:size":2,"renderer1:size":2.46331093727094},{"id":404840,"source":463062,"target":62330,"data":{"properties":{"name":"Shareholder"},"type":"is officer of"},"label":"Shareholder","size":1,"color":"#d48a60","active":false,"read_cam0:size":2,"renderer1:size":2.46331093727094},{"id":404841,"source":463063,"target":62330,"data":{"properties":{"name":"Shareholder"},"type":"is officer of"},"label":"Shareholder","size":1,"color":"#d48a60","active":false,"hover":false,"read_cam0:size":2,"renderer1:size":2.46331093727094},{"id":404842,"source":463064,"target":62330,"data":{"properties":{"name":"Shareholder"},"type":"is officer of"},"label":"Shareholder","size":1,"color":"#d48a60","active":false,"hover":false,"read_cam0:size":2,"renderer1:size":2.46331093727094},{"id":404843,"source":463065,"target":62330,"data":{"properties":{"name":"Shareholder"},"type":"is officer of"},"label":"Shareholder","size":1,"color":"#d48a60","active":false,"hover":false,"read_cam0:size":2,"renderer1:size":2.46331093727094},{"id":450558,"source":464824,"target":190927,"data":{"properties":{"name":"Shareholder"},"type":"is officer of"},"label":"Shareholder","size":1,"color":"#d48a60","read_cam0:size":2,"renderer1:size":2.46331093727094},{"id":450559,"source":464827,"target":190927,"data":{"properties":{"name":"Shareholder"},"type":"is officer of"},"label":"Shareholder","size":1,"color":"#d48a60","hover":false,"read_cam0:size":2,"renderer1:size":2.46331093727094},{"id":450560,"source":464826,"target":190927,"data":{"properties":{"name":"Shareholder"},"type":"is officer of"},"label":"Shareholder","size":1,"color":"#d48a60","read_cam0:size":2,"renderer1:size":2.46331093727094},{"id":450562,"source":464825,"target":190927,"data":{"properties":{"name":"Shareholder"},"type":"is officer of"},"label":"Shareholder","size":1,"color":"#d48a60","hover":false,"read_cam0:size":2,"renderer1:size":2.46331093727094}]}
+{
+  "edges": [
+    {
+      "renderer1:size": 2.46331093727094,
+      "read_cam0:size": 2,
+      "hover": false,
+      "id": 689942,
+      "source": 582818,
+      "target": 173963,
+      "data": {
+        "type": "registered",
+        "properties": {}
+      },
+      "label": "registered",
+      "size": 1,
+      "active": false,
+      "color": "#8a6960"
+    },
+    {
+      "renderer1:size": 2.46331093727094,
+      "read_cam0:size": 2,
+      "hover": false,
+      "id": 784206,
+      "source": 582818,
+      "target": 1314,
+      "data": {
+        "type": "registered",
+        "properties": {}
+      },
+      "label": "registered",
+      "size": 1,
+      "active": false,
+      "color": "#8a6960"
+    },
+    {
+      "renderer1:size": 2.46331093727094,
+      "read_cam0:size": 2,
+      "hover": false,
+      "id": 787070,
+      "source": 582818,
+      "target": 8131,
+      "data": {
+        "type": "registered",
+        "properties": {}
+      },
+      "label": "registered",
+      "size": 1,
+      "active": false,
+      "color": "#8a6960"
+    },
+    {
+      "renderer1:size": 2.46331093727094,
+      "read_cam0:size": 2,
+      "hover": false,
+      "id": 787327,
+      "source": 582818,
+      "target": 280700,
+      "data": {
+        "type": "registered",
+        "properties": {}
+      },
+      "label": "registered",
+      "size": 1,
+      "active": false,
+      "color": "#8a6960"
+    },
+    {
+      "renderer1:size": 2.46331093727094,
+      "read_cam0:size": 2,
+      "hover": false,
+      "id": 241640,
+      "source": 464829,
+      "target": 535279,
+      "data": {
+        "type": "registered address",
+        "properties": {}
+      },
+      "label": "registered address",
+      "size": 1,
+      "active": false,
+      "color": "#baaba3"
+    },
+    {
+      "renderer1:size": 2.46331093727094,
+      "read_cam0:size": 2,
+      "hover": false,
+      "id": 762043,
+      "source": 586404,
+      "target": 62330,
+      "data": {
+        "type": "registered",
+        "properties": {}
+      },
+      "label": "registered",
+      "size": 1,
+      "active": false,
+      "color": "#8a6960"
+    },
+    {
+      "renderer1:size": 2.46331093727094,
+      "read_cam0:size": 2,
+      "hover": false,
+      "id": 763379,
+      "source": 586404,
+      "target": 226781,
+      "data": {
+        "type": "registered",
+        "properties": {}
+      },
+      "label": "registered",
+      "size": 1,
+      "active": false,
+      "color": "#8a6960"
+    },
+    {
+      "renderer1:size": 2.46331093727094,
+      "read_cam0:size": 2,
+      "hover": false,
+      "id": 764892,
+      "source": 586404,
+      "target": 190927,
+      "data": {
+        "type": "registered",
+        "properties": {}
+      },
+      "label": "registered",
+      "size": 1,
+      "active": false,
+      "color": "#8a6960"
+    },
+    {
+      "renderer1:size": 2.46331093727094,
+      "read_cam0:size": 2,
+      "hover": false,
+      "id": 769433,
+      "source": 586404,
+      "target": 117432,
+      "data": {
+        "type": "registered",
+        "properties": {}
+      },
+      "label": "registered",
+      "size": 1,
+      "active": false,
+      "color": "#8a6960"
+    },
+    {
+      "renderer1:size": 2.46331093727094,
+      "read_cam0:size": 2,
+      "hover": false,
+      "id": 826955,
+      "source": 464828,
+      "target": 535279,
+      "data": {
+        "type": "registered address",
+        "properties": {}
+      },
+      "label": "registered address",
+      "size": 1,
+      "active": false,
+      "color": "#baaba3"
+    },
+    {
+      "renderer1:size": 2.46331093727094,
+      "read_cam0:size": 2,
+      "id": 327779,
+      "source": 652036,
+      "target": 535279,
+      "data": {
+        "type": "registered address",
+        "properties": {}
+      },
+      "label": "registered address",
+      "size": 1,
+      "active": false,
+      "color": "#baaba3"
+    },
+    {
+      "renderer1:size": 2.46331093727094,
+      "read_cam0:size": 2,
+      "id": 330718,
+      "source": 653905,
+      "target": 535279,
+      "data": {
+        "type": "registered address",
+        "properties": {}
+      },
+      "label": "registered address",
+      "size": 1,
+      "active": false,
+      "color": "#baaba3"
+    },
+    {
+      "renderer1:size": 2.46331093727094,
+      "read_cam0:size": 2,
+      "id": 841342,
+      "source": 464829,
+      "target": 652036,
+      "data": {
+        "type": "has similar name and address as",
+        "properties": {
+          "simil": 1
+        }
+      },
+      "label": "has similar name and address as",
+      "size": 1,
+      "active": false,
+      "color": "#d48a60"
+    },
+    {
+      "renderer1:size": 2.46331093727094,
+      "read_cam0:size": 2,
+      "hover": false,
+      "id": 879410,
+      "source": 464828,
+      "target": 653905,
+      "data": {
+        "type": "has similar name and address as",
+        "properties": {
+          "simil": 1
+        }
+      },
+      "label": "has similar name and address as",
+      "size": 1,
+      "active": false,
+      "color": "#d48a60"
+    },
+    {
+      "renderer1:size": 2.46331093727094,
+      "read_cam0:size": 2,
+      "hover": false,
+      "id": 51088,
+      "source": 652036,
+      "target": 226781,
+      "data": {
+        "type": "is officer of",
+        "properties": {
+          "name": "Beneficiay"
+        }
+      },
+      "label": "Beneficiay",
+      "size": 1,
+      "color": "#d48a60",
+      "active": false
+    },
+    {
+      "renderer1:size": 2.46331093727094,
+      "read_cam0:size": 2,
+      "hover": false,
+      "id": 54813,
+      "source": 653905,
+      "target": 226781,
+      "data": {
+        "type": "is officer of",
+        "properties": {
+          "name": "Beneficiay"
+        }
+      },
+      "label": "Beneficiay",
+      "size": 1,
+      "color": "#d48a60",
+      "active": false
+    },
+    {
+      "renderer1:size": 2.46331093727094,
+      "read_cam0:size": 2,
+      "hover": false,
+      "id": 68487,
+      "source": 464829,
+      "target": 280700,
+      "data": {
+        "type": "is officer of",
+        "properties": {
+          "name": "Director / Beneficial Owner"
+        }
+      },
+      "label": "Director / Beneficial Owner",
+      "size": 1,
+      "color": "#d48a60",
+      "active": false
+    },
+    {
+      "renderer1:size": 2.46331093727094,
+      "read_cam0:size": 2,
+      "hover": false,
+      "id": 68488,
+      "source": 464829,
+      "target": 8131,
+      "data": {
+        "type": "is officer of",
+        "properties": {
+          "name": "Director / Beneficial Owner"
+        }
+      },
+      "label": "Director / Beneficial Owner",
+      "size": 1,
+      "color": "#d48a60",
+      "active": false
+    },
+    {
+      "renderer1:size": 2.46331093727094,
+      "read_cam0:size": 2,
+      "hover": false,
+      "id": 68489,
+      "source": 464829,
+      "target": 173963,
+      "data": {
+        "type": "is officer of",
+        "properties": {
+          "name": "Director / Beneficial Owner"
+        }
+      },
+      "label": "Director / Beneficial Owner",
+      "size": 1,
+      "color": "#d48a60",
+      "active": false
+    },
+    {
+      "renderer1:size": 2.46331093727094,
+      "read_cam0:size": 2,
+      "hover": false,
+      "id": 68490,
+      "source": 464829,
+      "target": 1314,
+      "data": {
+        "type": "is officer of",
+        "properties": {
+          "name": "Director / Beneficial Owner"
+        }
+      },
+      "label": "Director / Beneficial Owner",
+      "size": 1,
+      "color": "#d48a60",
+      "active": false
+    },
+    {
+      "renderer1:size": 2.46331093727094,
+      "read_cam0:size": 2,
+      "active": false,
+      "id": 68491,
+      "source": 464829,
+      "target": 117432,
+      "data": {
+        "type": "is officer of",
+        "properties": {
+          "name": "Power of Attorney"
+        }
+      },
+      "label": "Power of Attorney",
+      "size": 1,
+      "color": "#d48a60",
+      "hover": false
+    },
+    {
+      "renderer1:size": 2.46331093727094,
+      "read_cam0:size": 2,
+      "hover": false,
+      "active": false,
+      "color": "#d48a60",
+      "id": 68492,
+      "source": 464829,
+      "target": 190927,
+      "data": {
+        "type": "is officer of",
+        "properties": {
+          "name": "Power of Attorney"
+        }
+      },
+      "label": "Power of Attorney",
+      "size": 1,
+      "type": "curvedArrow",
+      "cc": {
+        "y": null
+      }
+    },
+    {
+      "renderer1:size": 2.46331093727094,
+      "read_cam0:size": 2,
+      "active": false,
+      "id": 68493,
+      "source": 464829,
+      "target": 62330,
+      "data": {
+        "type": "is officer of",
+        "properties": {
+          "name": "Power of Attorney"
+        }
+      },
+      "label": "Power of Attorney",
+      "size": 1,
+      "color": "#d48a60",
+      "hover": false
+    },
+    {
+      "renderer1:size": 2.46331093727094,
+      "read_cam0:size": 2,
+      "active": false,
+      "color": "#d48a60",
+      "id": 68494,
+      "source": 464829,
+      "target": 226781,
+      "data": {
+        "type": "is officer of",
+        "properties": {
+          "name": "Power of Attorney / Shareholder"
+        }
+      },
+      "label": "Power of Attorney / Shareholder",
+      "size": 1,
+      "type": "curvedArrow",
+      "cc": {
+        "y": null
+      }
+    },
+    {
+      "renderer1:size": 2.46331093727094,
+      "read_cam0:size": 2,
+      "active": false,
+      "color": "#d48a60",
+      "id": 68570,
+      "source": 464828,
+      "target": 190927,
+      "data": {
+        "type": "is officer of",
+        "properties": {
+          "name": "Owner"
+        }
+      },
+      "label": "Owner",
+      "size": 1,
+      "type": "curvedArrow",
+      "cc": {
+        "y": null
+      }
+    },
+    {
+      "renderer1:size": 2.46331093727094,
+      "read_cam0:size": 2,
+      "hover": false,
+      "active": false,
+      "color": "#d48a60",
+      "id": 68571,
+      "source": 464828,
+      "target": 226781,
+      "data": {
+        "type": "is officer of",
+        "properties": {
+          "name": "Owner"
+        }
+      },
+      "label": "Owner",
+      "size": 1,
+      "type": "curvedArrow",
+      "cc": {
+        "y": null
+      }
+    },
+    {
+      "renderer1:size": 2.46331093727094,
+      "read_cam0:size": 2,
+      "id": 68573,
+      "source": 417090,
+      "target": 190927,
+      "data": {
+        "type": "is officer of",
+        "properties": {
+          "name": "Owner"
+        }
+      },
+      "label": "Owner",
+      "size": 1,
+      "color": "#d48a60",
+      "active": false
+    },
+    {
+      "renderer1:size": 2.46331093727094,
+      "read_cam0:size": 2,
+      "id": 68574,
+      "source": 417090,
+      "target": 226781,
+      "data": {
+        "type": "is officer of",
+        "properties": {
+          "name": "Owner"
+        }
+      },
+      "label": "Owner",
+      "size": 1,
+      "color": "#d48a60",
+      "active": false
+    },
+    {
+      "renderer1:size": 2.46331093727094,
+      "read_cam0:size": 2,
+      "active": false,
+      "hover": false,
+      "color": "#d48a60",
+      "id": 450557,
+      "source": 464828,
+      "target": 190927,
+      "data": {
+        "type": "is officer of",
+        "properties": {
+          "name": "Shareholder"
+        }
+      },
+      "label": "Shareholder",
+      "size": 1,
+      "type": "curvedArrow",
+      "cc": {
+        "y": 2
+      }
+    },
+    {
+      "renderer1:size": 2.46331093727094,
+      "read_cam0:size": 2,
+      "hover": false,
+      "active": false,
+      "color": "#d48a60",
+      "id": 450561,
+      "source": 464829,
+      "target": 190927,
+      "data": {
+        "type": "is officer of",
+        "properties": {
+          "name": "Shareholder"
+        }
+      },
+      "label": "Shareholder",
+      "size": 1,
+      "type": "curvedArrow",
+      "cc": {
+        "y": 2
+      }
+    },
+    {
+      "renderer1:size": 2.46331093727094,
+      "read_cam0:size": 2,
+      "hover": false,
+      "active": false,
+      "color": "#d48a60",
+      "id": 602503,
+      "source": 464828,
+      "target": 226781,
+      "data": {
+        "type": "is officer of",
+        "properties": {
+          "name": "Shareholder"
+        }
+      },
+      "label": "Shareholder",
+      "size": 1,
+      "type": "curvedArrow",
+      "cc": {
+        "y": 2
+      }
+    },
+    {
+      "renderer1:size": 2.46331093727094,
+      "read_cam0:size": 2,
+      "active": false,
+      "color": "#d48a60",
+      "id": 602504,
+      "source": 464829,
+      "target": 226781,
+      "data": {
+        "type": "is officer of",
+        "properties": {
+          "name": "Shareholder"
+        }
+      },
+      "label": "Shareholder",
+      "size": 1,
+      "type": "curvedArrow",
+      "cc": {
+        "y": 2
+      }
+    },
+    {
+      "renderer1:size": 2.46331093727094,
+      "read_cam0:size": 2,
+      "hover": false,
+      "id": 602505,
+      "source": 465036,
+      "target": 226781,
+      "data": {
+        "type": "is officer of",
+        "properties": {
+          "name": "Shareholder"
+        }
+      },
+      "label": "Shareholder",
+      "size": 1,
+      "color": "#d48a60",
+      "active": false
+    },
+    {
+      "renderer1:size": 2.46331093727094,
+      "read_cam0:size": 2,
+      "id": 602506,
+      "source": 465033,
+      "target": 226781,
+      "data": {
+        "type": "is officer of",
+        "properties": {
+          "name": "Shareholder"
+        }
+      },
+      "label": "Shareholder",
+      "size": 1,
+      "color": "#d48a60",
+      "active": false
+    },
+    {
+      "renderer1:size": 2.46331093727094,
+      "read_cam0:size": 2,
+      "id": 602507,
+      "source": 465035,
+      "target": 226781,
+      "data": {
+        "type": "is officer of",
+        "properties": {
+          "name": "Shareholder"
+        }
+      },
+      "label": "Shareholder",
+      "size": 1,
+      "color": "#d48a60",
+      "active": false
+    },
+    {
+      "renderer1:size": 2.46331093727094,
+      "read_cam0:size": 2,
+      "id": 602508,
+      "source": 465034,
+      "target": 226781,
+      "data": {
+        "type": "is officer of",
+        "properties": {
+          "name": "Shareholder"
+        }
+      },
+      "label": "Shareholder",
+      "size": 1,
+      "color": "#d48a60",
+      "active": false
+    },
+    {
+      "renderer1:size": 2.46331093727094,
+      "read_cam0:size": 2,
+      "id": 40185,
+      "source": 462903,
+      "target": 117432,
+      "data": {
+        "type": "is officer of",
+        "properties": {
+          "name": "Shareholder"
+        }
+      },
+      "label": "Shareholder",
+      "size": 1,
+      "color": "#d48a60",
+      "active": false
+    },
+    {
+      "renderer1:size": 2.46331093727094,
+      "read_cam0:size": 2,
+      "id": 40186,
+      "source": 462904,
+      "target": 117432,
+      "data": {
+        "type": "is officer of",
+        "properties": {
+          "name": "Shareholder"
+        }
+      },
+      "label": "Shareholder",
+      "size": 1,
+      "color": "#d48a60",
+      "active": false
+    },
+    {
+      "renderer1:size": 2.46331093727094,
+      "read_cam0:size": 2,
+      "id": 40187,
+      "source": 462905,
+      "target": 117432,
+      "data": {
+        "type": "is officer of",
+        "properties": {
+          "name": "Shareholder"
+        }
+      },
+      "label": "Shareholder",
+      "size": 1,
+      "color": "#d48a60",
+      "active": false
+    },
+    {
+      "renderer1:size": 2.46331093727094,
+      "read_cam0:size": 2,
+      "id": 40188,
+      "source": 462902,
+      "target": 117432,
+      "data": {
+        "type": "is officer of",
+        "properties": {
+          "name": "Shareholder"
+        }
+      },
+      "label": "Shareholder",
+      "size": 1,
+      "color": "#d48a60",
+      "active": false
+    },
+    {
+      "renderer1:size": 2.46331093727094,
+      "read_cam0:size": 2,
+      "id": 404840,
+      "source": 463062,
+      "target": 62330,
+      "data": {
+        "type": "is officer of",
+        "properties": {
+          "name": "Shareholder"
+        }
+      },
+      "label": "Shareholder",
+      "size": 1,
+      "color": "#d48a60",
+      "active": false
+    },
+    {
+      "renderer1:size": 2.46331093727094,
+      "read_cam0:size": 2,
+      "hover": false,
+      "id": 404841,
+      "source": 463063,
+      "target": 62330,
+      "data": {
+        "type": "is officer of",
+        "properties": {
+          "name": "Shareholder"
+        }
+      },
+      "label": "Shareholder",
+      "size": 1,
+      "color": "#d48a60",
+      "active": false
+    },
+    {
+      "renderer1:size": 2.46331093727094,
+      "read_cam0:size": 2,
+      "hover": false,
+      "id": 404842,
+      "source": 463064,
+      "target": 62330,
+      "data": {
+        "type": "is officer of",
+        "properties": {
+          "name": "Shareholder"
+        }
+      },
+      "label": "Shareholder",
+      "size": 1,
+      "color": "#d48a60",
+      "active": false
+    },
+    {
+      "renderer1:size": 2.46331093727094,
+      "read_cam0:size": 2,
+      "hover": false,
+      "id": 404843,
+      "source": 463065,
+      "target": 62330,
+      "data": {
+        "type": "is officer of",
+        "properties": {
+          "name": "Shareholder"
+        }
+      },
+      "label": "Shareholder",
+      "size": 1,
+      "color": "#d48a60",
+      "active": false
+    },
+    {
+      "renderer1:size": 2.46331093727094,
+      "id": 450558,
+      "source": 464824,
+      "target": 190927,
+      "data": {
+        "type": "is officer of",
+        "properties": {
+          "name": "Shareholder"
+        }
+      },
+      "label": "Shareholder",
+      "size": 1,
+      "color": "#d48a60",
+      "read_cam0:size": 2
+    },
+    {
+      "renderer1:size": 2.46331093727094,
+      "read_cam0:size": 2,
+      "id": 450559,
+      "source": 464827,
+      "target": 190927,
+      "data": {
+        "type": "is officer of",
+        "properties": {
+          "name": "Shareholder"
+        }
+      },
+      "label": "Shareholder",
+      "size": 1,
+      "color": "#d48a60",
+      "hover": false
+    },
+    {
+      "renderer1:size": 2.46331093727094,
+      "id": 450560,
+      "source": 464826,
+      "target": 190927,
+      "data": {
+        "type": "is officer of",
+        "properties": {
+          "name": "Shareholder"
+        }
+      },
+      "label": "Shareholder",
+      "size": 1,
+      "color": "#d48a60",
+      "read_cam0:size": 2
+    },
+    {
+      "renderer1:size": 2.46331093727094,
+      "read_cam0:size": 2,
+      "id": 450562,
+      "source": 464825,
+      "target": 190927,
+      "data": {
+        "type": "is officer of",
+        "properties": {
+          "name": "Shareholder"
+        }
+      },
+      "label": "Shareholder",
+      "size": 1,
+      "color": "#d48a60",
+      "hover": false
+    }
+  ],
+  "nodes": [
+    {
+      "renderer1:size": 6.15827734317735,
+      "renderer1:y": 170.1378962559377,
+      "renderer1:x": 1025.154273005508,
+      "read_cam0:y": -185.914,
+      "read_cam0:x": -168.349,
+      "read_cam0:size": 5,
+      "fixed": true,
+      "y": -185.914,
+      "x": -168.349,
+      "label": "SHEIKH HAMAD BIN JASSEM BIN JABR AL-THANI",
+      "data": {
+        "statistics": {
+          "hiddenEdgeCount": 0,
+          "visibleEdgeCount": 4,
+          "edgeCount": 4,
+          "digest": {
+            "0": {
+              "edges": 4,
+              "nodes": 4,
+              "nodeCategories": {
+                "0": "Company"
+              },
+              "edgeType": "registered"
+            }
+          }
+        },
+        "categories": {
+          "0": "Client"
+        },
+        "properties": {
+          "compliance_classification": "",
+          "region": "",
+          "subclassification": "",
+          "classification": "",
+          "activity": "",
+          "cross_reference": "",
+          "former_name": "",
+          "name": "SHEIKH HAMAD BIN JASSEM BIN JABR AL-THANI",
+          "status": "SUSPENDED",
+          "client_number": "15641",
+          "client_name": "SHEIKH HAMAD BIN JASSEM BIN JABR AL-THANI",
+          "prospect_date": "07-MAR-2004",
+          "active_since": "",
+          "country": "QATAR",
+          "city": "DOHA"
+        }
+      },
+      "geo": {
+        "longitudeDiff": 0,
+        "latitudeDiff": 0
+      },
+      "nodelink": {
+        "fixed": true,
+        "y": -185.914,
+        "x": -168.349
+      },
+      "id": 582818,
+      "size": 1,
+      "glyphs": {
+        "0": {
+          "content": "0",
+          "position": "top-right",
+          "draw": false
+        }
+      },
+      "active": false,
+      "color": "#851d00",
+      "icon": {
+        "content": "",
+        "color": "#fff",
+        "scale": 1,
+        "font": "FontAwesome"
+      },
+      "fa2_x": -168.349,
+      "fa2_y": -185.914,
+      "colors": {
+        "0": "#851d00"
+      }
+    },
+    {
+      "renderer1:size": 6.15827734317735,
+      "renderer1:y": 141.82228103988155,
+      "renderer1:x": 1232.4292993325269,
+      "read_cam0:y": -207.737,
+      "read_cam0:x": -8.601,
+      "read_cam0:size": 5,
+      "fixed": true,
+      "y": -207.737,
+      "x": -8.601,
+      "label": "TRICK ONE LIMITED",
+      "data": {
+        "statistics": {
+          "hiddenEdgeCount": 5,
+          "visibleEdgeCount": 2,
+          "edgeCount": 7,
+          "digest": {
+            "1": {
+              "edges": 1,
+              "nodes": 1,
+              "nodeCategories": {
+                "0": "Client"
+              },
+              "edgeType": "registered"
+            },
+            "0": {
+              "edges": 6,
+              "nodes": 6,
+              "nodeCategories": {
+                "0": "Officer"
+              },
+              "edgeType": "is officer of"
+            }
+          }
+        },
+        "categories": {
+          "0": "Company"
+        },
+        "properties": {
+          "registrationDate": "06-MAY-1998",
+          "struck_off_date": "31-DEC-2007",
+          "inactivationDate": "23-AUG-2006",
+          "status": "CAR",
+          "name": "TRICK ONE LIMITED",
+          "jurisdiction": "BAH",
+          "file_number": "809768"
+        }
+      },
+      "geo": {
+        "longitudeDiff": 0,
+        "latitudeDiff": 0
+      },
+      "nodelink": {
+        "fixed": true,
+        "y": -207.737,
+        "x": -8.601
+      },
+      "id": 1314,
+      "size": 1,
+      "glyphs": {
+        "0": {
+          "content": "5",
+          "position": "top-right",
+          "draw": true
+        }
+      },
+      "active": false,
+      "color": "#420e00",
+      "icon": {
+        "content": "",
+        "color": "#fff",
+        "scale": 1,
+        "font": "FontAwesome"
+      },
+      "fa2_x": -8.601,
+      "fa2_y": -207.737,
+      "colors": {
+        "0": "#420e00"
+      }
+    },
+    {
+      "renderer1:size": 6.15827734317735,
+      "renderer1:y": 114.63809672097074,
+      "renderer1:x": 1230.1638425132428,
+      "read_cam0:y": -228.688,
+      "read_cam0:x": -10.347,
+      "read_cam0:size": 5,
+      "fixed": true,
+      "y": -228.688,
+      "x": -10.347,
+      "label": "TRICK ONE MANAGEMENT LIMITED",
+      "data": {
+        "statistics": {
+          "hiddenEdgeCount": 2,
+          "visibleEdgeCount": 2,
+          "edgeCount": 4,
+          "digest": {
+            "1": {
+              "edges": 1,
+              "nodes": 1,
+              "nodeCategories": {
+                "0": "Client"
+              },
+              "edgeType": "registered"
+            },
+            "0": {
+              "edges": 3,
+              "nodes": 3,
+              "nodeCategories": {
+                "0": "Officer"
+              },
+              "edgeType": "is officer of"
+            }
+          }
+        },
+        "categories": {
+          "0": "Company"
+        },
+        "properties": {
+          "registrationDate": "20-APR-2000",
+          "struck_off_date": "31-DEC-2007",
+          "inactivationDate": "16-AUG-2006",
+          "status": "CAR",
+          "name": "TRICK ONE MANAGEMENT LIMITED",
+          "jurisdiction": "BAH",
+          "file_number": "812754"
+        }
+      },
+      "geo": {
+        "longitudeDiff": 0,
+        "latitudeDiff": 0
+      },
+      "nodelink": {
+        "fixed": true,
+        "y": -228.688,
+        "x": -10.347
+      },
+      "id": 8131,
+      "size": 1,
+      "glyphs": {
+        "0": {
+          "content": "2",
+          "position": "top-right",
+          "draw": true
+        }
+      },
+      "active": false,
+      "color": "#420e00",
+      "icon": {
+        "content": "",
+        "color": "#fff",
+        "scale": 1,
+        "font": "FontAwesome"
+      },
+      "fa2_x": -10.347,
+      "fa2_y": -228.688,
+      "colors": {
+        "0": "#420e00"
+      }
+    },
+    {
+      "renderer1:size": 6.15827734317735,
+      "renderer1:y": 66.487562483631,
+      "renderer1:x": 1206.5720088659164,
+      "read_cam0:y": -265.79788091354,
+      "read_cam0:x": -28.529355628058738,
+      "read_cam0:size": 5,
+      "fixed": true,
+      "y": -265.79788091354,
+      "x": -28.529355628058738,
+      "label": "REMGREEN PROPERTIES LIMITED",
+      "data": {
+        "statistics": {
+          "hiddenEdgeCount": 1,
+          "visibleEdgeCount": 2,
+          "edgeCount": 3,
+          "digest": {
+            "1": {
+              "edges": 1,
+              "nodes": 1,
+              "nodeCategories": {
+                "0": "Client"
+              },
+              "edgeType": "registered"
+            },
+            "0": {
+              "edges": 2,
+              "nodes": 2,
+              "nodeCategories": {
+                "0": "Officer"
+              },
+              "edgeType": "is officer of"
+            }
+          }
+        },
+        "categories": {
+          "0": "Company"
+        },
+        "properties": {
+          "registrationDate": "14-SEP-1998",
+          "struck_off_date": "30-APR-2008",
+          "inactivationDate": "21-AUG-2007",
+          "status": "CAR",
+          "name": "REMGREEN PROPERTIES LIMITED",
+          "jurisdiction": "BVI",
+          "file_number": "528088"
+        }
+      },
+      "geo": {
+        "longitudeDiff": 0,
+        "latitudeDiff": 0
+      },
+      "nodelink": {
+        "fixed": true,
+        "y": -251.384,
+        "x": -10.347
+      },
+      "id": 173963,
+      "size": 1,
+      "glyphs": {
+        "1": {
+          "content": "",
+          "textColor": "#000",
+          "font": "FontAwesome",
+          "position": "bottom-right",
+          "draw": true
+        },
+        "0": {
+          "content": "1",
+          "position": "top-right",
+          "draw": true
+        }
+      },
+      "active": false,
+      "color": "#420e00",
+      "icon": {
+        "content": "",
+        "color": "#fff",
+        "scale": 1,
+        "font": "FontAwesome"
+      },
+      "fa2_x": -28.529355628058738,
+      "fa2_y": -265.79788091354,
+      "colors": {
+        "0": "#420e00"
+      }
+    },
+    {
+      "renderer1:size": 6.15827734317735,
+      "renderer1:y": 198.45480898449054,
+      "renderer1:x": 1235.826187048956,
+      "read_cam0:y": -164.09,
+      "read_cam0:x": -5.983,
+      "read_cam0:size": 5,
+      "fixed": true,
+      "y": -164.09,
+      "x": -5.983,
+      "label": "ANOUD AL-DOHA LIMITED",
+      "data": {
+        "statistics": {
+          "hiddenEdgeCount": 2,
+          "visibleEdgeCount": 2,
+          "edgeCount": 4,
+          "digest": {
+            "1": {
+              "edges": 1,
+              "nodes": 1,
+              "nodeCategories": {
+                "0": "Client"
+              },
+              "edgeType": "registered"
+            },
+            "0": {
+              "edges": 3,
+              "nodes": 3,
+              "nodeCategories": {
+                "0": "Officer"
+              },
+              "edgeType": "is officer of"
+            }
+          }
+        },
+        "categories": {
+          "0": "Company"
+        },
+        "properties": {
+          "registrationDate": "13-AUG-1998",
+          "struck_off_date": "31-DEC-2009",
+          "inactivationDate": "13-JAN-2010",
+          "status": "DIS",
+          "name": "ANOUD AL-DOHA LIMITED",
+          "jurisdiction": "BAH",
+          "file_number": "813989"
+        }
+      },
+      "geo": {
+        "longitudeDiff": 0,
+        "latitudeDiff": 0
+      },
+      "nodelink": {
+        "fixed": true,
+        "y": -164.09,
+        "x": -5.983
+      },
+      "id": 280700,
+      "size": 1,
+      "glyphs": {
+        "0": {
+          "content": "2",
+          "position": "top-right",
+          "draw": true
+        }
+      },
+      "active": false,
+      "color": "#420e00",
+      "icon": {
+        "content": "",
+        "color": "#fff",
+        "scale": 1,
+        "font": "FontAwesome"
+      },
+      "fa2_x": -5.983,
+      "fa2_y": -164.09,
+      "colors": {
+        "0": "#420e00"
+      }
+    },
+    {
+      "renderer1:size": 6.15827734317735,
+      "renderer1:y": 486.1470648336067,
+      "renderer1:x": 1227.898385693959,
+      "read_cam0:y": 57.636,
+      "read_cam0:x": -12.093,
+      "read_cam0:size": 5,
+      "fixed": true,
+      "y": 57.636,
+      "x": -12.093,
+      "label": "RIENNE S.A.",
+      "data": {
+        "statistics": {
+          "hiddenEdgeCount": 0,
+          "visibleEdgeCount": 10,
+          "edgeCount": 10,
+          "digest": {
+            "1": {
+              "edges": 1,
+              "nodes": 1,
+              "nodeCategories": {
+                "0": "Client"
+              },
+              "edgeType": "registered"
+            },
+            "0": {
+              "edges": 9,
+              "nodes": 7,
+              "nodeCategories": {
+                "0": "Officer"
+              },
+              "edgeType": "is officer of"
+            }
+          }
+        },
+        "categories": {
+          "0": "Company"
+        },
+        "properties": {
+          "registrationDate": "12-SEP-2011",
+          "struck_off_date": "",
+          "inactivationDate": "",
+          "status": "ACT",
+          "name": "RIENNE S.A.",
+          "jurisdiction": "PMA",
+          "file_number": "63890"
+        }
+      },
+      "geo": {
+        "longitudeDiff": 0,
+        "latitudeDiff": 0
+      },
+      "nodelink": {
+        "fixed": true,
+        "y": 57.636,
+        "x": -12.093
+      },
+      "id": 190927,
+      "size": 1,
+      "glyphs": {
+        "0": {
+          "content": "0",
+          "position": "top-right",
+          "draw": false
+        }
+      },
+      "active": false,
+      "color": "#420e00",
+      "icon": {
+        "content": "",
+        "color": "#fff",
+        "scale": 1,
+        "font": "FontAwesome"
+      },
+      "fa2_x": -12.093,
+      "fa2_y": 57.636,
+      "colors": {
+        "0": "#420e00"
+      }
+    },
+    {
+      "renderer1:size": 6.15827734317735,
+      "renderer1:y": 463.4937941532637,
+      "renderer1:x": 1338.897984763893,
+      "read_cam0:y": 40.177,
+      "read_cam0:x": 73.455,
+      "read_cam0:size": 5,
+      "fixed": true,
+      "y": 40.177,
+      "x": 73.455,
+      "label": "THE BEARER",
+      "data": {
+        "statistics": {
+          "hiddenEdgeCount": 0,
+          "visibleEdgeCount": 1,
+          "edgeCount": 1,
+          "digest": {
+            "0": {
+              "edges": 1,
+              "nodes": 1,
+              "nodeCategories": {
+                "0": "Company"
+              },
+              "edgeType": "is officer of"
+            }
+          }
+        },
+        "categories": {
+          "0": "Officer"
+        },
+        "properties": {
+          "registerlocation": "",
+          "rst": "NOT NEGATIVE RESULT",
+          "pep": "NO",
+          "citizenship": "NO",
+          "custodianaddress": "",
+          "custodianname": "",
+          "newcertificate": "",
+          "name": "THE BEARER",
+          "certificateNumber": "1",
+          "numbershares": "1",
+          "classofshares": "",
+          "dateofissue": "13-09-2011",
+          "ceasedmembership": "16-09-2013",
+          "transferdate": "",
+          "sharestransferred": ""
+        }
+      },
+      "geo": {
+        "longitudeDiff": 0,
+        "latitudeDiff": 0
+      },
+      "nodelink": {
+        "fixed": true,
+        "y": 40.177,
+        "x": 73.455
+      },
+      "id": 464824,
+      "size": 1,
+      "glyphs": {
+        "0": {
+          "content": "0",
+          "position": "top-right",
+          "draw": false
+        }
+      },
+      "active": false,
+      "color": "#be4400",
+      "icon": {
+        "content": "",
+        "color": "#fff",
+        "scale": 1,
+        "font": "FontAwesome"
+      },
+      "fa2_x": 73.455,
+      "fa2_y": 40.177,
+      "colors": {
+        "0": "#be4400"
+      }
+    },
+    {
+      "renderer1:size": 6.15827734317735,
+      "renderer1:y": 421.5854380215038,
+      "renderer1:x": 1341.1621440706801,
+      "read_cam0:y": 7.878,
+      "read_cam0:x": 75.2,
+      "read_cam0:size": 5,
+      "fixed": true,
+      "y": 7.878,
+      "x": 75.2,
+      "label": "THE BEARER",
+      "data": {
+        "statistics": {
+          "hiddenEdgeCount": 0,
+          "visibleEdgeCount": 1,
+          "edgeCount": 1,
+          "digest": {
+            "0": {
+              "edges": 1,
+              "nodes": 1,
+              "nodeCategories": {
+                "0": "Company"
+              },
+              "edgeType": "is officer of"
+            }
+          }
+        },
+        "categories": {
+          "0": "Officer"
+        },
+        "properties": {
+          "registerlocation": "",
+          "rst": "NOT NEGATIVE RESULT",
+          "pep": "NO",
+          "citizenship": "NO",
+          "custodianaddress": "",
+          "custodianname": "",
+          "newcertificate": "",
+          "name": "THE BEARER",
+          "certificateNumber": "2",
+          "numbershares": "1",
+          "classofshares": "",
+          "dateofissue": "13-09-2011",
+          "ceasedmembership": "16-09-2013",
+          "transferdate": "",
+          "sharestransferred": ""
+        }
+      },
+      "geo": {
+        "longitudeDiff": 0,
+        "latitudeDiff": 0
+      },
+      "nodelink": {
+        "fixed": true,
+        "y": 7.878,
+        "x": 75.2
+      },
+      "id": 464825,
+      "size": 1,
+      "glyphs": {
+        "0": {
+          "content": "0",
+          "position": "top-right",
+          "draw": false
+        }
+      },
+      "active": false,
+      "color": "#be4400",
+      "icon": {
+        "content": "",
+        "color": "#fff",
+        "scale": 1,
+        "font": "FontAwesome"
+      },
+      "fa2_x": 75.2,
+      "fa2_y": 7.878,
+      "colors": {
+        "0": "#be4400"
+      }
+    },
+    {
+      "renderer1:size": 6.15827734317735,
+      "renderer1:y": 441.97325188256275,
+      "renderer1:x": 1340.0307131735349,
+      "read_cam0:y": 23.591,
+      "read_cam0:x": 74.328,
+      "read_cam0:size": 5,
+      "fixed": true,
+      "y": 23.591,
+      "x": 74.328,
+      "label": "THE BEARER",
+      "data": {
+        "statistics": {
+          "hiddenEdgeCount": 0,
+          "visibleEdgeCount": 1,
+          "edgeCount": 1,
+          "digest": {
+            "0": {
+              "edges": 1,
+              "nodes": 1,
+              "nodeCategories": {
+                "0": "Company"
+              },
+              "edgeType": "is officer of"
+            }
+          }
+        },
+        "categories": {
+          "0": "Officer"
+        },
+        "properties": {
+          "registerlocation": "",
+          "rst": "NOT NEGATIVE RESULT",
+          "pep": "NO",
+          "citizenship": "NO",
+          "custodianaddress": "",
+          "custodianname": "",
+          "newcertificate": "",
+          "name": "THE BEARER",
+          "certificateNumber": "3",
+          "numbershares": "1",
+          "classofshares": "",
+          "dateofissue": "13-09-2011",
+          "ceasedmembership": "16-09-2013",
+          "transferdate": "",
+          "sharestransferred": ""
+        }
+      },
+      "geo": {
+        "longitudeDiff": 0,
+        "latitudeDiff": 0
+      },
+      "nodelink": {
+        "fixed": true,
+        "y": 23.591,
+        "x": 74.328
+      },
+      "id": 464826,
+      "size": 1,
+      "glyphs": {
+        "0": {
+          "content": "0",
+          "position": "top-right",
+          "draw": false
+        }
+      },
+      "active": false,
+      "color": "#be4400",
+      "icon": {
+        "content": "",
+        "color": "#fff",
+        "scale": 1,
+        "font": "FontAwesome"
+      },
+      "fa2_x": 74.328,
+      "fa2_y": 23.591,
+      "colors": {
+        "0": "#be4400"
+      }
+    },
+    {
+      "renderer1:size": 6.15827734317735,
+      "renderer1:y": 397.79943893151886,
+      "renderer1:x": 1342.294872480322,
+      "read_cam0:y": -10.454,
+      "read_cam0:x": 76.073,
+      "read_cam0:size": 5,
+      "fixed": true,
+      "y": -10.454,
+      "x": 76.073,
+      "label": "THE BEARER",
+      "data": {
+        "statistics": {
+          "hiddenEdgeCount": 0,
+          "visibleEdgeCount": 1,
+          "edgeCount": 1,
+          "digest": {
+            "0": {
+              "edges": 1,
+              "nodes": 1,
+              "nodeCategories": {
+                "0": "Company"
+              },
+              "edgeType": "is officer of"
+            }
+          }
+        },
+        "categories": {
+          "0": "Officer"
+        },
+        "properties": {
+          "registerlocation": "",
+          "rst": "NOT NEGATIVE RESULT",
+          "pep": "NO",
+          "citizenship": "NO",
+          "custodianaddress": "",
+          "custodianname": "",
+          "newcertificate": "",
+          "name": "THE BEARER",
+          "certificateNumber": "4",
+          "numbershares": "1",
+          "classofshares": "",
+          "dateofissue": "13-09-2011",
+          "ceasedmembership": "16-09-2013",
+          "transferdate": "",
+          "sharestransferred": ""
+        }
+      },
+      "geo": {
+        "longitudeDiff": 0,
+        "latitudeDiff": 0
+      },
+      "nodelink": {
+        "fixed": true,
+        "y": -10.454,
+        "x": 76.073
+      },
+      "id": 464827,
+      "size": 1,
+      "glyphs": {
+        "0": {
+          "content": "0",
+          "position": "top-right",
+          "draw": false
+        }
+      },
+      "active": true,
+      "color": "#be4400",
+      "icon": {
+        "content": "",
+        "color": "#fff",
+        "scale": 1,
+        "font": "FontAwesome"
+      },
+      "fa2_x": 76.073,
+      "fa2_y": -10.454,
+      "colors": {
+        "0": "#be4400"
+      }
+    },
+    {
+      "renderer1:size": 6.15827734317735,
+      "renderer1:y": 482.7488796046807,
+      "renderer1:x": 1337.7652563542508,
+      "read_cam0:y": 55.017,
+      "read_cam0:x": 72.582,
+      "read_cam0:size": 5,
+      "fixed": true,
+      "y": 55.017,
+      "x": 72.582,
+      "label": "Sheikh Hamad Bibkhalifa Binhamad Al-Thani",
+      "data": {
+        "statistics": {
+          "hiddenEdgeCount": 1,
+          "visibleEdgeCount": 6,
+          "edgeCount": 7,
+          "digest": {
+            "2": {
+              "edges": 5,
+              "nodes": 3,
+              "nodeCategories": {
+                "0": "Company"
+              },
+              "edgeType": "is officer of"
+            },
+            "1": {
+              "edges": 1,
+              "nodes": 1,
+              "nodeCategories": {
+                "0": "Address"
+              },
+              "edgeType": "registered address"
+            },
+            "0": {
+              "edges": 1,
+              "nodes": 1,
+              "nodeCategories": {
+                "0": "Officer"
+              },
+              "edgeType": "has similar name and address as"
+            }
+          }
+        },
+        "categories": {
+          "0": "Officer"
+        },
+        "properties": {
+          "registerlocation": "",
+          "rst": "NOT NEGATIVE RESULT(SEARCHES CONDUCTED)",
+          "pep": "NO",
+          "citizenship": "NO",
+          "custodianaddress": "",
+          "custodianname": "",
+          "newcertificate": "",
+          "name": "Sheikh Hamad Bibkhalifa Binhamad Al-Thani",
+          "certificateNumber": "5",
+          "numbershares": "75",
+          "classofshares": "",
+          "dateofissue": "16-09-2013",
+          "ceasedmembership": "",
+          "transferdate": "",
+          "sharestransferred": ""
+        }
+      },
+      "geo": {
+        "longitudeDiff": 0,
+        "latitudeDiff": 0
+      },
+      "nodelink": {
+        "fixed": true,
+        "y": 55.017,
+        "x": 72.582
+      },
+      "id": 464828,
+      "size": 1,
+      "glyphs": {
+        "0": {
+          "content": "1",
+          "position": "top-right",
+          "draw": true
+        }
+      },
+      "active": false,
+      "color": "#be4400",
+      "icon": {
+        "content": "",
+        "color": "#fff",
+        "scale": 1,
+        "font": "FontAwesome"
+      },
+      "fa2_x": 72.582,
+      "fa2_y": 55.017,
+      "colors": {
+        "0": "#be4400"
+      }
+    },
+    {
+      "renderer1:size": 6.15827734317735,
+      "renderer1:y": 376.28019417331467,
+      "renderer1:x": 1342.294872480322,
+      "read_cam0:y": -27.039,
+      "read_cam0:x": 76.073,
+      "read_cam0:size": 5,
+      "fixed": true,
+      "y": -27.039,
+      "x": 76.073,
+      "label": "Sheikh Hamad Jassim J.M. Al-Thani",
+      "data": {
+        "statistics": {
+          "hiddenEdgeCount": 0,
+          "visibleEdgeCount": 12,
+          "edgeCount": 12,
+          "digest": {
+            "2": {
+              "edges": 10,
+              "nodes": 8,
+              "nodeCategories": {
+                "0": "Company"
+              },
+              "edgeType": "is officer of"
+            },
+            "1": {
+              "edges": 1,
+              "nodes": 1,
+              "nodeCategories": {
+                "0": "Address"
+              },
+              "edgeType": "registered address"
+            },
+            "0": {
+              "edges": 1,
+              "nodes": 1,
+              "nodeCategories": {
+                "0": "Officer"
+              },
+              "edgeType": "has similar name and address as"
+            }
+          }
+        },
+        "categories": {
+          "0": "Officer"
+        },
+        "properties": {
+          "registerlocation": "",
+          "rst": "NOT NEGATIVE RESULT(SEARCHES CONDUCTED)",
+          "pep": "NO",
+          "citizenship": "NO",
+          "custodianaddress": "",
+          "custodianname": "",
+          "newcertificate": "",
+          "name": "Sheikh Hamad Jassim J.M. Al-Thani",
+          "certificateNumber": "6",
+          "numbershares": "25",
+          "classofshares": "",
+          "dateofissue": "16-09-2013",
+          "ceasedmembership": "",
+          "transferdate": "",
+          "sharestransferred": ""
+        }
+      },
+      "geo": {
+        "longitudeDiff": 0,
+        "latitudeDiff": 0
+      },
+      "nodelink": {
+        "fixed": true,
+        "y": -27.039,
+        "x": 76.073
+      },
+      "id": 464829,
+      "size": 1,
+      "glyphs": {
+        "0": {
+          "content": "0",
+          "position": "top-right",
+          "draw": false
+        }
+      },
+      "active": false,
+      "color": "#be4400",
+      "icon": {
+        "content": "",
+        "color": "#fff",
+        "scale": 1,
+        "font": "FontAwesome"
+      },
+      "fa2_x": 76.073,
+      "fa2_y": -27.039,
+      "colors": {
+        "0": "#be4400"
+      }
+    },
+    {
+      "renderer1:size": 6.15827734317735,
+      "renderer1:y": 426.11635166007176,
+      "renderer1:x": 1014.9610148312267,
+      "read_cam0:y": 11.37,
+      "read_cam0:x": -176.205,
+      "read_cam0:size": 5,
+      "fixed": true,
+      "y": 11.37,
+      "x": -176.205,
+      "label": "WILDGEN & PARTNERS",
+      "data": {
+        "statistics": {
+          "hiddenEdgeCount": 70,
+          "visibleEdgeCount": 4,
+          "edgeCount": 74,
+          "digest": {
+            "0": {
+              "edges": 74,
+              "nodes": 74,
+              "nodeCategories": {
+                "0": "Company"
+              },
+              "edgeType": "registered"
+            }
+          }
+        },
+        "categories": {
+          "0": "Client"
+        },
+        "properties": {
+          "compliance_classification": "",
+          "region": "",
+          "subclassification": "",
+          "classification": "",
+          "activity": "",
+          "cross_reference": "WILDGEN & PARTNERS (FORMER REP OFFICE CLIENT)",
+          "former_name": "",
+          "name": "WILDGEN & PARTNERS",
+          "status": "ACTIVE",
+          "client_number": "28369",
+          "client_name": "WILDGEN & PARTNERS",
+          "prospect_date": "",
+          "active_since": "22-FEB-2010",
+          "country": "LUXEMBOURG",
+          "city": "LUXEMBOURG CITY"
+        }
+      },
+      "geo": {
+        "longitudeDiff": 0,
+        "latitudeDiff": 0
+      },
+      "nodelink": {
+        "fixed": true,
+        "y": 11.37,
+        "x": -176.205
+      },
+      "id": 586404,
+      "size": 1,
+      "glyphs": {
+        "0": {
+          "content": "70",
+          "position": "top-right",
+          "draw": true
+        }
+      },
+      "active": false,
+      "color": "#851d00",
+      "icon": {
+        "content": "",
+        "color": "#fff",
+        "scale": 1,
+        "font": "FontAwesome"
+      },
+      "fa2_x": -176.205,
+      "fa2_y": 11.37,
+      "colors": {
+        "0": "#851d00"
+      }
+    },
+    {
+      "renderer1:size": 6.15827734317735,
+      "renderer1:y": 334.3718380415547,
+      "renderer1:x": 1240.357100687524,
+      "read_cam0:y": -59.338,
+      "read_cam0:x": -2.491,
+      "read_cam0:size": 5,
+      "colors": {
+        "0": "#420e00"
+      },
+      "y": -59.338,
+      "x": -2.491,
+      "label": "YALIS S.A.",
+      "data": {
+        "statistics": {
+          "hiddenEdgeCount": 0,
+          "visibleEdgeCount": 12,
+          "edgeCount": 12,
+          "digest": {
+            "1": {
+              "edges": 1,
+              "nodes": 1,
+              "nodeCategories": {
+                "0": "Client"
+              },
+              "edgeType": "registered"
+            },
+            "0": {
+              "edges": 11,
+              "nodes": 9,
+              "nodeCategories": {
+                "0": "Officer"
+              },
+              "edgeType": "is officer of"
+            }
+          }
+        },
+        "categories": {
+          "0": "Company"
+        },
+        "properties": {
+          "registrationDate": "30-SEP-2011",
+          "struck_off_date": "",
+          "inactivationDate": "",
+          "status": "ACT",
+          "name": "YALIS S.A.",
+          "jurisdiction": "PMA",
+          "file_number": "64160"
+        }
+      },
+      "selected": true,
+      "geo": {
+        "longitudeDiff": 0,
+        "latitudeDiff": 0
+      },
+      "nodelink": {
+        "fixed": true,
+        "y": -59.338,
+        "x": -2.491
+      },
+      "id": 226781,
+      "fixed": true,
+      "size": 1,
+      "glyphs": {
+        "0": {
+          "content": "0",
+          "position": "top-right",
+          "draw": false
+        }
+      },
+      "active": false,
+      "color": "#420e00",
+      "icon": {
+        "content": "",
+        "color": "#fff",
+        "scale": 1,
+        "font": "FontAwesome"
+      },
+      "fa2_x": -2.491,
+      "fa2_y": -59.338
+    },
+    {
+      "renderer1:size": 6.15827734317735,
+      "renderer1:y": 392.13709439580566,
+      "renderer1:x": 1545.0389851687733,
+      "read_cam0:y": -14.818,
+      "read_cam0:x": 232.329,
+      "read_cam0:size": 5,
+      "fixed": true,
+      "y": -14.818,
+      "x": 232.329,
+      "label": "Doha<br/>Al Wajba Palace<br/>Qatar",
+      "data": {
+        "statistics": {
+          "hiddenEdgeCount": 0,
+          "visibleEdgeCount": 4,
+          "edgeCount": 4,
+          "digest": {
+            "0": {
+              "edges": 4,
+              "nodes": 4,
+              "nodeCategories": {
+                "0": "Officer"
+              },
+              "edgeType": "registered address"
+            }
+          }
+        },
+        "categories": {
+          "0": "Address"
+        },
+        "properties": {
+          "name": "Doha<br/>Al Wajba Palace<br/>Qatar"
+        }
+      },
+      "geo": {
+        "longitudeDiff": 0,
+        "latitudeDiff": 0
+      },
+      "nodelink": {
+        "fixed": true,
+        "y": -14.818,
+        "x": 232.329
+      },
+      "id": 535279,
+      "size": 1,
+      "glyphs": {
+        "0": {
+          "content": "0",
+          "position": "top-right",
+          "draw": false
+        }
+      },
+      "active": false,
+      "color": "#937c6f",
+      "icon": {
+        "content": "",
+        "color": "#fff",
+        "scale": 1,
+        "font": "FontAwesome"
+      },
+      "fa2_x": 232.329,
+      "fa2_y": -14.818,
+      "colors": {
+        "0": "#937c6f"
+      }
+    },
+    {
+      "renderer1:size": 6.15827734317735,
+      "renderer1:y": 540.5141359589317,
+      "renderer1:x": 1219.969286826465,
+      "read_cam0:y": 99.537,
+      "read_cam0:x": -18.204,
+      "read_cam0:size": 5,
+      "fixed": true,
+      "y": 99.537,
+      "x": -18.204,
+      "label": "KNIBOS CONSULTING S.A.",
+      "data": {
+        "statistics": {
+          "hiddenEdgeCount": 0,
+          "visibleEdgeCount": 6,
+          "edgeCount": 6,
+          "digest": {
+            "1": {
+              "edges": 1,
+              "nodes": 1,
+              "nodeCategories": {
+                "0": "Client"
+              },
+              "edgeType": "registered"
+            },
+            "0": {
+              "edges": 5,
+              "nodes": 5,
+              "nodeCategories": {
+                "0": "Officer"
+              },
+              "edgeType": "is officer of"
+            }
+          }
+        },
+        "categories": {
+          "0": "Company"
+        },
+        "properties": {
+          "registrationDate": "07-FEB-2011",
+          "struck_off_date": "",
+          "inactivationDate": "",
+          "status": "ACT",
+          "name": "KNIBOS CONSULTING S.A.",
+          "jurisdiction": "PMA",
+          "file_number": "61335"
+        }
+      },
+      "geo": {
+        "longitudeDiff": 0,
+        "latitudeDiff": 0
+      },
+      "nodelink": {
+        "fixed": true,
+        "y": 99.537,
+        "x": -18.204
+      },
+      "id": 117432,
+      "size": 1,
+      "glyphs": {
+        "0": {
+          "content": "0",
+          "position": "top-right",
+          "draw": false
+        }
+      },
+      "active": false,
+      "color": "#420e00",
+      "icon": {
+        "content": "",
+        "color": "#fff",
+        "scale": 1,
+        "font": "FontAwesome"
+      },
+      "fa2_x": -18.204,
+      "fa2_y": 99.537,
+      "colors": {
+        "0": "#420e00"
+      }
+    },
+    {
+      "renderer1:size": 6.15827734317735,
+      "renderer1:y": 547.3092089042868,
+      "renderer1:x": 1412.5188438281382,
+      "read_cam0:y": 104.774,
+      "read_cam0:x": 130.195,
+      "read_cam0:size": 5,
+      "fixed": true,
+      "y": 104.774,
+      "x": 130.195,
+      "label": "THE BEARER",
+      "data": {
+        "statistics": {
+          "hiddenEdgeCount": 0,
+          "visibleEdgeCount": 1,
+          "edgeCount": 1,
+          "digest": {
+            "0": {
+              "edges": 1,
+              "nodes": 1,
+              "nodeCategories": {
+                "0": "Company"
+              },
+              "edgeType": "is officer of"
+            }
+          }
+        },
+        "categories": {
+          "0": "Officer"
+        },
+        "properties": {
+          "registerlocation": "",
+          "rst": "NOT NEGATIVE RESULT",
+          "pep": "NO",
+          "citizenship": "NO",
+          "custodianaddress": "",
+          "custodianname": "",
+          "newcertificate": "",
+          "name": "THE BEARER",
+          "certificateNumber": "1",
+          "numbershares": "1",
+          "classofshares": "",
+          "dateofissue": "08-02-2011",
+          "ceasedmembership": "",
+          "transferdate": "",
+          "sharestransferred": ""
+        }
+      },
+      "geo": {
+        "longitudeDiff": 0,
+        "latitudeDiff": 0
+      },
+      "nodelink": {
+        "fixed": true,
+        "y": 104.774,
+        "x": 130.195
+      },
+      "id": 462902,
+      "size": 1,
+      "glyphs": {
+        "0": {
+          "content": "0",
+          "position": "top-right",
+          "draw": false
+        }
+      },
+      "active": false,
+      "color": "#be4400",
+      "icon": {
+        "content": "",
+        "color": "#fff",
+        "scale": 1,
+        "font": "FontAwesome"
+      },
+      "fa2_x": 130.195,
+      "fa2_y": 104.774,
+      "colors": {
+        "0": "#be4400"
+      }
+    },
+    {
+      "renderer1:size": 6.15827734317735,
+      "renderer1:y": 507.6663095918109,
+      "renderer1:x": 1411.387412930993,
+      "read_cam0:y": 74.221,
+      "read_cam0:x": 129.323,
+      "read_cam0:size": 5,
+      "fixed": true,
+      "y": 74.221,
+      "x": 129.323,
+      "label": "THE BEARER",
+      "data": {
+        "statistics": {
+          "hiddenEdgeCount": 0,
+          "visibleEdgeCount": 1,
+          "edgeCount": 1,
+          "digest": {
+            "0": {
+              "edges": 1,
+              "nodes": 1,
+              "nodeCategories": {
+                "0": "Company"
+              },
+              "edgeType": "is officer of"
+            }
+          }
+        },
+        "categories": {
+          "0": "Officer"
+        },
+        "properties": {
+          "registerlocation": "",
+          "rst": "NOT NEGATIVE RESULT",
+          "pep": "NO",
+          "citizenship": "NO",
+          "custodianaddress": "",
+          "custodianname": "",
+          "newcertificate": "",
+          "name": "THE BEARER",
+          "certificateNumber": "2",
+          "numbershares": "1",
+          "classofshares": "",
+          "dateofissue": "08-02-2011",
+          "ceasedmembership": "",
+          "transferdate": "",
+          "sharestransferred": ""
+        }
+      },
+      "geo": {
+        "longitudeDiff": 0,
+        "latitudeDiff": 0
+      },
+      "nodelink": {
+        "fixed": true,
+        "y": 74.221,
+        "x": 129.323
+      },
+      "id": 462903,
+      "size": 1,
+      "glyphs": {
+        "0": {
+          "content": "0",
+          "position": "top-right",
+          "draw": false
+        }
+      },
+      "active": false,
+      "color": "#be4400",
+      "icon": {
+        "content": "",
+        "color": "#fff",
+        "scale": 1,
+        "font": "FontAwesome"
+      },
+      "fa2_x": 129.323,
+      "fa2_y": 74.221,
+      "colors": {
+        "0": "#be4400"
+      }
+    },
+    {
+      "renderer1:size": 6.15827734317735,
+      "renderer1:y": 487.27849573075196,
+      "renderer1:x": 1410.254684521351,
+      "read_cam0:y": 58.508,
+      "read_cam0:x": 128.45,
+      "read_cam0:size": 5,
+      "fixed": true,
+      "y": 58.508,
+      "x": 128.45,
+      "label": "THE BEARER",
+      "data": {
+        "statistics": {
+          "hiddenEdgeCount": 0,
+          "visibleEdgeCount": 1,
+          "edgeCount": 1,
+          "digest": {
+            "0": {
+              "edges": 1,
+              "nodes": 1,
+              "nodeCategories": {
+                "0": "Company"
+              },
+              "edgeType": "is officer of"
+            }
+          }
+        },
+        "categories": {
+          "0": "Officer"
+        },
+        "properties": {
+          "registerlocation": "",
+          "rst": "NOT NEGATIVE RESULT",
+          "pep": "NO",
+          "citizenship": "NO",
+          "custodianaddress": "",
+          "custodianname": "",
+          "newcertificate": "",
+          "name": "THE BEARER",
+          "certificateNumber": "3",
+          "numbershares": "1",
+          "classofshares": "",
+          "dateofissue": "08-02-2011",
+          "ceasedmembership": "",
+          "transferdate": "",
+          "sharestransferred": ""
+        }
+      },
+      "geo": {
+        "longitudeDiff": 0,
+        "latitudeDiff": 0
+      },
+      "nodelink": {
+        "fixed": true,
+        "y": 58.508,
+        "x": 128.45
+      },
+      "id": 462904,
+      "size": 1,
+      "glyphs": {
+        "0": {
+          "content": "0",
+          "position": "top-right",
+          "draw": false
+        }
+      },
+      "active": false,
+      "color": "#be4400",
+      "icon": {
+        "content": "",
+        "color": "#fff",
+        "scale": 1,
+        "font": "FontAwesome"
+      },
+      "fa2_x": 128.45,
+      "fa2_y": 58.508,
+      "colors": {
+        "0": "#be4400"
+      }
+    },
+    {
+      "renderer1:size": 6.15827734317735,
+      "renderer1:y": 528.0541234528698,
+      "renderer1:x": 1410.254684521351,
+      "read_cam0:y": 89.934,
+      "read_cam0:x": 128.45,
+      "read_cam0:size": 5,
+      "fixed": true,
+      "y": 89.934,
+      "x": 128.45,
+      "label": "THE BEARER",
+      "data": {
+        "statistics": {
+          "hiddenEdgeCount": 0,
+          "visibleEdgeCount": 1,
+          "edgeCount": 1,
+          "digest": {
+            "0": {
+              "edges": 1,
+              "nodes": 1,
+              "nodeCategories": {
+                "0": "Company"
+              },
+              "edgeType": "is officer of"
+            }
+          }
+        },
+        "categories": {
+          "0": "Officer"
+        },
+        "properties": {
+          "registerlocation": "",
+          "rst": "NOT NEGATIVE RESULT",
+          "pep": "NO",
+          "citizenship": "NO",
+          "custodianaddress": "",
+          "custodianname": "",
+          "newcertificate": "",
+          "name": "THE BEARER",
+          "certificateNumber": "4",
+          "numbershares": "1",
+          "classofshares": "",
+          "dateofissue": "08-02-2011",
+          "ceasedmembership": "",
+          "transferdate": "",
+          "sharestransferred": ""
+        }
+      },
+      "geo": {
+        "longitudeDiff": 0,
+        "latitudeDiff": 0
+      },
+      "nodelink": {
+        "fixed": true,
+        "y": 89.934,
+        "x": 128.45
+      },
+      "id": 462905,
+      "size": 1,
+      "glyphs": {
+        "0": {
+          "content": "0",
+          "position": "top-right",
+          "draw": false
+        }
+      },
+      "active": false,
+      "color": "#be4400",
+      "icon": {
+        "content": "",
+        "color": "#fff",
+        "scale": 1,
+        "font": "FontAwesome"
+      },
+      "fa2_x": 128.45,
+      "fa2_y": 89.934,
+      "colors": {
+        "0": "#be4400"
+      }
+    },
+    {
+      "renderer1:size": 6.15827734317735,
+      "renderer1:y": 317.3822094094217,
+      "renderer1:x": 1444.233941785617,
+      "read_cam0:y": -72.432,
+      "read_cam0:x": 154.638,
+      "read_cam0:size": 5,
+      "fixed": true,
+      "y": -72.432,
+      "x": 154.638,
+      "label": "THE BEARER",
+      "data": {
+        "statistics": {
+          "hiddenEdgeCount": 0,
+          "visibleEdgeCount": 1,
+          "edgeCount": 1,
+          "digest": {
+            "0": {
+              "edges": 1,
+              "nodes": 1,
+              "nodeCategories": {
+                "0": "Company"
+              },
+              "edgeType": "is officer of"
+            }
+          }
+        },
+        "categories": {
+          "0": "Officer"
+        },
+        "properties": {
+          "registerlocation": "",
+          "rst": "NOT NEGATIVE RESULT",
+          "pep": "NO",
+          "citizenship": "NO",
+          "custodianaddress": "",
+          "custodianname": "",
+          "newcertificate": "",
+          "name": "THE BEARER",
+          "certificateNumber": "1",
+          "numbershares": "1",
+          "classofshares": "",
+          "dateofissue": "01-10-2011",
+          "ceasedmembership": "26-07-2013",
+          "transferdate": "",
+          "sharestransferred": ""
+        }
+      },
+      "geo": {
+        "longitudeDiff": 0,
+        "latitudeDiff": 0
+      },
+      "nodelink": {
+        "fixed": true,
+        "y": -72.432,
+        "x": 154.638
+      },
+      "id": 465033,
+      "size": 1,
+      "glyphs": {
+        "0": {
+          "content": "0",
+          "position": "top-right",
+          "draw": false
+        }
+      },
+      "active": false,
+      "color": "#be4400",
+      "icon": {
+        "content": "",
+        "color": "#fff",
+        "scale": 1,
+        "font": "FontAwesome"
+      },
+      "fa2_x": 154.638,
+      "fa2_y": -72.432,
+      "colors": {
+        "0": "#be4400"
+      }
+    },
+    {
+      "renderer1:size": 6.15827734317735,
+      "renderer1:y": 361.5560223604656,
+      "renderer1:x": 1447.632127014543,
+      "read_cam0:y": -38.387,
+      "read_cam0:x": 157.257,
+      "read_cam0:size": 5,
+      "fixed": true,
+      "y": -38.387,
+      "x": 157.257,
+      "label": "THE BEARER",
+      "data": {
+        "statistics": {
+          "hiddenEdgeCount": 0,
+          "visibleEdgeCount": 1,
+          "edgeCount": 1,
+          "digest": {
+            "0": {
+              "edges": 1,
+              "nodes": 1,
+              "nodeCategories": {
+                "0": "Company"
+              },
+              "edgeType": "is officer of"
+            }
+          }
+        },
+        "categories": {
+          "0": "Officer"
+        },
+        "properties": {
+          "registerlocation": "",
+          "rst": "NOT NEGATIVE RESULT",
+          "pep": "NO",
+          "citizenship": "NO",
+          "custodianaddress": "",
+          "custodianname": "",
+          "newcertificate": "",
+          "name": "THE BEARER",
+          "certificateNumber": "2",
+          "numbershares": "1",
+          "classofshares": "",
+          "dateofissue": "01-10-2011",
+          "ceasedmembership": "26-07-2013",
+          "transferdate": "",
+          "sharestransferred": ""
+        }
+      },
+      "geo": {
+        "longitudeDiff": 0,
+        "latitudeDiff": 0
+      },
+      "nodelink": {
+        "fixed": true,
+        "y": -38.387,
+        "x": 157.257
+      },
+      "id": 465034,
+      "size": 1,
+      "glyphs": {
+        "0": {
+          "content": "0",
+          "position": "top-right",
+          "draw": false
+        }
+      },
+      "active": false,
+      "color": "#be4400",
+      "icon": {
+        "content": "",
+        "color": "#fff",
+        "scale": 1,
+        "font": "FontAwesome"
+      },
+      "fa2_x": 157.257,
+      "fa2_y": -38.387,
+      "colors": {
+        "0": "#be4400"
+      }
+    },
+    {
+      "renderer1:size": 6.15827734317735,
+      "renderer1:y": 294.7289387290788,
+      "renderer1:x": 1443.101213375975,
+      "read_cam0:y": -89.891,
+      "read_cam0:x": 153.765,
+      "read_cam0:size": 5,
+      "fixed": true,
+      "y": -89.891,
+      "x": 153.765,
+      "label": "THE BEARER",
+      "data": {
+        "statistics": {
+          "hiddenEdgeCount": 0,
+          "visibleEdgeCount": 1,
+          "edgeCount": 1,
+          "digest": {
+            "0": {
+              "edges": 1,
+              "nodes": 1,
+              "nodeCategories": {
+                "0": "Company"
+              },
+              "edgeType": "is officer of"
+            }
+          }
+        },
+        "categories": {
+          "0": "Officer"
+        },
+        "properties": {
+          "registerlocation": "",
+          "rst": "NOT NEGATIVE RESULT",
+          "pep": "NO",
+          "citizenship": "NO",
+          "custodianaddress": "",
+          "custodianname": "",
+          "newcertificate": "",
+          "name": "THE BEARER",
+          "certificateNumber": "3",
+          "numbershares": "1",
+          "classofshares": "",
+          "dateofissue": "01-10-2011",
+          "ceasedmembership": "26-07-2013",
+          "transferdate": "",
+          "sharestransferred": ""
+        }
+      },
+      "geo": {
+        "longitudeDiff": 0,
+        "latitudeDiff": 0
+      },
+      "nodelink": {
+        "fixed": true,
+        "y": -89.891,
+        "x": 153.765
+      },
+      "id": 465035,
+      "size": 1,
+      "glyphs": {
+        "0": {
+          "content": "0",
+          "position": "top-right",
+          "draw": false
+        }
+      },
+      "active": false,
+      "color": "#be4400",
+      "icon": {
+        "content": "",
+        "color": "#fff",
+        "scale": 1,
+        "font": "FontAwesome"
+      },
+      "fa2_x": 153.765,
+      "fa2_y": -89.891,
+      "colors": {
+        "0": "#be4400"
+      }
+    },
+    {
+      "renderer1:size": 6.15827734317735,
+      "renderer1:y": 337.7700232704807,
+      "renderer1:x": 1447.632127014543,
+      "read_cam0:y": -56.719,
+      "read_cam0:x": 157.257,
+      "read_cam0:size": 5,
+      "fixed": true,
+      "y": -56.719,
+      "x": 157.257,
+      "label": "THE BEARER",
+      "data": {
+        "statistics": {
+          "hiddenEdgeCount": 0,
+          "visibleEdgeCount": 1,
+          "edgeCount": 1,
+          "digest": {
+            "0": {
+              "edges": 1,
+              "nodes": 1,
+              "nodeCategories": {
+                "0": "Company"
+              },
+              "edgeType": "is officer of"
+            }
+          }
+        },
+        "categories": {
+          "0": "Officer"
+        },
+        "properties": {
+          "registerlocation": "",
+          "rst": "NOT NEGATIVE RESULT",
+          "pep": "NO",
+          "citizenship": "NO",
+          "custodianaddress": "",
+          "custodianname": "",
+          "newcertificate": "",
+          "name": "THE BEARER",
+          "certificateNumber": "4",
+          "numbershares": "1",
+          "classofshares": "",
+          "dateofissue": "01-10-2011",
+          "ceasedmembership": "26-07-2013",
+          "transferdate": "",
+          "sharestransferred": ""
+        }
+      },
+      "geo": {
+        "longitudeDiff": 0,
+        "latitudeDiff": 0
+      },
+      "nodelink": {
+        "fixed": true,
+        "y": -56.719,
+        "x": 157.257
+      },
+      "id": 465036,
+      "size": 1,
+      "glyphs": {
+        "0": {
+          "content": "0",
+          "position": "top-right",
+          "draw": false
+        }
+      },
+      "active": false,
+      "color": "#be4400",
+      "icon": {
+        "content": "",
+        "color": "#fff",
+        "scale": 1,
+        "font": "FontAwesome"
+      },
+      "fa2_x": 157.257,
+      "fa2_y": -56.719,
+      "colors": {
+        "0": "#be4400"
+      }
+    },
+    {
+      "renderer1:size": 6.15827734317735,
+      "renderer1:y": 565.4315659460618,
+      "renderer1:x": 1215.439670700394,
+      "read_cam0:y": 118.741,
+      "read_cam0:x": -21.695,
+      "read_cam0:size": 5,
+      "fixed": true,
+      "y": 118.741,
+      "x": -21.695,
+      "label": "NOTART CONSULTING S.A.",
+      "data": {
+        "statistics": {
+          "hiddenEdgeCount": 0,
+          "visibleEdgeCount": 6,
+          "edgeCount": 6,
+          "digest": {
+            "1": {
+              "edges": 1,
+              "nodes": 1,
+              "nodeCategories": {
+                "0": "Client"
+              },
+              "edgeType": "registered"
+            },
+            "0": {
+              "edges": 5,
+              "nodes": 5,
+              "nodeCategories": {
+                "0": "Officer"
+              },
+              "edgeType": "is officer of"
+            }
+          }
+        },
+        "categories": {
+          "0": "Company"
+        },
+        "properties": {
+          "registrationDate": "09-FEB-2011",
+          "struck_off_date": "",
+          "inactivationDate": "",
+          "status": "ACT",
+          "name": "NOTART CONSULTING S.A.",
+          "jurisdiction": "PMA",
+          "file_number": "61422"
+        }
+      },
+      "geo": {
+        "longitudeDiff": 0,
+        "latitudeDiff": 0
+      },
+      "nodelink": {
+        "fixed": true,
+        "y": 118.741,
+        "x": -21.695
+      },
+      "id": 62330,
+      "size": 1,
+      "glyphs": {
+        "0": {
+          "content": "0",
+          "position": "top-right",
+          "draw": false
+        }
+      },
+      "active": false,
+      "color": "#420e00",
+      "icon": {
+        "content": "",
+        "color": "#fff",
+        "scale": 1,
+        "font": "FontAwesome"
+      },
+      "fa2_x": -21.695,
+      "fa2_y": 118.741,
+      "colors": {
+        "0": "#420e00"
+      }
+    },
+    {
+      "renderer1:size": 6.15827734317735,
+      "renderer1:y": 588.0848366264048,
+      "renderer1:x": 1400.060128834573,
+      "read_cam0:y": 136.2,
+      "read_cam0:x": 120.593,
+      "read_cam0:size": 5,
+      "fixed": true,
+      "y": 136.2,
+      "x": 120.593,
+      "label": "THE BEARER",
+      "data": {
+        "statistics": {
+          "hiddenEdgeCount": 0,
+          "visibleEdgeCount": 1,
+          "edgeCount": 1,
+          "digest": {
+            "0": {
+              "edges": 1,
+              "nodes": 1,
+              "nodeCategories": {
+                "0": "Company"
+              },
+              "edgeType": "is officer of"
+            }
+          }
+        },
+        "categories": {
+          "0": "Officer"
+        },
+        "properties": {
+          "registerlocation": "",
+          "rst": "NOT NEGATIVE RESULT",
+          "pep": "NO",
+          "citizenship": "NO",
+          "custodianaddress": "",
+          "custodianname": "",
+          "newcertificate": "",
+          "name": "THE BEARER",
+          "certificateNumber": "1",
+          "numbershares": "1",
+          "classofshares": "",
+          "dateofissue": "10-02-2011",
+          "ceasedmembership": "",
+          "transferdate": "",
+          "sharestransferred": ""
+        }
+      },
+      "geo": {
+        "longitudeDiff": 0,
+        "latitudeDiff": 0
+      },
+      "nodelink": {
+        "fixed": true,
+        "y": 136.2,
+        "x": 120.593
+      },
+      "id": 463062,
+      "size": 1,
+      "glyphs": {
+        "0": {
+          "content": "0",
+          "position": "top-right",
+          "draw": false
+        }
+      },
+      "active": false,
+      "color": "#be4400",
+      "icon": {
+        "content": "",
+        "color": "#fff",
+        "scale": 1,
+        "font": "FontAwesome"
+      },
+      "fa2_x": 120.593,
+      "fa2_y": 136.2,
+      "colors": {
+        "0": "#be4400"
+      }
+    },
+    {
+      "renderer1:size": 6.15827734317735,
+      "renderer1:y": 608.4726504874639,
+      "renderer1:x": 1400.060128834573,
+      "read_cam0:y": 151.913,
+      "read_cam0:x": 120.593,
+      "read_cam0:size": 5,
+      "fixed": true,
+      "y": 151.913,
+      "x": 120.593,
+      "label": "THE BEARER",
+      "data": {
+        "statistics": {
+          "hiddenEdgeCount": 0,
+          "visibleEdgeCount": 1,
+          "edgeCount": 1,
+          "digest": {
+            "0": {
+              "edges": 1,
+              "nodes": 1,
+              "nodeCategories": {
+                "0": "Company"
+              },
+              "edgeType": "is officer of"
+            }
+          }
+        },
+        "categories": {
+          "0": "Officer"
+        },
+        "properties": {
+          "registerlocation": "",
+          "rst": "NOT NEGATIVE RESULT",
+          "pep": "NO",
+          "citizenship": "NO",
+          "custodianaddress": "",
+          "custodianname": "",
+          "newcertificate": "",
+          "name": "THE BEARER",
+          "certificateNumber": "2",
+          "numbershares": "1",
+          "classofshares": "",
+          "dateofissue": "10-02-2011",
+          "ceasedmembership": "",
+          "transferdate": "",
+          "sharestransferred": ""
+        }
+      },
+      "geo": {
+        "longitudeDiff": 0,
+        "latitudeDiff": 0
+      },
+      "nodelink": {
+        "fixed": true,
+        "y": 151.913,
+        "x": 120.593
+      },
+      "id": 463063,
+      "size": 1,
+      "glyphs": {
+        "0": {
+          "content": "0",
+          "position": "top-right",
+          "draw": false
+        }
+      },
+      "active": false,
+      "color": "#be4400",
+      "icon": {
+        "content": "",
+        "color": "#fff",
+        "scale": 1,
+        "font": "FontAwesome"
+      },
+      "fa2_x": 120.593,
+      "fa2_y": 151.913,
+      "colors": {
+        "0": "#be4400"
+      }
+    },
+    {
+      "renderer1:size": 6.15827734317735,
+      "renderer1:y": 651.5124375163689,
+      "renderer1:x": 1402.3255856538572,
+      "read_cam0:y": 185.084,
+      "read_cam0:x": 122.339,
+      "read_cam0:size": 5,
+      "fixed": true,
+      "y": 185.084,
+      "x": 122.339,
+      "label": "THE BEARER",
+      "data": {
+        "statistics": {
+          "hiddenEdgeCount": 0,
+          "visibleEdgeCount": 1,
+          "edgeCount": 1,
+          "digest": {
+            "0": {
+              "edges": 1,
+              "nodes": 1,
+              "nodeCategories": {
+                "0": "Company"
+              },
+              "edgeType": "is officer of"
+            }
+          }
+        },
+        "categories": {
+          "0": "Officer"
+        },
+        "properties": {
+          "registerlocation": "",
+          "rst": "NOT NEGATIVE RESULT",
+          "pep": "NO",
+          "citizenship": "NO",
+          "custodianaddress": "",
+          "custodianname": "",
+          "newcertificate": "",
+          "name": "THE BEARER",
+          "certificateNumber": "3",
+          "numbershares": "1",
+          "classofshares": "",
+          "dateofissue": "10-02-2011",
+          "ceasedmembership": "",
+          "transferdate": "",
+          "sharestransferred": ""
+        }
+      },
+      "geo": {
+        "longitudeDiff": 0,
+        "latitudeDiff": 0
+      },
+      "nodelink": {
+        "fixed": true,
+        "y": 185.084,
+        "x": 122.339
+      },
+      "id": 463064,
+      "size": 1,
+      "glyphs": {
+        "0": {
+          "content": "0",
+          "position": "top-right",
+          "draw": false
+        }
+      },
+      "active": false,
+      "color": "#be4400",
+      "icon": {
+        "content": "",
+        "color": "#fff",
+        "scale": 1,
+        "font": "FontAwesome"
+      },
+      "fa2_x": 122.339,
+      "fa2_y": 185.084,
+      "colors": {
+        "0": "#be4400"
+      }
+    },
+    {
+      "renderer1:size": 6.15827734317735,
+      "renderer1:y": 628.8604643485228,
+      "renderer1:x": 1401.192857244215,
+      "read_cam0:y": 167.626,
+      "read_cam0:x": 121.466,
+      "read_cam0:size": 5,
+      "fixed": true,
+      "y": 167.626,
+      "x": 121.466,
+      "label": "THE BEARER",
+      "data": {
+        "statistics": {
+          "hiddenEdgeCount": 0,
+          "visibleEdgeCount": 1,
+          "edgeCount": 1,
+          "digest": {
+            "0": {
+              "edges": 1,
+              "nodes": 1,
+              "nodeCategories": {
+                "0": "Company"
+              },
+              "edgeType": "is officer of"
+            }
+          }
+        },
+        "categories": {
+          "0": "Officer"
+        },
+        "properties": {
+          "registerlocation": "",
+          "rst": "NOT NEGATIVE RESULT",
+          "pep": "NO",
+          "citizenship": "NO",
+          "custodianaddress": "",
+          "custodianname": "",
+          "newcertificate": "",
+          "name": "THE BEARER",
+          "certificateNumber": "4",
+          "numbershares": "1",
+          "classofshares": "",
+          "dateofissue": "10-02-2011",
+          "ceasedmembership": "",
+          "transferdate": "",
+          "sharestransferred": ""
+        }
+      },
+      "geo": {
+        "longitudeDiff": 0,
+        "latitudeDiff": 0
+      },
+      "nodelink": {
+        "fixed": true,
+        "y": 167.626,
+        "x": 121.466
+      },
+      "id": 463065,
+      "size": 1,
+      "glyphs": {
+        "0": {
+          "content": "0",
+          "position": "top-right",
+          "draw": false
+        }
+      },
+      "active": false,
+      "color": "#be4400",
+      "icon": {
+        "content": "",
+        "color": "#fff",
+        "scale": 1,
+        "font": "FontAwesome"
+      },
+      "fa2_x": 121.466,
+      "fa2_y": 167.626,
+      "colors": {
+        "0": "#be4400"
+      }
+    },
+    {
+      "renderer1:size": 6.15827734317735,
+      "renderer1:y": 401.19762416044483,
+      "renderer1:x": 1448.7635579116882,
+      "read_cam0:y": -7.835,
+      "read_cam0:x": 158.129,
+      "read_cam0:size": 5,
+      "fixed": true,
+      "y": -7.835,
+      "x": 158.129,
+      "label": "Sheikh Hamad Jassim J.M. Al-Thani",
+      "data": {
+        "statistics": {
+          "hiddenEdgeCount": 0,
+          "visibleEdgeCount": 3,
+          "edgeCount": 3,
+          "digest": {
+            "2": {
+              "edges": 1,
+              "nodes": 1,
+              "nodeCategories": {
+                "0": "Company"
+              },
+              "edgeType": "is officer of"
+            },
+            "1": {
+              "edges": 1,
+              "nodes": 1,
+              "nodeCategories": {
+                "0": "Address"
+              },
+              "edgeType": "registered address"
+            },
+            "0": {
+              "edges": 1,
+              "nodes": 1,
+              "nodeCategories": {
+                "0": "Officer"
+              },
+              "edgeType": "has similar name and address as"
+            }
+          }
+        },
+        "categories": {
+          "0": "Officer"
+        },
+        "properties": {
+          "passport_copy": "N",
+          "pep": "NO",
+          "citizenship": "NO",
+          "name": "Sheikh Hamad Jassim J.M. Al-Thani"
+        }
+      },
+      "geo": {
+        "longitudeDiff": 0,
+        "latitudeDiff": 0
+      },
+      "nodelink": {
+        "fixed": true,
+        "y": -7.835,
+        "x": 158.129
+      },
+      "id": 652036,
+      "size": 1,
+      "glyphs": {
+        "0": {
+          "content": "0",
+          "position": "top-right",
+          "draw": false
+        }
+      },
+      "active": false,
+      "color": "#be4400",
+      "icon": {
+        "content": "",
+        "color": "#fff",
+        "scale": 1,
+        "font": "FontAwesome"
+      },
+      "fa2_x": 158.129,
+      "fa2_y": -7.835,
+      "colors": {
+        "0": "#be4400"
+      }
+    },
+    {
+      "renderer1:size": 6.15827734317735,
+      "renderer1:y": 381.9425387090278,
+      "renderer1:x": 1446.499398604901,
+      "read_cam0:y": -22.675,
+      "read_cam0:x": 156.384,
+      "read_cam0:size": 5,
+      "fixed": true,
+      "y": -22.675,
+      "x": 156.384,
+      "label": "Sheikh Hamad Bibkhalifa Binhamad Al-Thani",
+      "data": {
+        "statistics": {
+          "hiddenEdgeCount": 0,
+          "visibleEdgeCount": 3,
+          "edgeCount": 3,
+          "digest": {
+            "2": {
+              "edges": 1,
+              "nodes": 1,
+              "nodeCategories": {
+                "0": "Company"
+              },
+              "edgeType": "is officer of"
+            },
+            "1": {
+              "edges": 1,
+              "nodes": 1,
+              "nodeCategories": {
+                "0": "Address"
+              },
+              "edgeType": "registered address"
+            },
+            "0": {
+              "edges": 1,
+              "nodes": 1,
+              "nodeCategories": {
+                "0": "Officer"
+              },
+              "edgeType": "has similar name and address as"
+            }
+          }
+        },
+        "categories": {
+          "0": "Officer"
+        },
+        "properties": {
+          "passport_copy": "N",
+          "pep": "NO",
+          "citizenship": "NO",
+          "name": "Sheikh Hamad Bibkhalifa Binhamad Al-Thani"
+        }
+      },
+      "geo": {
+        "longitudeDiff": 0,
+        "latitudeDiff": 0
+      },
+      "nodelink": {
+        "fixed": true,
+        "y": -22.675,
+        "x": 156.384
+      },
+      "id": 653905,
+      "size": 1,
+      "glyphs": {
+        "0": {
+          "content": "0",
+          "position": "top-right",
+          "draw": false
+        }
+      },
+      "active": false,
+      "color": "#be4400",
+      "icon": {
+        "content": "",
+        "color": "#fff",
+        "scale": 1,
+        "font": "FontAwesome"
+      },
+      "fa2_x": 156.384,
+      "fa2_y": -22.675,
+      "colors": {
+        "0": "#be4400"
+      }
+    },
+    {
+      "renderer1:size": 6.15827734317735,
+      "renderer1:y": 411.1802506879123,
+      "renderer1:x": 1239.9892770691652,
+      "color": "#be4400",
+      "glyphs": {
+        "0": {
+          "content": "3",
+          "position": "top-right",
+          "draw": true
+        }
+      },
+      "size": 1,
+      "label": "HH Sheikh Hamad Bin Khalifa Bin Hamad al Thani",
+      "y": -0.14133496582508087,
+      "x": -2.7744836807250977,
+      "data": {
+        "statistics": {
+          "hiddenEdgeCount": 3,
+          "visibleEdgeCount": 2,
+          "edgeCount": 5,
+          "digest": {
+            "1": {
+              "edges": 4,
+              "nodes": 3,
+              "nodeCategories": {
+                "0": "Company"
+              },
+              "edgeType": "is officer of"
+            },
+            "0": {
+              "edges": 1,
+              "nodes": 1,
+              "nodeCategories": {
+                "0": "Address"
+              },
+              "edgeType": "registered address"
+            }
+          }
+        },
+        "categories": {
+          "0": "Officer"
+        },
+        "properties": {
+          "registerlocation": "L 2320 Luxembourg   67   boulevard de la Petrusse",
+          "rst": "NOT NEGATIVE RESULT(SEARCHES CONDUCTED)",
+          "pep": "NO",
+          "citizenship": "NO",
+          "custodianaddress": "",
+          "custodianname": "",
+          "newcertificate": "",
+          "name": "HH Sheikh Hamad Bin Khalifa Bin Hamad al Thani",
+          "certificateNumber": "1",
+          "numbershares": "1",
+          "classofshares": "ORDINARY",
+          "dateofissue": "02-01-2014",
+          "ceasedmembership": "",
+          "transferdate": "",
+          "sharestransferred": ""
+        }
+      },
+      "id": 417090,
+      "icon": {
+        "content": "",
+        "color": "#fff",
+        "scale": 1,
+        "font": "FontAwesome"
+      },
+      "fa2_x": -2.7744836807250977,
+      "fa2_y": -0.14133496582508087,
+      "active": false,
+      "colors": {
+        "0": "#be4400"
+      },
+      "read_cam0:size": 5,
+      "read_cam0:x": -2.7744836807250977,
+      "read_cam0:y": -0.14133496582508087
+    }
+  ]
+}

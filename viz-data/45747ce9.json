@@ -1,1 +1,942 @@
-{"nodes":[{"id":110439,"nodelink":{"x":-25.3,"y":-9.546},"geo":{"latitudeDiff":0,"longitudeDiff":0},"data":{"properties":{"file_number":"5528","jurisdiction":"PMA","name":"I. M. F. HOLDINGS INC.","status":"DIS","inactivationDate":"27-FEB-2013","struck_off_date":"15-JAN-2016","registrationDate":"01-OCT-1985"},"categories":{"0":"Company"},"statistics":{"digest":{"0":{"edgeType":"is officer of","nodeCategories":{"0":"Officer"},"nodes":3,"edges":3},"1":{"edgeType":"registered","nodeCategories":{"0":"Client"},"nodes":1,"edges":1}},"edgeCount":4,"visibleEdgeCount":4,"hiddenEdgeCount":0}},"label":"I. M. F. HOLDINGS INC.","x":-25.3,"y":-9.546,"size":1,"glyphs":{"0":{"draw":false,"position":"top-right","content":"0"}},"colors":{"0":"#420e00"},"color":"#420e00","icon":{"font":"FontAwesome","scale":1,"color":"#fff","content":""},"read_cam0:size":5,"read_cam0:x":-25.3,"read_cam0:y":-9.546,"renderer1:x":1105.537962541458,"renderer1:y":367.808415165507,"renderer1:size":30.84506338068718},{"id":387354,"nodelink":{"x":11.484,"y":-20.1,"fixed":true},"geo":{"latitudeDiff":0,"longitudeDiff":0},"data":{"properties":{"name":"AYAD H. ALLAWI","certificateNumber":"1","numbershares":"2","classofshares":"","dateofissue":"01-04-2009","ceasedmembership":"","transferdate":"","sharestransferred":"","newcertificate":"","custodianname":"","custodianaddress":"","citizenship":"NO","pep":"YES","rst":"PEP / NOT NEGATIVE RESULT","registerlocation":"Child & Child 4 Grosvenor Place London SW1X 7HJ"},"categories":{"0":"Officer"},"statistics":{"digest":{"0":{"edgeType":"registered address","nodeCategories":{"0":"Address"},"nodes":1,"edges":1},"1":{"edgeType":"is officer of","nodeCategories":{"0":"Company"},"nodes":2,"edges":2}},"edgeCount":3,"visibleEdgeCount":3,"hiddenEdgeCount":0}},"label":"AYAD H. ALLAWI","x":11.484,"y":-20.1,"fixed":true,"size":1,"glyphs":{"0":{"draw":false,"position":"top-right","content":"0"}},"colors":{"0":"#be4400"},"color":"#be4400","icon":{"font":"FontAwesome","scale":1,"color":"#fff","content":""},"read_cam0:size":5,"read_cam0:x":11.484,"read_cam0:y":-20.1,"renderer1:x":1463.1635071860571,"renderer1:y":265.19912856864147,"renderer1:size":30.84506338068718},{"id":457744,"nodelink":{"x":-33.96,"y":13.268},"geo":{"latitudeDiff":0,"longitudeDiff":0},"data":{"properties":{"name":"THE BEARER","certificateNumber":"1","numbershares":"1","classofshares":"","dateofissue":"11-12-1985","ceasedmembership":"01-11-2000","transferdate":"","sharestransferred":"1.0","newcertificate":"3","custodianname":"","custodianaddress":"","citizenship":"NO","pep":"NO","rst":"NOT NEGATIVE RESULT","registerlocation":""},"categories":{"0":"Officer"},"statistics":{"digest":{"0":{"edgeType":"is officer of","nodeCategories":{"0":"Company"},"nodes":1,"edges":1}},"edgeCount":1,"visibleEdgeCount":1,"hiddenEdgeCount":0}},"label":"THE BEARER","x":-33.96,"y":13.268,"size":1,"glyphs":{"0":{"draw":false,"position":"top-right","content":"0"}},"colors":{"0":"#be4400"},"color":"#be4400","icon":{"font":"FontAwesome","scale":1,"color":"#fff","content":""},"read_cam0:size":5,"read_cam0:x":-33.96,"read_cam0:y":13.268,"renderer1:x":1021.3427359042726,"renderer1:y":589.6132535605125,"renderer1:size":30.84506338068718},{"id":457745,"nodelink":{"x":-43.416,"y":-22.7,"fixed":true},"geo":{"latitudeDiff":0,"longitudeDiff":0},"data":{"properties":{"name":"THE BEARER","certificateNumber":"2","numbershares":"1","classofshares":"","dateofissue":"11-12-1985","ceasedmembership":"01-11-2000","transferdate":"","sharestransferred":"1.0","newcertificate":"3","custodianname":"","custodianaddress":"","citizenship":"NO","pep":"NO","rst":"NOT NEGATIVE RESULT","registerlocation":""},"categories":{"0":"Officer"},"statistics":{"digest":{"0":{"edgeType":"is officer of","nodeCategories":{"0":"Company"},"nodes":1,"edges":1}},"edgeCount":1,"visibleEdgeCount":1,"hiddenEdgeCount":0}},"label":"THE BEARER","x":-43.416,"y":-22.7,"fixed":true,"size":1,"glyphs":{"0":{"draw":false,"position":"top-right","content":"0"}},"colors":{"0":"#be4400"},"color":"#be4400","icon":{"font":"FontAwesome","scale":1,"color":"#fff","content":""},"read_cam0:size":5,"read_cam0:x":-43.416,"read_cam0:y":-22.7,"renderer1:x":929.4085484814984,"renderer1:y":239.92111595239646,"renderer1:size":30.84506338068718},{"id":589835,"nodelink":{"x":-4.016,"y":14.4,"fixed":true},"geo":{"latitudeDiff":0,"longitudeDiff":0},"data":{"properties":{"name":"CHILD & CHILD","status":"ACTIVE","client_number":"31779","client_name":"CHILD & CHILD","prospect_date":"","active_since":"01-JUL-2011","country":"UNITED KINGDOM","city":"LONDON","former_name":"","cross_reference":"CHILD & CHILD - SOLICITORS","activity":"SOLICITORS","classification":"Special rates","subclassification":"","region":"PROFESSIONAL CLIENTS","compliance_classification":"INTRODUCER"},"categories":{"0":"Client"},"statistics":{"digest":{"0":{"edgeType":"registered","nodeCategories":{"0":"Company"},"nodes":80,"edges":80}},"edgeCount":80,"visibleEdgeCount":3,"hiddenEdgeCount":77}},"label":"CHILD & CHILD","x":-4.016,"y":14.4,"fixed":true,"size":1,"glyphs":{"0":{"draw":true,"position":"top-right","content":"77"}},"colors":{"0":"#851d00"},"color":"#851d00","icon":{"font":"FontAwesome","scale":1,"color":"#fff","content":""},"read_cam0:size":5,"read_cam0:x":-4.016,"read_cam0:y":14.4,"renderer1:x":1312.4676627430579,"renderer1:y":600.6189113611238,"renderer1:size":30.84506338068718},{"id":59391,"nodelink":{"x":9.384,"y":3.4,"fixed":true},"geo":{"latitudeDiff":0,"longitudeDiff":0},"data":{"properties":{"file_number":"6001360","jurisdiction":"BVI","name":"Moonlight Estates Limited","status":"ACT","inactivationDate":"","struck_off_date":"","registrationDate":"02-JAN-2009"},"categories":{"0":"Company"},"statistics":{"digest":{"0":{"edgeType":"is officer of","nodeCategories":{"0":"Officer"},"nodes":2,"edges":2},"1":{"edgeType":"registered","nodeCategories":{"0":"Client"},"nodes":1,"edges":1}},"edgeCount":3,"visibleEdgeCount":3,"hiddenEdgeCount":0}},"label":"Moonlight Estates Limited","x":9.384,"y":3.4,"fixed":true,"size":1,"glyphs":{"0":{"draw":false,"position":"top-right","content":"0"}},"colors":{"0":"#420e00"},"color":"#420e00","icon":{"font":"FontAwesome","scale":1,"color":"#fff","content":""},"read_cam0:size":5,"read_cam0:x":9.384,"read_cam0:y":3.4,"renderer1:x":1442.746650842167,"renderer1:y":493.67347336931783,"renderer1:size":30.84506338068718},{"id":549590,"nodelink":{"x":28.48,"y":0.691},"geo":{"latitudeDiff":0,"longitudeDiff":0},"data":{"properties":{"name":"No. 14-18 Al-Zaytoon Street<br/>Harithiya District<br/>Baghdad<br/>Iraq"},"categories":{"0":"Address"},"statistics":{"digest":{"0":{"edgeType":"registered address","nodeCategories":{"0":"Officer"},"nodes":2,"edges":2}},"edgeCount":2,"visibleEdgeCount":2,"hiddenEdgeCount":0}},"label":"No. 14-18 Al-Zaytoon Street<br/>Harithiya District<br/>Baghdad<br/>Iraq","x":28.48,"y":0.691,"size":1,"glyphs":{"0":{"draw":false,"position":"top-right","content":"0"}},"colors":{"0":"#937c6f"},"color":"#937c6f","icon":{"font":"FontAwesome","scale":1,"color":"#fff","content":""},"read_cam0:size":5,"read_cam0:x":28.48,"read_cam0:y":0.691,"renderer1:x":1628.4039311959418,"renderer1:y":467.33572868569945,"renderer1:size":30.84506338068718},{"id":47771,"nodelink":{"x":-27.079,"y":-36.206,"fixed":true},"geo":{"latitudeDiff":0,"longitudeDiff":0},"data":{"properties":{"file_number":"571649","jurisdiction":"BVI","name":"FOXWOOD ESTATES LIMITED","status":"ACT","inactivationDate":"","struck_off_date":"","registrationDate":"30-JUN-2005"},"categories":{"0":"Company"},"statistics":{"digest":{"0":{"edgeType":"is officer of","nodeCategories":{"0":"Officer"},"nodes":2,"edges":2},"1":{"edgeType":"registered","nodeCategories":{"0":"Client"},"nodes":1,"edges":1}},"edgeCount":3,"visibleEdgeCount":3,"hiddenEdgeCount":0}},"label":"FOXWOOD ESTATES LIMITED","x":-27.079,"y":-36.206,"fixed":true,"size":1,"glyphs":{"0":{"draw":false,"position":"top-right","content":"0"}},"colors":{"0":"#420e00"},"color":"#420e00","icon":{"font":"FontAwesome","scale":1,"color":"#fff","content":""},"read_cam0:size":5,"read_cam0:x":-27.079,"read_cam0:y":-36.206,"renderer1:x":1088.2419685244195,"renderer1:y":108.61156272354816,"renderer1:size":30.84506338068718},{"id":354638,"nodelink":{"x":-16.265,"y":-23.935},"geo":{"latitudeDiff":0,"longitudeDiff":0},"data":{"properties":{"name":"AYAD ALLAWI","certificateNumber":"3","numbershares":"2","classofshares":"","dateofissue":"01-11-2000","ceasedmembership":"","transferdate":"","sharestransferred":"","newcertificate":"","custodianname":"","custodianaddress":"","citizenship":"NO","pep":"NO","rst":"NOT NEGATIVE RESULT","registerlocation":""},"categories":{"0":"Officer"},"statistics":{"digest":{"0":{"edgeType":"is officer of","nodeCategories":{"0":"Company"},"nodes":2,"edges":2}},"edgeCount":2,"visibleEdgeCount":2,"hiddenEdgeCount":0}},"label":"AYAD ALLAWI","x":-16.265,"y":-23.935,"size":1,"glyphs":{"0":{"draw":false,"position":"top-right","content":"0"}},"colors":{"0":"#be4400"},"color":"#be4400","icon":{"font":"FontAwesome","scale":1,"color":"#fff","content":""},"read_cam0:size":5,"read_cam0:x":-16.265,"read_cam0:y":-23.935,"renderer1:x":1193.3790563829095,"renderer1:y":227.91405995968006,"renderer1:size":30.84506338068718},{"id":651789,"nodelink":{"x":28.705,"y":15.302},"geo":{"latitudeDiff":0,"longitudeDiff":0},"data":{"properties":{"name":"DR. AYAD H. ALLAWI","citizenship":"YES","pep":"YES","passport_copy":"Y"},"categories":{"0":"Officer"},"statistics":{"digest":{"0":{"edgeType":"registered address","nodeCategories":{"0":"Address"},"nodes":1,"edges":1},"1":{"edgeType":"is officer of","nodeCategories":{"0":"Company"},"nodes":1,"edges":1}},"edgeCount":2,"visibleEdgeCount":2,"hiddenEdgeCount":0}},"label":"DR. AYAD H. ALLAWI","x":28.705,"y":15.302,"size":1,"glyphs":{"0":{"draw":false,"position":"top-right","content":"0"}},"colors":{"0":"#be4400"},"color":"#be4400","icon":{"font":"FontAwesome","scale":1,"color":"#fff","content":""},"read_cam0:size":5,"read_cam0:x":28.705,"read_cam0:y":15.302,"renderer1:x":1630.5914515185016,"renderer1:y":609.3884372764519,"renderer1:size":30.84506338068718}],"edges":[{"id":707300,"source":589835,"target":110439,"data":{"properties":{},"type":"registered"},"label":"registered","size":1,"color":"#8a6960","read_cam0:size":2,"renderer1:size":12.338025352274872},{"id":721692,"source":589835,"target":47771,"data":{"properties":{},"type":"registered"},"label":"registered","size":1,"color":"#8a6960","hover":false,"read_cam0:size":2,"renderer1:size":12.338025352274872},{"id":735060,"source":589835,"target":59391,"data":{"properties":{},"type":"registered"},"label":"registered","size":1,"color":"#8a6960","read_cam0:size":2,"renderer1:size":12.338025352274872},{"id":296976,"source":387354,"target":549590,"data":{"properties":{},"type":"registered address"},"label":"registered address","size":1,"color":"#baaba3","read_cam0:size":2,"renderer1:size":12.338025352274872},{"id":328917,"source":651789,"target":549590,"data":{"properties":{},"type":"registered address"},"label":"registered address","size":1,"color":"#baaba3","read_cam0:size":2,"renderer1:size":12.338025352274872},{"id":52602,"source":651789,"target":59391,"data":{"properties":{"name":"Beneficiay"},"type":"is officer of"},"label":"Beneficiay","size":1,"color":"#d48a60","read_cam0:size":2,"renderer1:size":12.338025352274872},{"id":68433,"source":387354,"target":47771,"data":{"properties":{"name":"Director"},"type":"is officer of"},"label":"Director","size":1,"color":"#d48a60","hover":false,"read_cam0:size":2,"renderer1:size":12.338025352274872},{"id":466351,"source":387354,"target":59391,"data":{"properties":{"name":"Shareholder"},"type":"is officer of"},"label":"Shareholder","size":1,"color":"#d48a60","read_cam0:size":2,"renderer1:size":12.338025352274872},{"id":68434,"source":354638,"target":47771,"data":{"properties":{"name":"Director"},"type":"is officer of"},"label":"Director","size":1,"color":"#d48a60","read_cam0:size":2,"renderer1:size":12.338025352274872},{"id":843681,"source":457744,"target":110439,"data":{"properties":{"name":"Shareholder"},"type":"is officer of"},"label":"Shareholder","size":1,"color":"#d48a60","read_cam0:size":2,"renderer1:size":12.338025352274872},{"id":843682,"source":457745,"target":110439,"data":{"properties":{"name":"Shareholder"},"type":"is officer of"},"label":"Shareholder","size":1,"color":"#d48a60","read_cam0:size":2,"renderer1:size":12.338025352274872},{"id":843683,"source":354638,"target":110439,"data":{"properties":{"name":"Shareholder"},"type":"is officer of"},"label":"Shareholder","size":1,"color":"#d48a60","hover":false,"read_cam0:size":2,"renderer1:size":12.338025352274872}]}
+{
+  "edges": [
+    {
+      "renderer1:size": 12.338025352274872,
+      "id": 707300,
+      "source": 589835,
+      "target": 110439,
+      "data": {
+        "type": "registered",
+        "properties": {}
+      },
+      "label": "registered",
+      "size": 1,
+      "color": "#8a6960",
+      "read_cam0:size": 2
+    },
+    {
+      "renderer1:size": 12.338025352274872,
+      "read_cam0:size": 2,
+      "id": 721692,
+      "source": 589835,
+      "target": 47771,
+      "data": {
+        "type": "registered",
+        "properties": {}
+      },
+      "label": "registered",
+      "size": 1,
+      "color": "#8a6960",
+      "hover": false
+    },
+    {
+      "renderer1:size": 12.338025352274872,
+      "id": 735060,
+      "source": 589835,
+      "target": 59391,
+      "data": {
+        "type": "registered",
+        "properties": {}
+      },
+      "label": "registered",
+      "size": 1,
+      "color": "#8a6960",
+      "read_cam0:size": 2
+    },
+    {
+      "renderer1:size": 12.338025352274872,
+      "id": 296976,
+      "source": 387354,
+      "target": 549590,
+      "data": {
+        "type": "registered address",
+        "properties": {}
+      },
+      "label": "registered address",
+      "size": 1,
+      "color": "#baaba3",
+      "read_cam0:size": 2
+    },
+    {
+      "renderer1:size": 12.338025352274872,
+      "id": 328917,
+      "source": 651789,
+      "target": 549590,
+      "data": {
+        "type": "registered address",
+        "properties": {}
+      },
+      "label": "registered address",
+      "size": 1,
+      "color": "#baaba3",
+      "read_cam0:size": 2
+    },
+    {
+      "renderer1:size": 12.338025352274872,
+      "id": 52602,
+      "source": 651789,
+      "target": 59391,
+      "data": {
+        "type": "is officer of",
+        "properties": {
+          "name": "Beneficiay"
+        }
+      },
+      "label": "Beneficiay",
+      "size": 1,
+      "color": "#d48a60",
+      "read_cam0:size": 2
+    },
+    {
+      "renderer1:size": 12.338025352274872,
+      "read_cam0:size": 2,
+      "id": 68433,
+      "source": 387354,
+      "target": 47771,
+      "data": {
+        "type": "is officer of",
+        "properties": {
+          "name": "Director"
+        }
+      },
+      "label": "Director",
+      "size": 1,
+      "color": "#d48a60",
+      "hover": false
+    },
+    {
+      "renderer1:size": 12.338025352274872,
+      "id": 466351,
+      "source": 387354,
+      "target": 59391,
+      "data": {
+        "type": "is officer of",
+        "properties": {
+          "name": "Shareholder"
+        }
+      },
+      "label": "Shareholder",
+      "size": 1,
+      "color": "#d48a60",
+      "read_cam0:size": 2
+    },
+    {
+      "renderer1:size": 12.338025352274872,
+      "id": 68434,
+      "source": 354638,
+      "target": 47771,
+      "data": {
+        "type": "is officer of",
+        "properties": {
+          "name": "Director"
+        }
+      },
+      "label": "Director",
+      "size": 1,
+      "color": "#d48a60",
+      "read_cam0:size": 2
+    },
+    {
+      "renderer1:size": 12.338025352274872,
+      "id": 843681,
+      "source": 457744,
+      "target": 110439,
+      "data": {
+        "type": "is officer of",
+        "properties": {
+          "name": "Shareholder"
+        }
+      },
+      "label": "Shareholder",
+      "size": 1,
+      "color": "#d48a60",
+      "read_cam0:size": 2
+    },
+    {
+      "renderer1:size": 12.338025352274872,
+      "id": 843682,
+      "source": 457745,
+      "target": 110439,
+      "data": {
+        "type": "is officer of",
+        "properties": {
+          "name": "Shareholder"
+        }
+      },
+      "label": "Shareholder",
+      "size": 1,
+      "color": "#d48a60",
+      "read_cam0:size": 2
+    },
+    {
+      "renderer1:size": 12.338025352274872,
+      "read_cam0:size": 2,
+      "id": 843683,
+      "source": 354638,
+      "target": 110439,
+      "data": {
+        "type": "is officer of",
+        "properties": {
+          "name": "Shareholder"
+        }
+      },
+      "label": "Shareholder",
+      "size": 1,
+      "color": "#d48a60",
+      "hover": false
+    }
+  ],
+  "nodes": [
+    {
+      "renderer1:size": 30.84506338068718,
+      "renderer1:y": 367.808415165507,
+      "size": 1,
+      "y": -9.546,
+      "x": -25.3,
+      "label": "I. M. F. HOLDINGS INC.",
+      "data": {
+        "statistics": {
+          "hiddenEdgeCount": 0,
+          "visibleEdgeCount": 4,
+          "edgeCount": 4,
+          "digest": {
+            "1": {
+              "edges": 1,
+              "nodes": 1,
+              "nodeCategories": {
+                "0": "Client"
+              },
+              "edgeType": "registered"
+            },
+            "0": {
+              "edges": 3,
+              "nodes": 3,
+              "nodeCategories": {
+                "0": "Officer"
+              },
+              "edgeType": "is officer of"
+            }
+          }
+        },
+        "categories": {
+          "0": "Company"
+        },
+        "properties": {
+          "registrationDate": "01-OCT-1985",
+          "struck_off_date": "15-JAN-2016",
+          "inactivationDate": "27-FEB-2013",
+          "status": "DIS",
+          "name": "I. M. F. HOLDINGS INC.",
+          "jurisdiction": "PMA",
+          "file_number": "5528"
+        }
+      },
+      "geo": {
+        "longitudeDiff": 0,
+        "latitudeDiff": 0
+      },
+      "nodelink": {
+        "y": -9.546,
+        "x": -25.3
+      },
+      "id": 110439,
+      "glyphs": {
+        "0": {
+          "content": "0",
+          "position": "top-right",
+          "draw": false
+        }
+      },
+      "colors": {
+        "0": "#420e00"
+      },
+      "color": "#420e00",
+      "icon": {
+        "content": "",
+        "color": "#fff",
+        "scale": 1,
+        "font": "FontAwesome"
+      },
+      "read_cam0:size": 5,
+      "read_cam0:x": -25.3,
+      "read_cam0:y": -9.546,
+      "renderer1:x": 1105.537962541458
+    },
+    {
+      "renderer1:size": 30.84506338068718,
+      "renderer1:y": 265.19912856864147,
+      "renderer1:x": 1463.1635071860571,
+      "fixed": true,
+      "y": -20.1,
+      "x": 11.484,
+      "label": "AYAD H. ALLAWI",
+      "data": {
+        "statistics": {
+          "hiddenEdgeCount": 0,
+          "visibleEdgeCount": 3,
+          "edgeCount": 3,
+          "digest": {
+            "1": {
+              "edges": 2,
+              "nodes": 2,
+              "nodeCategories": {
+                "0": "Company"
+              },
+              "edgeType": "is officer of"
+            },
+            "0": {
+              "edges": 1,
+              "nodes": 1,
+              "nodeCategories": {
+                "0": "Address"
+              },
+              "edgeType": "registered address"
+            }
+          }
+        },
+        "categories": {
+          "0": "Officer"
+        },
+        "properties": {
+          "registerlocation": "Child & Child 4 Grosvenor Place London SW1X 7HJ",
+          "rst": "PEP / NOT NEGATIVE RESULT",
+          "pep": "YES",
+          "citizenship": "NO",
+          "custodianaddress": "",
+          "custodianname": "",
+          "newcertificate": "",
+          "name": "AYAD H. ALLAWI",
+          "certificateNumber": "1",
+          "numbershares": "2",
+          "classofshares": "",
+          "dateofissue": "01-04-2009",
+          "ceasedmembership": "",
+          "transferdate": "",
+          "sharestransferred": ""
+        }
+      },
+      "geo": {
+        "longitudeDiff": 0,
+        "latitudeDiff": 0
+      },
+      "nodelink": {
+        "fixed": true,
+        "y": -20.1,
+        "x": 11.484
+      },
+      "id": 387354,
+      "size": 1,
+      "glyphs": {
+        "0": {
+          "content": "0",
+          "position": "top-right",
+          "draw": false
+        }
+      },
+      "colors": {
+        "0": "#be4400"
+      },
+      "color": "#be4400",
+      "icon": {
+        "content": "",
+        "color": "#fff",
+        "scale": 1,
+        "font": "FontAwesome"
+      },
+      "read_cam0:size": 5,
+      "read_cam0:x": 11.484,
+      "read_cam0:y": -20.1
+    },
+    {
+      "renderer1:size": 30.84506338068718,
+      "renderer1:y": 589.6132535605125,
+      "size": 1,
+      "y": 13.268,
+      "x": -33.96,
+      "label": "THE BEARER",
+      "data": {
+        "statistics": {
+          "hiddenEdgeCount": 0,
+          "visibleEdgeCount": 1,
+          "edgeCount": 1,
+          "digest": {
+            "0": {
+              "edges": 1,
+              "nodes": 1,
+              "nodeCategories": {
+                "0": "Company"
+              },
+              "edgeType": "is officer of"
+            }
+          }
+        },
+        "categories": {
+          "0": "Officer"
+        },
+        "properties": {
+          "registerlocation": "",
+          "rst": "NOT NEGATIVE RESULT",
+          "pep": "NO",
+          "citizenship": "NO",
+          "custodianaddress": "",
+          "custodianname": "",
+          "newcertificate": "3",
+          "name": "THE BEARER",
+          "certificateNumber": "1",
+          "numbershares": "1",
+          "classofshares": "",
+          "dateofissue": "11-12-1985",
+          "ceasedmembership": "01-11-2000",
+          "transferdate": "",
+          "sharestransferred": "1.0"
+        }
+      },
+      "geo": {
+        "longitudeDiff": 0,
+        "latitudeDiff": 0
+      },
+      "nodelink": {
+        "y": 13.268,
+        "x": -33.96
+      },
+      "id": 457744,
+      "glyphs": {
+        "0": {
+          "content": "0",
+          "position": "top-right",
+          "draw": false
+        }
+      },
+      "colors": {
+        "0": "#be4400"
+      },
+      "color": "#be4400",
+      "icon": {
+        "content": "",
+        "color": "#fff",
+        "scale": 1,
+        "font": "FontAwesome"
+      },
+      "read_cam0:size": 5,
+      "read_cam0:x": -33.96,
+      "read_cam0:y": 13.268,
+      "renderer1:x": 1021.3427359042726
+    },
+    {
+      "renderer1:size": 30.84506338068718,
+      "renderer1:y": 239.92111595239646,
+      "renderer1:x": 929.4085484814984,
+      "fixed": true,
+      "y": -22.7,
+      "x": -43.416,
+      "label": "THE BEARER",
+      "data": {
+        "statistics": {
+          "hiddenEdgeCount": 0,
+          "visibleEdgeCount": 1,
+          "edgeCount": 1,
+          "digest": {
+            "0": {
+              "edges": 1,
+              "nodes": 1,
+              "nodeCategories": {
+                "0": "Company"
+              },
+              "edgeType": "is officer of"
+            }
+          }
+        },
+        "categories": {
+          "0": "Officer"
+        },
+        "properties": {
+          "registerlocation": "",
+          "rst": "NOT NEGATIVE RESULT",
+          "pep": "NO",
+          "citizenship": "NO",
+          "custodianaddress": "",
+          "custodianname": "",
+          "newcertificate": "3",
+          "name": "THE BEARER",
+          "certificateNumber": "2",
+          "numbershares": "1",
+          "classofshares": "",
+          "dateofissue": "11-12-1985",
+          "ceasedmembership": "01-11-2000",
+          "transferdate": "",
+          "sharestransferred": "1.0"
+        }
+      },
+      "geo": {
+        "longitudeDiff": 0,
+        "latitudeDiff": 0
+      },
+      "nodelink": {
+        "fixed": true,
+        "y": -22.7,
+        "x": -43.416
+      },
+      "id": 457745,
+      "size": 1,
+      "glyphs": {
+        "0": {
+          "content": "0",
+          "position": "top-right",
+          "draw": false
+        }
+      },
+      "colors": {
+        "0": "#be4400"
+      },
+      "color": "#be4400",
+      "icon": {
+        "content": "",
+        "color": "#fff",
+        "scale": 1,
+        "font": "FontAwesome"
+      },
+      "read_cam0:size": 5,
+      "read_cam0:x": -43.416,
+      "read_cam0:y": -22.7
+    },
+    {
+      "renderer1:size": 30.84506338068718,
+      "renderer1:y": 600.6189113611238,
+      "renderer1:x": 1312.4676627430579,
+      "fixed": true,
+      "y": 14.4,
+      "x": -4.016,
+      "label": "CHILD & CHILD",
+      "data": {
+        "statistics": {
+          "hiddenEdgeCount": 77,
+          "visibleEdgeCount": 3,
+          "edgeCount": 80,
+          "digest": {
+            "0": {
+              "edges": 80,
+              "nodes": 80,
+              "nodeCategories": {
+                "0": "Company"
+              },
+              "edgeType": "registered"
+            }
+          }
+        },
+        "categories": {
+          "0": "Client"
+        },
+        "properties": {
+          "compliance_classification": "INTRODUCER",
+          "region": "PROFESSIONAL CLIENTS",
+          "subclassification": "",
+          "classification": "Special rates",
+          "activity": "SOLICITORS",
+          "cross_reference": "CHILD & CHILD - SOLICITORS",
+          "former_name": "",
+          "name": "CHILD & CHILD",
+          "status": "ACTIVE",
+          "client_number": "31779",
+          "client_name": "CHILD & CHILD",
+          "prospect_date": "",
+          "active_since": "01-JUL-2011",
+          "country": "UNITED KINGDOM",
+          "city": "LONDON"
+        }
+      },
+      "geo": {
+        "longitudeDiff": 0,
+        "latitudeDiff": 0
+      },
+      "nodelink": {
+        "fixed": true,
+        "y": 14.4,
+        "x": -4.016
+      },
+      "id": 589835,
+      "size": 1,
+      "glyphs": {
+        "0": {
+          "content": "77",
+          "position": "top-right",
+          "draw": true
+        }
+      },
+      "colors": {
+        "0": "#851d00"
+      },
+      "color": "#851d00",
+      "icon": {
+        "content": "",
+        "color": "#fff",
+        "scale": 1,
+        "font": "FontAwesome"
+      },
+      "read_cam0:size": 5,
+      "read_cam0:x": -4.016,
+      "read_cam0:y": 14.4
+    },
+    {
+      "renderer1:size": 30.84506338068718,
+      "renderer1:y": 493.67347336931783,
+      "renderer1:x": 1442.746650842167,
+      "fixed": true,
+      "y": 3.4,
+      "x": 9.384,
+      "label": "Moonlight Estates Limited",
+      "data": {
+        "statistics": {
+          "hiddenEdgeCount": 0,
+          "visibleEdgeCount": 3,
+          "edgeCount": 3,
+          "digest": {
+            "1": {
+              "edges": 1,
+              "nodes": 1,
+              "nodeCategories": {
+                "0": "Client"
+              },
+              "edgeType": "registered"
+            },
+            "0": {
+              "edges": 2,
+              "nodes": 2,
+              "nodeCategories": {
+                "0": "Officer"
+              },
+              "edgeType": "is officer of"
+            }
+          }
+        },
+        "categories": {
+          "0": "Company"
+        },
+        "properties": {
+          "registrationDate": "02-JAN-2009",
+          "struck_off_date": "",
+          "inactivationDate": "",
+          "status": "ACT",
+          "name": "Moonlight Estates Limited",
+          "jurisdiction": "BVI",
+          "file_number": "6001360"
+        }
+      },
+      "geo": {
+        "longitudeDiff": 0,
+        "latitudeDiff": 0
+      },
+      "nodelink": {
+        "fixed": true,
+        "y": 3.4,
+        "x": 9.384
+      },
+      "id": 59391,
+      "size": 1,
+      "glyphs": {
+        "0": {
+          "content": "0",
+          "position": "top-right",
+          "draw": false
+        }
+      },
+      "colors": {
+        "0": "#420e00"
+      },
+      "color": "#420e00",
+      "icon": {
+        "content": "",
+        "color": "#fff",
+        "scale": 1,
+        "font": "FontAwesome"
+      },
+      "read_cam0:size": 5,
+      "read_cam0:x": 9.384,
+      "read_cam0:y": 3.4
+    },
+    {
+      "renderer1:size": 30.84506338068718,
+      "renderer1:y": 467.33572868569945,
+      "size": 1,
+      "y": 0.691,
+      "x": 28.48,
+      "label": "No. 14-18 Al-Zaytoon Street<br/>Harithiya District<br/>Baghdad<br/>Iraq",
+      "data": {
+        "statistics": {
+          "hiddenEdgeCount": 0,
+          "visibleEdgeCount": 2,
+          "edgeCount": 2,
+          "digest": {
+            "0": {
+              "edges": 2,
+              "nodes": 2,
+              "nodeCategories": {
+                "0": "Officer"
+              },
+              "edgeType": "registered address"
+            }
+          }
+        },
+        "categories": {
+          "0": "Address"
+        },
+        "properties": {
+          "name": "No. 14-18 Al-Zaytoon Street<br/>Harithiya District<br/>Baghdad<br/>Iraq"
+        }
+      },
+      "geo": {
+        "longitudeDiff": 0,
+        "latitudeDiff": 0
+      },
+      "nodelink": {
+        "y": 0.691,
+        "x": 28.48
+      },
+      "id": 549590,
+      "glyphs": {
+        "0": {
+          "content": "0",
+          "position": "top-right",
+          "draw": false
+        }
+      },
+      "colors": {
+        "0": "#937c6f"
+      },
+      "color": "#937c6f",
+      "icon": {
+        "content": "",
+        "color": "#fff",
+        "scale": 1,
+        "font": "FontAwesome"
+      },
+      "read_cam0:size": 5,
+      "read_cam0:x": 28.48,
+      "read_cam0:y": 0.691,
+      "renderer1:x": 1628.4039311959418
+    },
+    {
+      "renderer1:size": 30.84506338068718,
+      "renderer1:y": 108.61156272354816,
+      "renderer1:x": 1088.2419685244195,
+      "fixed": true,
+      "y": -36.206,
+      "x": -27.079,
+      "label": "FOXWOOD ESTATES LIMITED",
+      "data": {
+        "statistics": {
+          "hiddenEdgeCount": 0,
+          "visibleEdgeCount": 3,
+          "edgeCount": 3,
+          "digest": {
+            "1": {
+              "edges": 1,
+              "nodes": 1,
+              "nodeCategories": {
+                "0": "Client"
+              },
+              "edgeType": "registered"
+            },
+            "0": {
+              "edges": 2,
+              "nodes": 2,
+              "nodeCategories": {
+                "0": "Officer"
+              },
+              "edgeType": "is officer of"
+            }
+          }
+        },
+        "categories": {
+          "0": "Company"
+        },
+        "properties": {
+          "registrationDate": "30-JUN-2005",
+          "struck_off_date": "",
+          "inactivationDate": "",
+          "status": "ACT",
+          "name": "FOXWOOD ESTATES LIMITED",
+          "jurisdiction": "BVI",
+          "file_number": "571649"
+        }
+      },
+      "geo": {
+        "longitudeDiff": 0,
+        "latitudeDiff": 0
+      },
+      "nodelink": {
+        "fixed": true,
+        "y": -36.206,
+        "x": -27.079
+      },
+      "id": 47771,
+      "size": 1,
+      "glyphs": {
+        "0": {
+          "content": "0",
+          "position": "top-right",
+          "draw": false
+        }
+      },
+      "colors": {
+        "0": "#420e00"
+      },
+      "color": "#420e00",
+      "icon": {
+        "content": "",
+        "color": "#fff",
+        "scale": 1,
+        "font": "FontAwesome"
+      },
+      "read_cam0:size": 5,
+      "read_cam0:x": -27.079,
+      "read_cam0:y": -36.206
+    },
+    {
+      "renderer1:size": 30.84506338068718,
+      "renderer1:y": 227.91405995968006,
+      "size": 1,
+      "y": -23.935,
+      "x": -16.265,
+      "label": "AYAD ALLAWI",
+      "data": {
+        "statistics": {
+          "hiddenEdgeCount": 0,
+          "visibleEdgeCount": 2,
+          "edgeCount": 2,
+          "digest": {
+            "0": {
+              "edges": 2,
+              "nodes": 2,
+              "nodeCategories": {
+                "0": "Company"
+              },
+              "edgeType": "is officer of"
+            }
+          }
+        },
+        "categories": {
+          "0": "Officer"
+        },
+        "properties": {
+          "registerlocation": "",
+          "rst": "NOT NEGATIVE RESULT",
+          "pep": "NO",
+          "citizenship": "NO",
+          "custodianaddress": "",
+          "custodianname": "",
+          "newcertificate": "",
+          "name": "AYAD ALLAWI",
+          "certificateNumber": "3",
+          "numbershares": "2",
+          "classofshares": "",
+          "dateofissue": "01-11-2000",
+          "ceasedmembership": "",
+          "transferdate": "",
+          "sharestransferred": ""
+        }
+      },
+      "geo": {
+        "longitudeDiff": 0,
+        "latitudeDiff": 0
+      },
+      "nodelink": {
+        "y": -23.935,
+        "x": -16.265
+      },
+      "id": 354638,
+      "glyphs": {
+        "0": {
+          "content": "0",
+          "position": "top-right",
+          "draw": false
+        }
+      },
+      "colors": {
+        "0": "#be4400"
+      },
+      "color": "#be4400",
+      "icon": {
+        "content": "",
+        "color": "#fff",
+        "scale": 1,
+        "font": "FontAwesome"
+      },
+      "read_cam0:size": 5,
+      "read_cam0:x": -16.265,
+      "read_cam0:y": -23.935,
+      "renderer1:x": 1193.3790563829095
+    },
+    {
+      "renderer1:size": 30.84506338068718,
+      "renderer1:y": 609.3884372764519,
+      "size": 1,
+      "y": 15.302,
+      "x": 28.705,
+      "label": "DR. AYAD H. ALLAWI",
+      "data": {
+        "statistics": {
+          "hiddenEdgeCount": 0,
+          "visibleEdgeCount": 2,
+          "edgeCount": 2,
+          "digest": {
+            "1": {
+              "edges": 1,
+              "nodes": 1,
+              "nodeCategories": {
+                "0": "Company"
+              },
+              "edgeType": "is officer of"
+            },
+            "0": {
+              "edges": 1,
+              "nodes": 1,
+              "nodeCategories": {
+                "0": "Address"
+              },
+              "edgeType": "registered address"
+            }
+          }
+        },
+        "categories": {
+          "0": "Officer"
+        },
+        "properties": {
+          "passport_copy": "Y",
+          "pep": "YES",
+          "citizenship": "YES",
+          "name": "DR. AYAD H. ALLAWI"
+        }
+      },
+      "geo": {
+        "longitudeDiff": 0,
+        "latitudeDiff": 0
+      },
+      "nodelink": {
+        "y": 15.302,
+        "x": 28.705
+      },
+      "id": 651789,
+      "glyphs": {
+        "0": {
+          "content": "0",
+          "position": "top-right",
+          "draw": false
+        }
+      },
+      "colors": {
+        "0": "#be4400"
+      },
+      "color": "#be4400",
+      "icon": {
+        "content": "",
+        "color": "#fff",
+        "scale": 1,
+        "font": "FontAwesome"
+      },
+      "read_cam0:size": 5,
+      "read_cam0:x": 28.705,
+      "read_cam0:y": 15.302,
+      "renderer1:x": 1630.5914515185016
+    }
+  ]
+}

@@ -1,1 +1,282 @@
-{"nodes":[{"id":667734,"nodelink":{"x":6.668,"y":-10.356,"fixed":true},"geo":{"latitudeDiff":0,"longitudeDiff":0},"data":{"properties":{"name":"Jaynet Désirée Kabila Kyungu"},"categories":{"0":"Officer"},"statistics":{"digest":{"0":{"edgeType":"is officer of","nodeCategories":{"0":"Company"},"nodes":3,"edges":3}},"edgeCount":3,"visibleEdgeCount":1,"hiddenEdgeCount":2}},"label":"Jaynet Désirée Kabila Kyungu","x":29.999999999999993,"y":-7.100000000000008,"fixed":true,"size":1,"glyphs":{"0":{"draw":true,"position":"top-right","content":"2"},"1":{"draw":true,"position":"bottom-right","font":"FontAwesome","textColor":"#000","content":""}},"color":"#be4400","icon":{"font":"FontAwesome","scale":1,"color":"#fff","content":""},"active":false,"fa2_x":29.999999999999993,"fa2_y":-7.100000000000008,"colors":{"0":"#be4400"},"read_cam0:size":5,"read_cam0:x":29.999999999999993,"read_cam0:y":-7.100000000000008,"renderer1:x":1537.29,"renderer1:y":581.9999999999999,"renderer1:size":31.547867224009664},{"id":603136,"nodelink":{"x":22.742,"y":-41.266,"fixed":true},"geo":{"latitudeDiff":0,"longitudeDiff":0},"data":{"properties":{"file_number":"307188","jurisdiction":"NIUE","name":"KERATSU HOLDING LIMITED","status":"MOR","inactivationDate":"24-FEB-2003","struck_off_date":"19-FEB-2003","registrationDate":"19-JUN-2001"},"categories":{"0":"Company"},"statistics":{"digest":{"0":{"edgeType":"is officer of","nodeCategories":{"0":"Officer"},"nodes":1,"edges":1},"1":{"edgeType":"registered","nodeCategories":{"0":"Client"},"nodes":1,"edges":1}},"edgeCount":2,"visibleEdgeCount":2,"hiddenEdgeCount":0}},"label":"KERATSU HOLDING LIMITED","x":25.399999999999988,"y":-51.7,"fixed":true,"size":1,"glyphs":{"0":{"draw":false,"position":"top-right","content":"0"},"1":{"draw":true,"position":"bottom-right","font":"FontAwesome","textColor":"#000","content":""}},"color":"#420e00","icon":{"font":"FontAwesome","scale":1,"color":"#fff","content":""},"fa2_x":25.399999999999988,"fa2_y":-51.7,"active":false,"colors":{"0":"#420e00"},"read_cam0:size":5,"read_cam0:x":25.399999999999988,"read_cam0:y":-51.7,"renderer1:x":1491.29,"renderer1:y":136,"renderer1:size":31.547867224009664},{"id":593176,"nodelink":{"x":-21.458,"y":-32.066,"fixed":true},"geo":{"latitudeDiff":0,"longitudeDiff":0},"data":{"properties":{"name":"INTERHOLD BANAS","status":"ACTIVE","client_number":"4937","client_name":"INTERHOLD BANAS","prospect_date":"","active_since":"18-APR-1994","country":"POLAND","city":"WARSAW","former_name":"OFFSHORE CENTER","cross_reference":"","activity":"CONSULTANTS","classification":"Special rates","subclassification":"","region":"PROFESSIONAL CLIENTS","compliance_classification":"INTERMEDIARY"},"categories":{"0":"Client"},"statistics":{"digest":{"0":{"edgeType":"registered","nodeCategories":{"0":"Company"},"nodes":139,"edges":139}},"edgeCount":139,"visibleEdgeCount":1,"hiddenEdgeCount":138}},"label":"INTERHOLD BANAS","x":-21.458,"y":-32.066,"fixed":true,"size":1,"glyphs":{"0":{"draw":true,"position":"top-right","content":"138"}},"color":"#851d00","icon":{"font":"FontAwesome","scale":1,"color":"#fff","content":""},"fa2_x":-21.458,"fa2_y":-32.066,"active":false,"colors":{"0":"#851d00"},"read_cam0:size":5,"read_cam0:x":-21.458,"read_cam0:y":-32.066,"renderer1:x":1022.71,"renderer1:y":332.34,"renderer1:size":31.547867224009664}],"edges":[{"id":69455,"source":667734,"target":603136,"data":{"properties":{"date_end":"","name":"Director","date_start":"19/06/2001"},"type":"is officer of"},"label":"is officer of","size":1,"color":"#d48a60","hover":false,"active":false,"read_cam0:size":2,"renderer1:size":12.619146889603865},{"id":796185,"source":593176,"target":603136,"data":{"properties":{},"type":"registered"},"label":"registered","size":1,"color":"#8a6960","hover":false,"active":false,"read_cam0:size":2,"renderer1:size":12.619146889603865}]}
+{
+  "edges": [
+    {
+      "renderer1:size": 12.619146889603865,
+      "read_cam0:size": 2,
+      "active": false,
+      "id": 69455,
+      "source": 667734,
+      "target": 603136,
+      "data": {
+        "type": "is officer of",
+        "properties": {
+          "date_start": "19/06/2001",
+          "name": "Director",
+          "date_end": ""
+        }
+      },
+      "label": "is officer of",
+      "size": 1,
+      "color": "#d48a60",
+      "hover": false
+    },
+    {
+      "renderer1:size": 12.619146889603865,
+      "read_cam0:size": 2,
+      "active": false,
+      "id": 796185,
+      "source": 593176,
+      "target": 603136,
+      "data": {
+        "type": "registered",
+        "properties": {}
+      },
+      "label": "registered",
+      "size": 1,
+      "color": "#8a6960",
+      "hover": false
+    }
+  ],
+  "nodes": [
+    {
+      "renderer1:size": 31.547867224009664,
+      "renderer1:y": 581.9999999999999,
+      "renderer1:x": 1537.29,
+      "read_cam0:y": -7.100000000000008,
+      "read_cam0:x": 29.999999999999993,
+      "read_cam0:size": 5,
+      "fixed": true,
+      "y": -7.100000000000008,
+      "x": 29.999999999999993,
+      "label": "Jaynet Désirée Kabila Kyungu",
+      "data": {
+        "statistics": {
+          "hiddenEdgeCount": 2,
+          "visibleEdgeCount": 1,
+          "edgeCount": 3,
+          "digest": {
+            "0": {
+              "edges": 3,
+              "nodes": 3,
+              "nodeCategories": {
+                "0": "Company"
+              },
+              "edgeType": "is officer of"
+            }
+          }
+        },
+        "categories": {
+          "0": "Officer"
+        },
+        "properties": {
+          "name": "Jaynet Désirée Kabila Kyungu"
+        }
+      },
+      "geo": {
+        "longitudeDiff": 0,
+        "latitudeDiff": 0
+      },
+      "nodelink": {
+        "fixed": true,
+        "y": -10.356,
+        "x": 6.668
+      },
+      "id": 667734,
+      "size": 1,
+      "glyphs": {
+        "1": {
+          "content": "",
+          "textColor": "#000",
+          "font": "FontAwesome",
+          "position": "bottom-right",
+          "draw": true
+        },
+        "0": {
+          "content": "2",
+          "position": "top-right",
+          "draw": true
+        }
+      },
+      "color": "#be4400",
+      "icon": {
+        "content": "",
+        "color": "#fff",
+        "scale": 1,
+        "font": "FontAwesome"
+      },
+      "active": false,
+      "fa2_x": 29.999999999999993,
+      "fa2_y": -7.100000000000008,
+      "colors": {
+        "0": "#be4400"
+      }
+    },
+    {
+      "renderer1:size": 31.547867224009664,
+      "renderer1:y": 136,
+      "renderer1:x": 1491.29,
+      "read_cam0:y": -51.7,
+      "read_cam0:x": 25.399999999999988,
+      "read_cam0:size": 5,
+      "fixed": true,
+      "y": -51.7,
+      "x": 25.399999999999988,
+      "label": "KERATSU HOLDING LIMITED",
+      "data": {
+        "statistics": {
+          "hiddenEdgeCount": 0,
+          "visibleEdgeCount": 2,
+          "edgeCount": 2,
+          "digest": {
+            "1": {
+              "edges": 1,
+              "nodes": 1,
+              "nodeCategories": {
+                "0": "Client"
+              },
+              "edgeType": "registered"
+            },
+            "0": {
+              "edges": 1,
+              "nodes": 1,
+              "nodeCategories": {
+                "0": "Officer"
+              },
+              "edgeType": "is officer of"
+            }
+          }
+        },
+        "categories": {
+          "0": "Company"
+        },
+        "properties": {
+          "registrationDate": "19-JUN-2001",
+          "struck_off_date": "19-FEB-2003",
+          "inactivationDate": "24-FEB-2003",
+          "status": "MOR",
+          "name": "KERATSU HOLDING LIMITED",
+          "jurisdiction": "NIUE",
+          "file_number": "307188"
+        }
+      },
+      "geo": {
+        "longitudeDiff": 0,
+        "latitudeDiff": 0
+      },
+      "nodelink": {
+        "fixed": true,
+        "y": -41.266,
+        "x": 22.742
+      },
+      "id": 603136,
+      "size": 1,
+      "glyphs": {
+        "1": {
+          "content": "",
+          "textColor": "#000",
+          "font": "FontAwesome",
+          "position": "bottom-right",
+          "draw": true
+        },
+        "0": {
+          "content": "0",
+          "position": "top-right",
+          "draw": false
+        }
+      },
+      "color": "#420e00",
+      "icon": {
+        "content": "",
+        "color": "#fff",
+        "scale": 1,
+        "font": "FontAwesome"
+      },
+      "fa2_x": 25.399999999999988,
+      "fa2_y": -51.7,
+      "active": false,
+      "colors": {
+        "0": "#420e00"
+      }
+    },
+    {
+      "renderer1:size": 31.547867224009664,
+      "renderer1:y": 332.34,
+      "renderer1:x": 1022.71,
+      "read_cam0:y": -32.066,
+      "read_cam0:x": -21.458,
+      "read_cam0:size": 5,
+      "fixed": true,
+      "y": -32.066,
+      "x": -21.458,
+      "label": "INTERHOLD BANAS",
+      "data": {
+        "statistics": {
+          "hiddenEdgeCount": 138,
+          "visibleEdgeCount": 1,
+          "edgeCount": 139,
+          "digest": {
+            "0": {
+              "edges": 139,
+              "nodes": 139,
+              "nodeCategories": {
+                "0": "Company"
+              },
+              "edgeType": "registered"
+            }
+          }
+        },
+        "categories": {
+          "0": "Client"
+        },
+        "properties": {
+          "compliance_classification": "INTERMEDIARY",
+          "region": "PROFESSIONAL CLIENTS",
+          "subclassification": "",
+          "classification": "Special rates",
+          "activity": "CONSULTANTS",
+          "cross_reference": "",
+          "former_name": "OFFSHORE CENTER",
+          "name": "INTERHOLD BANAS",
+          "status": "ACTIVE",
+          "client_number": "4937",
+          "client_name": "INTERHOLD BANAS",
+          "prospect_date": "",
+          "active_since": "18-APR-1994",
+          "country": "POLAND",
+          "city": "WARSAW"
+        }
+      },
+      "geo": {
+        "longitudeDiff": 0,
+        "latitudeDiff": 0
+      },
+      "nodelink": {
+        "fixed": true,
+        "y": -32.066,
+        "x": -21.458
+      },
+      "id": 593176,
+      "size": 1,
+      "glyphs": {
+        "0": {
+          "content": "138",
+          "position": "top-right",
+          "draw": true
+        }
+      },
+      "color": "#851d00",
+      "icon": {
+        "content": "",
+        "color": "#fff",
+        "scale": 1,
+        "font": "FontAwesome"
+      },
+      "fa2_x": -21.458,
+      "fa2_y": -32.066,
+      "active": false,
+      "colors": {
+        "0": "#851d00"
+      }
+    }
+  ]
+}

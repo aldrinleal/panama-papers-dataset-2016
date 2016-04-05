@@ -1,1 +1,1139 @@
-{"nodes":[{"id":473254,"nodelink":{"x":-16.606,"y":-16.633,"fixed":true},"geo":{"latitudeDiff":0,"longitudeDiff":0},"data":{"properties":{"name":"KOJO ANNAN","certificateNumber":"3","numbershares":"50,000","classofshares":"","dateofissue":"18-02-2015","ceasedmembership":"","transferdate":"","sharestransferred":"","newcertificate":"","custodianname":"","custodianaddress":"","citizenship":"NO","pep":"NO","rst":"NOT NEGATIVE RESULT(SEARCHES CONDUCTED)","registerlocation":""},"categories":{"0":"Officer"},"statistics":{"digest":{"0":{"edgeType":"registered address","nodeCategories":{"0":"Address"},"nodes":1,"edges":1},"1":{"edgeType":"is officer of","nodeCategories":{"0":"Company"},"nodes":3,"edges":4}},"edgeCount":5,"visibleEdgeCount":5,"hiddenEdgeCount":0}},"label":"KOJO ANNAN","x":-30.16455812454224,"y":-34.96572723388676,"fixed":true,"size":1,"glyphs":{"0":{"draw":false,"position":"top-right","content":"0"},"1":{"draw":true,"position":"bottom-right","font":"FontAwesome","textColor":"#000","content":""}},"active":false,"color":"#be4400","icon":{"font":"FontAwesome","scale":1,"color":"#fff","content":""},"fa2_x":-30.16455812454224,"fa2_y":-34.96572723388676,"colors":{"0":"#be4400"},"read_cam0:size":5,"read_cam0:x":-30.16455812454224,"read_cam0:y":-34.96572723388676,"renderer1:x":1087.316408724097,"renderer1:y":122.6192708061667,"renderer1:size":26.209405734740347},{"id":208909,"nodelink":{"x":-20.557,"y":-30.795},"geo":{"latitudeDiff":0,"longitudeDiff":0},"data":{"properties":{"file_number":"1000254","jurisdiction":"SAM","name":"SAPPHIRE HOLDING LTD.","status":"ACT","inactivationDate":"","struck_off_date":"","registrationDate":"11-MAR-2005"},"categories":{"0":"Company"},"statistics":{"digest":{"0":{"edgeType":"is officer of","nodeCategories":{"0":"Officer"},"nodes":6,"edges":7},"1":{"edgeType":"registered","nodeCategories":{"0":"Client"},"nodes":1,"edges":1}},"edgeCount":8,"visibleEdgeCount":5,"hiddenEdgeCount":3}},"label":"SAPPHIRE HOLDING LTD.","x":-4.703883967238859,"y":0.0000031031919007773467,"fixed":true,"size":1,"glyphs":{"0":{"draw":true,"position":"top-right","content":"3"},"1":{"draw":true,"position":"bottom-right","font":"FontAwesome","textColor":"#000","content":""}},"active":false,"color":"#420e00","icon":{"font":"FontAwesome","scale":1,"color":"#fff","content":""},"fa2_x":-4.703883967238859,"fa2_y":0.0000031031919007773467,"colors":{"0":"#420e00"},"read_cam0:size":5,"read_cam0:x":-4.703883967238859,"read_cam0:y":0.0000031031919007773467,"renderer1:x":1289.2594353330403,"renderer1:y":399.95228124557576,"renderer1:size":26.209405734740347},{"id":519774,"nodelink":{"x":-0.056,"y":-0.232},"geo":{"latitudeDiff":0,"longitudeDiff":0},"data":{"properties":{"name":"6 Amilcar Cabral Street; Airport Residential; Accra; Ghana"},"categories":{"0":"Address"},"statistics":{"digest":{"0":{"edgeType":"registered address","nodeCategories":{"0":"Officer"},"nodes":1,"edges":1}},"edgeCount":1,"visibleEdgeCount":1,"hiddenEdgeCount":0}},"label":"6 Amilcar Cabral Street; Airport Residential; Accra; Ghana","x":-2.546580596452344,"y":-37.86067105411147,"fixed":true,"size":1,"glyphs":{"0":{"draw":false,"position":"top-right","content":"0"},"1":{"draw":true,"position":"bottom-right","font":"FontAwesome","textColor":"#000","content":""}},"active":false,"color":"#937c6f","icon":{"font":"FontAwesome","scale":1,"color":"#fff","content":""},"fa2_x":-2.546580596452344,"fa2_y":-37.86067105411147,"colors":{"0":"#937c6f"},"read_cam0:size":5,"read_cam0:x":-2.546580596452344,"read_cam0:y":-37.86067105411147,"renderer1:x":1306.370230173692,"renderer1:y":99.65783179213582,"renderer1:size":26.209405734740347},{"id":648326,"nodelink":{"x":-21.581,"y":27.867,"fixed":true},"geo":{"latitudeDiff":0,"longitudeDiff":0},"data":{"properties":{"name":"MR. KOJO ANNAN","certificateNumber":"2","numbershares":"25,000","classofshares":"","dateofissue":"19-11-2002","ceasedmembership":"","transferdate":"","sharestransferred":"","newcertificate":"","custodianname":"","custodianaddress":"","citizenship":"NO","pep":"NO","rst":"NOT NEGATIVE RESULT","registerlocation":""},"categories":{"0":"Officer"},"statistics":{"digest":{"0":{"edgeType":"is officer of","nodeCategories":{"0":"Company"},"nodes":3,"edges":4}},"edgeCount":4,"visibleEdgeCount":4,"hiddenEdgeCount":0}},"label":"MR. KOJO ANNAN","x":-56.76455812454223,"y":24.93427276611325,"fixed":true,"size":1,"glyphs":{"0":{"draw":false,"position":"top-right","content":"0"},"1":{"draw":true,"position":"bottom-right","font":"FontAwesome","textColor":"#000","content":""}},"active":false,"color":"#be4400","icon":{"font":"FontAwesome","scale":1,"color":"#fff","content":""},"fa2_x":-56.76455812454223,"fa2_y":24.93427276611325,"colors":{"0":"#be4400"},"read_cam0:size":5,"read_cam0:x":-56.76455812454223,"read_cam0:y":24.93427276611325,"renderer1:x":876.3367435899346,"renderer1:y":597.7200956759536,"renderer1:size":26.209405734740347},{"id":240121,"nodelink":{"x":-39.287,"y":23.399},"geo":{"latitudeDiff":0,"longitudeDiff":0},"data":{"properties":{"file_number":"550235","jurisdiction":"BVI","name":"BLUE DIAMOND HOLDING MANAGEMENT CORP.","status":"MOR","inactivationDate":"03-NOV-2005","struck_off_date":"30-APR-2006","registrationDate":"27-AUG-2002"},"categories":{"0":"Company"},"statistics":{"digest":{"0":{"edgeType":"is officer of","nodeCategories":{"0":"Officer"},"nodes":4,"edges":5},"1":{"edgeType":"registered","nodeCategories":{"0":"Client"},"nodes":1,"edges":1}},"edgeCount":6,"visibleEdgeCount":4,"hiddenEdgeCount":2}},"label":"BLUE DIAMOND HOLDING MANAGEMENT CORP.","x":-13.2252322818456,"y":26.750564900944703,"fixed":true,"size":1,"glyphs":{"0":{"draw":true,"position":"top-right","content":"2"},"1":{"draw":true,"position":"bottom-right","font":"FontAwesome","textColor":"#000","content":""}},"active":false,"color":"#420e00","icon":{"font":"FontAwesome","scale":1,"color":"#fff","content":""},"fa2_x":-13.2252322818456,"fa2_y":26.750564900944703,"colors":{"0":"#420e00"},"read_cam0:size":5,"read_cam0:x":-13.2252322818456,"read_cam0:y":26.750564900944703,"renderer1:x":1221.6717957124654,"renderer1:y":612.1261372696587,"renderer1:size":26.209405734740347},{"id":334206,"nodelink":{"x":26.355,"y":-2.618},"geo":{"latitudeDiff":0,"longitudeDiff":0},"data":{"properties":{"name":"MR. KOJO ANNAN","certificateNumber":"1","numbershares":"15,000","classofshares":"","dateofissue":"22-02-2002","ceasedmembership":"26-08-2008","transferdate":"","sharestransferred":"","newcertificate":"","custodianname":"","custodianaddress":"","citizenship":"NO","pep":"NO","rst":"NOT NEGATIVE RESULT","registerlocation":"THE CLIENT"},"categories":{"0":"Officer"},"statistics":{"digest":{"0":{"edgeType":"registered address","nodeCategories":{"0":"Address"},"nodes":1,"edges":1},"1":{"edgeType":"is officer of","nodeCategories":{"0":"Company"},"nodes":3,"edges":4}},"edgeCount":5,"visibleEdgeCount":5,"hiddenEdgeCount":0}},"label":"MR. KOJO ANNAN","x":29.235441875457767,"y":-33.56572723388676,"fixed":true,"size":1,"glyphs":{"0":{"draw":false,"position":"top-right","content":"0"},"1":{"draw":true,"position":"bottom-right","font":"FontAwesome","textColor":"#000","content":""}},"active":false,"color":"#be4400","icon":{"font":"FontAwesome","scale":1,"color":"#fff","content":""},"fa2_x":29.235441875457767,"fa2_y":-33.56572723388676,"colors":{"0":"#be4400"},"read_cam0:size":5,"read_cam0:x":29.235441875457767,"read_cam0:y":-33.56572723388676,"renderer1:x":1558.4514504146703,"renderer1:y":133.72346370796475,"renderer1:size":26.209405734740347},{"id":217658,"nodelink":{"x":24.844,"y":15.577},"geo":{"latitudeDiff":0,"longitudeDiff":0},"data":{"properties":{"file_number":"547223","jurisdiction":"BVI","name":"SUTTON ENERGY LTD.","status":"MOR","inactivationDate":"","struck_off_date":"31-OCT-2010","registrationDate":"22-FEB-2002"},"categories":{"0":"Company"},"statistics":{"digest":{"0":{"edgeType":"is officer of","nodeCategories":{"0":"Officer"},"nodes":6,"edges":7},"1":{"edgeType":"registered","nodeCategories":{"0":"Client"},"nodes":1,"edges":1}},"edgeCount":8,"visibleEdgeCount":5,"hiddenEdgeCount":3}},"label":"SUTTON ENERGY LTD.","x":20.635441875457765,"y":6.23427276611325,"fixed":true,"size":1,"glyphs":{"0":{"draw":true,"position":"top-right","content":"3"},"1":{"draw":true,"position":"bottom-right","font":"FontAwesome","textColor":"#000","content":""}},"active":true,"color":"#420e00","icon":{"font":"FontAwesome","scale":1,"color":"#fff","content":""},"fa2_x":20.635441875457765,"fa2_y":6.23427276611325,"colors":{"0":"#420e00"},"read_cam0:size":5,"read_cam0:x":20.635441875457765,"read_cam0:y":6.23427276611325,"renderer1:x":1490.2399797321968,"renderer1:y":449.3998047733658,"renderer1:size":26.209405734740347},{"id":500835,"nodelink":{"x":31.89,"y":-23.119},"geo":{"latitudeDiff":0,"longitudeDiff":0},"data":{"properties":{"name":"105 Duane Street; Apt 42G; New York 10007; USA"},"categories":{"0":"Address"},"statistics":{"digest":{"0":{"edgeType":"registered address","nodeCategories":{"0":"Officer"},"nodes":1,"edges":1}},"edgeCount":1,"visibleEdgeCount":1,"hiddenEdgeCount":0}},"label":"105 Duane Street; Apt 42G; New York 10007; USA","x":45.02195872939036,"y":-26.426963188942928,"fixed":true,"size":1,"glyphs":{"0":{"draw":false,"position":"top-right","content":"0"},"1":{"draw":true,"position":"bottom-right","font":"FontAwesome","textColor":"#000","content":""}},"active":false,"color":"#937c6f","icon":{"font":"FontAwesome","scale":1,"color":"#fff","content":""},"fa2_x":45.02195872939036,"fa2_y":-26.426963188942928,"colors":{"0":"#937c6f"},"read_cam0:size":5,"read_cam0:x":45.02195872939036,"read_cam0:y":-26.426963188942928,"renderer1:x":1683.6632564100655,"renderer1:y":190.34504444759065,"renderer1:size":26.209405734740347},{"id":616886,"nodelink":{"x":-1.296,"y":29.398},"geo":{"latitudeDiff":0,"longitudeDiff":0},"selected":true,"data":{"properties":{"name":"MR. KOJO ANNAN","certificateNumber":"2","numbershares":"25,000","classofshares":"","dateofissue":"19-11-2002","ceasedmembership":"","transferdate":"","sharestransferred":"","newcertificate":"","custodianname":"","custodianaddress":"","citizenship":"NO","pep":"NO","rst":"NOT NEGATIVE RESULT","registerlocation":""},"categories":{"0":"Officer"},"statistics":{"digest":{},"edgeCount":0,"visibleEdgeCount":0,"hiddenEdgeCount":0}},"label":"MR. KOJO ANNAN","x":19.435441875457776,"y":27.534272766113244,"fixed":true,"size":1,"glyphs":{"0":{"draw":false,"position":"top-right","content":"0"},"1":{"draw":true,"position":"bottom-right","font":"FontAwesome","textColor":"#000","content":""}},"active":false,"color":"#be4400","icon":{"font":"FontAwesome","scale":1,"color":"#fff","content":""},"fa2_x":19.435441875457776,"fa2_y":27.534272766113244,"colors":{"0":"#be4400"},"read_cam0:size":5,"read_cam0:x":19.435441875457776,"read_cam0:y":27.534272766113244,"renderer1:x":1480.7221001020844,"renderer1:y":618.3421682078642,"renderer1:size":26.209405734740347},{"id":588146,"data":{"properties":{"name":"AFREX SAL","status":"ACTIVE","client_number":"24691","client_name":"AFREX SAL","prospect_date":"","active_since":"07-JUL-2008","country":"LEBANON","city":"BEIRUT (BEYROUTH)","former_name":"","cross_reference":"CLAMORGAN S.A.","activity":"OFFSHORE COMPANY MANAGER","classification":"Special rates","subclassification":"","region":"GENEVA OFFICE PROFESSIONAL CLIENTS","compliance_classification":"INTERMEDIARY"},"categories":{"0":"Client"},"statistics":{"digest":{"0":{"edgeType":"registered","nodeCategories":{"0":"Company"},"nodes":150,"edges":150}},"edgeCount":150,"visibleEdgeCount":2,"hiddenEdgeCount":148}},"x":3.925329515907208,"y":17.150564900944715,"label":"AFREX SAL","size":1,"glyphs":{"0":{"draw":true,"position":"top-right","content":"148"},"1":{"draw":true,"position":"bottom-right","font":"FontAwesome","textColor":"#000","content":""}},"colors":{"0":"#851d00"},"color":"#851d00","icon":{"font":"FontAwesome","scale":1,"color":"#fff","content":""},"fa2_x":7.300087928771973,"fa2_y":5.074798583984375,"fixed":true,"read_cam0:size":5,"read_cam0:x":3.925329515907208,"read_cam0:y":17.150564900944715,"renderer1:x":1357.7026146956478,"renderer1:y":535.9831002287581,"renderer1:size":26.209405734740347}],"edges":[{"id":830825,"source":473254,"target":519774,"data":{"properties":{},"type":"registered address"},"label":"registered address","size":1,"active":false,"color":"#baaba3","hover":false,"read_cam0:size":2,"renderer1:size":10.48376229389614},{"id":291073,"source":334206,"target":500835,"data":{"properties":{},"type":"registered address"},"label":"registered address","size":1,"active":false,"color":"#baaba3","hover":false,"read_cam0:size":2,"renderer1:size":10.48376229389614},{"id":37163,"source":648326,"target":240121,"data":{"properties":{"name":"Shareholder"},"type":"is officer of"},"label":"Shareholder","size":1,"type":"curvedArrow","cc":{"y":null},"color":"#d48a60","active":false,"read_cam0:size":2,"renderer1:size":10.48376229389614},{"id":68529,"source":648326,"target":208909,"data":{"properties":{"name":"Director"},"type":"is officer of"},"label":"Director","size":1,"color":"#d48a60","active":false,"hover":false,"read_cam0:size":2,"renderer1:size":10.48376229389614},{"id":68530,"source":648326,"target":240121,"data":{"properties":{"name":"Director"},"type":"is officer of"},"label":"Director","size":1,"type":"curvedArrow","cc":{"y":2},"color":"#d48a60","hover":false,"active":false,"read_cam0:size":2,"renderer1:size":10.48376229389614},{"id":68531,"source":648326,"target":217658,"data":{"properties":{"name":"Director"},"type":"is officer of"},"label":"Director","size":1,"color":"#d48a60","hover":false,"active":false,"read_cam0:size":2,"renderer1:size":10.48376229389614},{"id":68532,"source":473254,"target":208909,"data":{"properties":{"name":"Director"},"type":"is officer of"},"label":"Director","size":1,"type":"curvedArrow","cc":{"y":null},"color":"#d48a60","active":false,"hover":false,"read_cam0:size":2,"renderer1:size":10.48376229389614},{"id":68533,"source":473254,"target":240121,"data":{"properties":{"name":"Director"},"type":"is officer of"},"label":"Director","size":1,"color":"#d48a60","hover":false,"active":false,"read_cam0:size":2,"renderer1:size":10.48376229389614},{"id":68534,"source":473254,"target":217658,"data":{"properties":{"name":"Director"},"type":"is officer of"},"label":"Director","size":1,"color":"#d48a60","hover":false,"active":false,"read_cam0:size":2,"renderer1:size":10.48376229389614},{"id":68535,"source":334206,"target":208909,"data":{"properties":{"name":"Director"},"type":"is officer of"},"label":"Director","size":1,"color":"#d48a60","hover":false,"active":false,"read_cam0:size":2,"renderer1:size":10.48376229389614},{"id":68536,"source":334206,"target":240121,"data":{"properties":{"name":"Director"},"type":"is officer of"},"label":"Director","size":1,"color":"#d48a60","hover":false,"active":false,"read_cam0:size":2,"renderer1:size":10.48376229389614},{"id":68537,"source":334206,"target":217658,"data":{"properties":{"name":"Director"},"type":"is officer of"},"label":"Director","size":1,"type":"curvedArrow","cc":{"y":null},"color":"#d48a60","hover":false,"active":false,"read_cam0:size":2,"renderer1:size":10.48376229389614},{"id":467797,"source":334206,"target":217658,"data":{"properties":{"name":"Shareholder"},"type":"is officer of"},"label":"Shareholder","size":1,"type":"curvedArrow","cc":{"y":2},"color":"#d48a60","active":false,"hover":false,"read_cam0:size":2,"renderer1:size":10.48376229389614},{"id":556524,"source":473254,"target":208909,"data":{"properties":{"name":"Shareholder"},"type":"is officer of"},"label":"Shareholder","size":1,"type":"curvedArrow","cc":{"y":2},"color":"#d48a60","hover":false,"active":false,"read_cam0:size":2,"renderer1:size":10.48376229389614},{"id":604789,"source":588146,"target":208909,"data":{"properties":{},"type":"registered"},"label":"registered","size":1,"color":"#8a6960","read_cam0:size":2,"renderer1:size":10.48376229389614},{"id":703001,"source":588146,"target":217658,"data":{"properties":{},"type":"registered"},"label":"registered","size":1,"color":"#8a6960","hover":false,"read_cam0:size":2,"renderer1:size":10.48376229389614}]}
+{
+  "edges": [
+    {
+      "renderer1:size": 10.48376229389614,
+      "read_cam0:size": 2,
+      "hover": false,
+      "id": 830825,
+      "source": 473254,
+      "target": 519774,
+      "data": {
+        "type": "registered address",
+        "properties": {}
+      },
+      "label": "registered address",
+      "size": 1,
+      "active": false,
+      "color": "#baaba3"
+    },
+    {
+      "renderer1:size": 10.48376229389614,
+      "read_cam0:size": 2,
+      "hover": false,
+      "id": 291073,
+      "source": 334206,
+      "target": 500835,
+      "data": {
+        "type": "registered address",
+        "properties": {}
+      },
+      "label": "registered address",
+      "size": 1,
+      "active": false,
+      "color": "#baaba3"
+    },
+    {
+      "renderer1:size": 10.48376229389614,
+      "read_cam0:size": 2,
+      "active": false,
+      "color": "#d48a60",
+      "id": 37163,
+      "source": 648326,
+      "target": 240121,
+      "data": {
+        "type": "is officer of",
+        "properties": {
+          "name": "Shareholder"
+        }
+      },
+      "label": "Shareholder",
+      "size": 1,
+      "type": "curvedArrow",
+      "cc": {
+        "y": null
+      }
+    },
+    {
+      "renderer1:size": 10.48376229389614,
+      "read_cam0:size": 2,
+      "hover": false,
+      "id": 68529,
+      "source": 648326,
+      "target": 208909,
+      "data": {
+        "type": "is officer of",
+        "properties": {
+          "name": "Director"
+        }
+      },
+      "label": "Director",
+      "size": 1,
+      "color": "#d48a60",
+      "active": false
+    },
+    {
+      "renderer1:size": 10.48376229389614,
+      "read_cam0:size": 2,
+      "active": false,
+      "hover": false,
+      "color": "#d48a60",
+      "id": 68530,
+      "source": 648326,
+      "target": 240121,
+      "data": {
+        "type": "is officer of",
+        "properties": {
+          "name": "Director"
+        }
+      },
+      "label": "Director",
+      "size": 1,
+      "type": "curvedArrow",
+      "cc": {
+        "y": 2
+      }
+    },
+    {
+      "renderer1:size": 10.48376229389614,
+      "read_cam0:size": 2,
+      "active": false,
+      "id": 68531,
+      "source": 648326,
+      "target": 217658,
+      "data": {
+        "type": "is officer of",
+        "properties": {
+          "name": "Director"
+        }
+      },
+      "label": "Director",
+      "size": 1,
+      "color": "#d48a60",
+      "hover": false
+    },
+    {
+      "renderer1:size": 10.48376229389614,
+      "read_cam0:size": 2,
+      "hover": false,
+      "active": false,
+      "color": "#d48a60",
+      "id": 68532,
+      "source": 473254,
+      "target": 208909,
+      "data": {
+        "type": "is officer of",
+        "properties": {
+          "name": "Director"
+        }
+      },
+      "label": "Director",
+      "size": 1,
+      "type": "curvedArrow",
+      "cc": {
+        "y": null
+      }
+    },
+    {
+      "renderer1:size": 10.48376229389614,
+      "read_cam0:size": 2,
+      "active": false,
+      "id": 68533,
+      "source": 473254,
+      "target": 240121,
+      "data": {
+        "type": "is officer of",
+        "properties": {
+          "name": "Director"
+        }
+      },
+      "label": "Director",
+      "size": 1,
+      "color": "#d48a60",
+      "hover": false
+    },
+    {
+      "renderer1:size": 10.48376229389614,
+      "read_cam0:size": 2,
+      "active": false,
+      "id": 68534,
+      "source": 473254,
+      "target": 217658,
+      "data": {
+        "type": "is officer of",
+        "properties": {
+          "name": "Director"
+        }
+      },
+      "label": "Director",
+      "size": 1,
+      "color": "#d48a60",
+      "hover": false
+    },
+    {
+      "renderer1:size": 10.48376229389614,
+      "read_cam0:size": 2,
+      "active": false,
+      "id": 68535,
+      "source": 334206,
+      "target": 208909,
+      "data": {
+        "type": "is officer of",
+        "properties": {
+          "name": "Director"
+        }
+      },
+      "label": "Director",
+      "size": 1,
+      "color": "#d48a60",
+      "hover": false
+    },
+    {
+      "renderer1:size": 10.48376229389614,
+      "read_cam0:size": 2,
+      "active": false,
+      "id": 68536,
+      "source": 334206,
+      "target": 240121,
+      "data": {
+        "type": "is officer of",
+        "properties": {
+          "name": "Director"
+        }
+      },
+      "label": "Director",
+      "size": 1,
+      "color": "#d48a60",
+      "hover": false
+    },
+    {
+      "renderer1:size": 10.48376229389614,
+      "read_cam0:size": 2,
+      "active": false,
+      "hover": false,
+      "color": "#d48a60",
+      "id": 68537,
+      "source": 334206,
+      "target": 217658,
+      "data": {
+        "type": "is officer of",
+        "properties": {
+          "name": "Director"
+        }
+      },
+      "label": "Director",
+      "size": 1,
+      "type": "curvedArrow",
+      "cc": {
+        "y": null
+      }
+    },
+    {
+      "renderer1:size": 10.48376229389614,
+      "read_cam0:size": 2,
+      "hover": false,
+      "active": false,
+      "color": "#d48a60",
+      "id": 467797,
+      "source": 334206,
+      "target": 217658,
+      "data": {
+        "type": "is officer of",
+        "properties": {
+          "name": "Shareholder"
+        }
+      },
+      "label": "Shareholder",
+      "size": 1,
+      "type": "curvedArrow",
+      "cc": {
+        "y": 2
+      }
+    },
+    {
+      "renderer1:size": 10.48376229389614,
+      "read_cam0:size": 2,
+      "active": false,
+      "hover": false,
+      "color": "#d48a60",
+      "id": 556524,
+      "source": 473254,
+      "target": 208909,
+      "data": {
+        "type": "is officer of",
+        "properties": {
+          "name": "Shareholder"
+        }
+      },
+      "label": "Shareholder",
+      "size": 1,
+      "type": "curvedArrow",
+      "cc": {
+        "y": 2
+      }
+    },
+    {
+      "renderer1:size": 10.48376229389614,
+      "id": 604789,
+      "source": 588146,
+      "target": 208909,
+      "data": {
+        "type": "registered",
+        "properties": {}
+      },
+      "label": "registered",
+      "size": 1,
+      "color": "#8a6960",
+      "read_cam0:size": 2
+    },
+    {
+      "renderer1:size": 10.48376229389614,
+      "read_cam0:size": 2,
+      "id": 703001,
+      "source": 588146,
+      "target": 217658,
+      "data": {
+        "type": "registered",
+        "properties": {}
+      },
+      "label": "registered",
+      "size": 1,
+      "color": "#8a6960",
+      "hover": false
+    }
+  ],
+  "nodes": [
+    {
+      "renderer1:size": 26.209405734740347,
+      "renderer1:y": 122.6192708061667,
+      "renderer1:x": 1087.316408724097,
+      "read_cam0:y": -34.96572723388676,
+      "read_cam0:x": -30.16455812454224,
+      "read_cam0:size": 5,
+      "fixed": true,
+      "y": -34.96572723388676,
+      "x": -30.16455812454224,
+      "label": "KOJO ANNAN",
+      "data": {
+        "statistics": {
+          "hiddenEdgeCount": 0,
+          "visibleEdgeCount": 5,
+          "edgeCount": 5,
+          "digest": {
+            "1": {
+              "edges": 4,
+              "nodes": 3,
+              "nodeCategories": {
+                "0": "Company"
+              },
+              "edgeType": "is officer of"
+            },
+            "0": {
+              "edges": 1,
+              "nodes": 1,
+              "nodeCategories": {
+                "0": "Address"
+              },
+              "edgeType": "registered address"
+            }
+          }
+        },
+        "categories": {
+          "0": "Officer"
+        },
+        "properties": {
+          "registerlocation": "",
+          "rst": "NOT NEGATIVE RESULT(SEARCHES CONDUCTED)",
+          "pep": "NO",
+          "citizenship": "NO",
+          "custodianaddress": "",
+          "custodianname": "",
+          "newcertificate": "",
+          "name": "KOJO ANNAN",
+          "certificateNumber": "3",
+          "numbershares": "50,000",
+          "classofshares": "",
+          "dateofissue": "18-02-2015",
+          "ceasedmembership": "",
+          "transferdate": "",
+          "sharestransferred": ""
+        }
+      },
+      "geo": {
+        "longitudeDiff": 0,
+        "latitudeDiff": 0
+      },
+      "nodelink": {
+        "fixed": true,
+        "y": -16.633,
+        "x": -16.606
+      },
+      "id": 473254,
+      "size": 1,
+      "glyphs": {
+        "1": {
+          "content": "",
+          "textColor": "#000",
+          "font": "FontAwesome",
+          "position": "bottom-right",
+          "draw": true
+        },
+        "0": {
+          "content": "0",
+          "position": "top-right",
+          "draw": false
+        }
+      },
+      "active": false,
+      "color": "#be4400",
+      "icon": {
+        "content": "",
+        "color": "#fff",
+        "scale": 1,
+        "font": "FontAwesome"
+      },
+      "fa2_x": -30.16455812454224,
+      "fa2_y": -34.96572723388676,
+      "colors": {
+        "0": "#be4400"
+      }
+    },
+    {
+      "renderer1:size": 26.209405734740347,
+      "renderer1:y": 399.95228124557576,
+      "renderer1:x": 1289.2594353330403,
+      "read_cam0:y": 3.1031919007773467e-06,
+      "read_cam0:x": -4.703883967238859,
+      "read_cam0:size": 5,
+      "fixed": true,
+      "y": 3.1031919007773467e-06,
+      "x": -4.703883967238859,
+      "label": "SAPPHIRE HOLDING LTD.",
+      "data": {
+        "statistics": {
+          "hiddenEdgeCount": 3,
+          "visibleEdgeCount": 5,
+          "edgeCount": 8,
+          "digest": {
+            "1": {
+              "edges": 1,
+              "nodes": 1,
+              "nodeCategories": {
+                "0": "Client"
+              },
+              "edgeType": "registered"
+            },
+            "0": {
+              "edges": 7,
+              "nodes": 6,
+              "nodeCategories": {
+                "0": "Officer"
+              },
+              "edgeType": "is officer of"
+            }
+          }
+        },
+        "categories": {
+          "0": "Company"
+        },
+        "properties": {
+          "registrationDate": "11-MAR-2005",
+          "struck_off_date": "",
+          "inactivationDate": "",
+          "status": "ACT",
+          "name": "SAPPHIRE HOLDING LTD.",
+          "jurisdiction": "SAM",
+          "file_number": "1000254"
+        }
+      },
+      "geo": {
+        "longitudeDiff": 0,
+        "latitudeDiff": 0
+      },
+      "nodelink": {
+        "y": -30.795,
+        "x": -20.557
+      },
+      "id": 208909,
+      "size": 1,
+      "glyphs": {
+        "1": {
+          "content": "",
+          "textColor": "#000",
+          "font": "FontAwesome",
+          "position": "bottom-right",
+          "draw": true
+        },
+        "0": {
+          "content": "3",
+          "position": "top-right",
+          "draw": true
+        }
+      },
+      "active": false,
+      "color": "#420e00",
+      "icon": {
+        "content": "",
+        "color": "#fff",
+        "scale": 1,
+        "font": "FontAwesome"
+      },
+      "fa2_x": -4.703883967238859,
+      "fa2_y": 3.1031919007773467e-06,
+      "colors": {
+        "0": "#420e00"
+      }
+    },
+    {
+      "renderer1:size": 26.209405734740347,
+      "renderer1:y": 99.65783179213582,
+      "renderer1:x": 1306.370230173692,
+      "read_cam0:y": -37.86067105411147,
+      "read_cam0:x": -2.546580596452344,
+      "read_cam0:size": 5,
+      "fixed": true,
+      "y": -37.86067105411147,
+      "x": -2.546580596452344,
+      "label": "6 Amilcar Cabral Street; Airport Residential; Accra; Ghana",
+      "data": {
+        "statistics": {
+          "hiddenEdgeCount": 0,
+          "visibleEdgeCount": 1,
+          "edgeCount": 1,
+          "digest": {
+            "0": {
+              "edges": 1,
+              "nodes": 1,
+              "nodeCategories": {
+                "0": "Officer"
+              },
+              "edgeType": "registered address"
+            }
+          }
+        },
+        "categories": {
+          "0": "Address"
+        },
+        "properties": {
+          "name": "6 Amilcar Cabral Street; Airport Residential; Accra; Ghana"
+        }
+      },
+      "geo": {
+        "longitudeDiff": 0,
+        "latitudeDiff": 0
+      },
+      "nodelink": {
+        "y": -0.232,
+        "x": -0.056
+      },
+      "id": 519774,
+      "size": 1,
+      "glyphs": {
+        "1": {
+          "content": "",
+          "textColor": "#000",
+          "font": "FontAwesome",
+          "position": "bottom-right",
+          "draw": true
+        },
+        "0": {
+          "content": "0",
+          "position": "top-right",
+          "draw": false
+        }
+      },
+      "active": false,
+      "color": "#937c6f",
+      "icon": {
+        "content": "",
+        "color": "#fff",
+        "scale": 1,
+        "font": "FontAwesome"
+      },
+      "fa2_x": -2.546580596452344,
+      "fa2_y": -37.86067105411147,
+      "colors": {
+        "0": "#937c6f"
+      }
+    },
+    {
+      "renderer1:size": 26.209405734740347,
+      "renderer1:y": 597.7200956759536,
+      "renderer1:x": 876.3367435899346,
+      "read_cam0:y": 24.93427276611325,
+      "read_cam0:x": -56.76455812454223,
+      "read_cam0:size": 5,
+      "fixed": true,
+      "y": 24.93427276611325,
+      "x": -56.76455812454223,
+      "label": "MR. KOJO ANNAN",
+      "data": {
+        "statistics": {
+          "hiddenEdgeCount": 0,
+          "visibleEdgeCount": 4,
+          "edgeCount": 4,
+          "digest": {
+            "0": {
+              "edges": 4,
+              "nodes": 3,
+              "nodeCategories": {
+                "0": "Company"
+              },
+              "edgeType": "is officer of"
+            }
+          }
+        },
+        "categories": {
+          "0": "Officer"
+        },
+        "properties": {
+          "registerlocation": "",
+          "rst": "NOT NEGATIVE RESULT",
+          "pep": "NO",
+          "citizenship": "NO",
+          "custodianaddress": "",
+          "custodianname": "",
+          "newcertificate": "",
+          "name": "MR. KOJO ANNAN",
+          "certificateNumber": "2",
+          "numbershares": "25,000",
+          "classofshares": "",
+          "dateofissue": "19-11-2002",
+          "ceasedmembership": "",
+          "transferdate": "",
+          "sharestransferred": ""
+        }
+      },
+      "geo": {
+        "longitudeDiff": 0,
+        "latitudeDiff": 0
+      },
+      "nodelink": {
+        "fixed": true,
+        "y": 27.867,
+        "x": -21.581
+      },
+      "id": 648326,
+      "size": 1,
+      "glyphs": {
+        "1": {
+          "content": "",
+          "textColor": "#000",
+          "font": "FontAwesome",
+          "position": "bottom-right",
+          "draw": true
+        },
+        "0": {
+          "content": "0",
+          "position": "top-right",
+          "draw": false
+        }
+      },
+      "active": false,
+      "color": "#be4400",
+      "icon": {
+        "content": "",
+        "color": "#fff",
+        "scale": 1,
+        "font": "FontAwesome"
+      },
+      "fa2_x": -56.76455812454223,
+      "fa2_y": 24.93427276611325,
+      "colors": {
+        "0": "#be4400"
+      }
+    },
+    {
+      "renderer1:size": 26.209405734740347,
+      "renderer1:y": 612.1261372696587,
+      "renderer1:x": 1221.6717957124654,
+      "read_cam0:y": 26.750564900944703,
+      "read_cam0:x": -13.2252322818456,
+      "read_cam0:size": 5,
+      "fixed": true,
+      "y": 26.750564900944703,
+      "x": -13.2252322818456,
+      "label": "BLUE DIAMOND HOLDING MANAGEMENT CORP.",
+      "data": {
+        "statistics": {
+          "hiddenEdgeCount": 2,
+          "visibleEdgeCount": 4,
+          "edgeCount": 6,
+          "digest": {
+            "1": {
+              "edges": 1,
+              "nodes": 1,
+              "nodeCategories": {
+                "0": "Client"
+              },
+              "edgeType": "registered"
+            },
+            "0": {
+              "edges": 5,
+              "nodes": 4,
+              "nodeCategories": {
+                "0": "Officer"
+              },
+              "edgeType": "is officer of"
+            }
+          }
+        },
+        "categories": {
+          "0": "Company"
+        },
+        "properties": {
+          "registrationDate": "27-AUG-2002",
+          "struck_off_date": "30-APR-2006",
+          "inactivationDate": "03-NOV-2005",
+          "status": "MOR",
+          "name": "BLUE DIAMOND HOLDING MANAGEMENT CORP.",
+          "jurisdiction": "BVI",
+          "file_number": "550235"
+        }
+      },
+      "geo": {
+        "longitudeDiff": 0,
+        "latitudeDiff": 0
+      },
+      "nodelink": {
+        "y": 23.399,
+        "x": -39.287
+      },
+      "id": 240121,
+      "size": 1,
+      "glyphs": {
+        "1": {
+          "content": "",
+          "textColor": "#000",
+          "font": "FontAwesome",
+          "position": "bottom-right",
+          "draw": true
+        },
+        "0": {
+          "content": "2",
+          "position": "top-right",
+          "draw": true
+        }
+      },
+      "active": false,
+      "color": "#420e00",
+      "icon": {
+        "content": "",
+        "color": "#fff",
+        "scale": 1,
+        "font": "FontAwesome"
+      },
+      "fa2_x": -13.2252322818456,
+      "fa2_y": 26.750564900944703,
+      "colors": {
+        "0": "#420e00"
+      }
+    },
+    {
+      "renderer1:size": 26.209405734740347,
+      "renderer1:y": 133.72346370796475,
+      "renderer1:x": 1558.4514504146703,
+      "read_cam0:y": -33.56572723388676,
+      "read_cam0:x": 29.235441875457767,
+      "read_cam0:size": 5,
+      "fixed": true,
+      "y": -33.56572723388676,
+      "x": 29.235441875457767,
+      "label": "MR. KOJO ANNAN",
+      "data": {
+        "statistics": {
+          "hiddenEdgeCount": 0,
+          "visibleEdgeCount": 5,
+          "edgeCount": 5,
+          "digest": {
+            "1": {
+              "edges": 4,
+              "nodes": 3,
+              "nodeCategories": {
+                "0": "Company"
+              },
+              "edgeType": "is officer of"
+            },
+            "0": {
+              "edges": 1,
+              "nodes": 1,
+              "nodeCategories": {
+                "0": "Address"
+              },
+              "edgeType": "registered address"
+            }
+          }
+        },
+        "categories": {
+          "0": "Officer"
+        },
+        "properties": {
+          "registerlocation": "THE CLIENT",
+          "rst": "NOT NEGATIVE RESULT",
+          "pep": "NO",
+          "citizenship": "NO",
+          "custodianaddress": "",
+          "custodianname": "",
+          "newcertificate": "",
+          "name": "MR. KOJO ANNAN",
+          "certificateNumber": "1",
+          "numbershares": "15,000",
+          "classofshares": "",
+          "dateofissue": "22-02-2002",
+          "ceasedmembership": "26-08-2008",
+          "transferdate": "",
+          "sharestransferred": ""
+        }
+      },
+      "geo": {
+        "longitudeDiff": 0,
+        "latitudeDiff": 0
+      },
+      "nodelink": {
+        "y": -2.618,
+        "x": 26.355
+      },
+      "id": 334206,
+      "size": 1,
+      "glyphs": {
+        "1": {
+          "content": "",
+          "textColor": "#000",
+          "font": "FontAwesome",
+          "position": "bottom-right",
+          "draw": true
+        },
+        "0": {
+          "content": "0",
+          "position": "top-right",
+          "draw": false
+        }
+      },
+      "active": false,
+      "color": "#be4400",
+      "icon": {
+        "content": "",
+        "color": "#fff",
+        "scale": 1,
+        "font": "FontAwesome"
+      },
+      "fa2_x": 29.235441875457767,
+      "fa2_y": -33.56572723388676,
+      "colors": {
+        "0": "#be4400"
+      }
+    },
+    {
+      "renderer1:size": 26.209405734740347,
+      "renderer1:y": 449.3998047733658,
+      "renderer1:x": 1490.2399797321968,
+      "read_cam0:y": 6.23427276611325,
+      "read_cam0:x": 20.635441875457765,
+      "read_cam0:size": 5,
+      "fixed": true,
+      "y": 6.23427276611325,
+      "x": 20.635441875457765,
+      "label": "SUTTON ENERGY LTD.",
+      "data": {
+        "statistics": {
+          "hiddenEdgeCount": 3,
+          "visibleEdgeCount": 5,
+          "edgeCount": 8,
+          "digest": {
+            "1": {
+              "edges": 1,
+              "nodes": 1,
+              "nodeCategories": {
+                "0": "Client"
+              },
+              "edgeType": "registered"
+            },
+            "0": {
+              "edges": 7,
+              "nodes": 6,
+              "nodeCategories": {
+                "0": "Officer"
+              },
+              "edgeType": "is officer of"
+            }
+          }
+        },
+        "categories": {
+          "0": "Company"
+        },
+        "properties": {
+          "registrationDate": "22-FEB-2002",
+          "struck_off_date": "31-OCT-2010",
+          "inactivationDate": "",
+          "status": "MOR",
+          "name": "SUTTON ENERGY LTD.",
+          "jurisdiction": "BVI",
+          "file_number": "547223"
+        }
+      },
+      "geo": {
+        "longitudeDiff": 0,
+        "latitudeDiff": 0
+      },
+      "nodelink": {
+        "y": 15.577,
+        "x": 24.844
+      },
+      "id": 217658,
+      "size": 1,
+      "glyphs": {
+        "1": {
+          "content": "",
+          "textColor": "#000",
+          "font": "FontAwesome",
+          "position": "bottom-right",
+          "draw": true
+        },
+        "0": {
+          "content": "3",
+          "position": "top-right",
+          "draw": true
+        }
+      },
+      "active": true,
+      "color": "#420e00",
+      "icon": {
+        "content": "",
+        "color": "#fff",
+        "scale": 1,
+        "font": "FontAwesome"
+      },
+      "fa2_x": 20.635441875457765,
+      "fa2_y": 6.23427276611325,
+      "colors": {
+        "0": "#420e00"
+      }
+    },
+    {
+      "renderer1:size": 26.209405734740347,
+      "renderer1:y": 190.34504444759065,
+      "renderer1:x": 1683.6632564100655,
+      "read_cam0:y": -26.426963188942928,
+      "read_cam0:x": 45.02195872939036,
+      "read_cam0:size": 5,
+      "fixed": true,
+      "y": -26.426963188942928,
+      "x": 45.02195872939036,
+      "label": "105 Duane Street; Apt 42G; New York 10007; USA",
+      "data": {
+        "statistics": {
+          "hiddenEdgeCount": 0,
+          "visibleEdgeCount": 1,
+          "edgeCount": 1,
+          "digest": {
+            "0": {
+              "edges": 1,
+              "nodes": 1,
+              "nodeCategories": {
+                "0": "Officer"
+              },
+              "edgeType": "registered address"
+            }
+          }
+        },
+        "categories": {
+          "0": "Address"
+        },
+        "properties": {
+          "name": "105 Duane Street; Apt 42G; New York 10007; USA"
+        }
+      },
+      "geo": {
+        "longitudeDiff": 0,
+        "latitudeDiff": 0
+      },
+      "nodelink": {
+        "y": -23.119,
+        "x": 31.89
+      },
+      "id": 500835,
+      "size": 1,
+      "glyphs": {
+        "1": {
+          "content": "",
+          "textColor": "#000",
+          "font": "FontAwesome",
+          "position": "bottom-right",
+          "draw": true
+        },
+        "0": {
+          "content": "0",
+          "position": "top-right",
+          "draw": false
+        }
+      },
+      "active": false,
+      "color": "#937c6f",
+      "icon": {
+        "content": "",
+        "color": "#fff",
+        "scale": 1,
+        "font": "FontAwesome"
+      },
+      "fa2_x": 45.02195872939036,
+      "fa2_y": -26.426963188942928,
+      "colors": {
+        "0": "#937c6f"
+      }
+    },
+    {
+      "renderer1:size": 26.209405734740347,
+      "renderer1:y": 618.3421682078642,
+      "renderer1:x": 1480.7221001020844,
+      "read_cam0:y": 27.534272766113244,
+      "read_cam0:x": 19.435441875457776,
+      "read_cam0:size": 5,
+      "colors": {
+        "0": "#be4400"
+      },
+      "y": 27.534272766113244,
+      "x": 19.435441875457776,
+      "label": "MR. KOJO ANNAN",
+      "data": {
+        "statistics": {
+          "hiddenEdgeCount": 0,
+          "visibleEdgeCount": 0,
+          "edgeCount": 0,
+          "digest": {}
+        },
+        "categories": {
+          "0": "Officer"
+        },
+        "properties": {
+          "registerlocation": "",
+          "rst": "NOT NEGATIVE RESULT",
+          "pep": "NO",
+          "citizenship": "NO",
+          "custodianaddress": "",
+          "custodianname": "",
+          "newcertificate": "",
+          "name": "MR. KOJO ANNAN",
+          "certificateNumber": "2",
+          "numbershares": "25,000",
+          "classofshares": "",
+          "dateofissue": "19-11-2002",
+          "ceasedmembership": "",
+          "transferdate": "",
+          "sharestransferred": ""
+        }
+      },
+      "selected": true,
+      "geo": {
+        "longitudeDiff": 0,
+        "latitudeDiff": 0
+      },
+      "nodelink": {
+        "y": 29.398,
+        "x": -1.296
+      },
+      "id": 616886,
+      "fixed": true,
+      "size": 1,
+      "glyphs": {
+        "1": {
+          "content": "",
+          "textColor": "#000",
+          "font": "FontAwesome",
+          "position": "bottom-right",
+          "draw": true
+        },
+        "0": {
+          "content": "0",
+          "position": "top-right",
+          "draw": false
+        }
+      },
+      "active": false,
+      "color": "#be4400",
+      "icon": {
+        "content": "",
+        "color": "#fff",
+        "scale": 1,
+        "font": "FontAwesome"
+      },
+      "fa2_x": 19.435441875457776,
+      "fa2_y": 27.534272766113244
+    },
+    {
+      "renderer1:size": 26.209405734740347,
+      "renderer1:y": 535.9831002287581,
+      "renderer1:x": 1357.7026146956478,
+      "colors": {
+        "0": "#851d00"
+      },
+      "glyphs": {
+        "1": {
+          "content": "",
+          "textColor": "#000",
+          "font": "FontAwesome",
+          "position": "bottom-right",
+          "draw": true
+        },
+        "0": {
+          "content": "148",
+          "position": "top-right",
+          "draw": true
+        }
+      },
+      "size": 1,
+      "label": "AFREX SAL",
+      "y": 17.150564900944715,
+      "x": 3.925329515907208,
+      "data": {
+        "statistics": {
+          "hiddenEdgeCount": 148,
+          "visibleEdgeCount": 2,
+          "edgeCount": 150,
+          "digest": {
+            "0": {
+              "edges": 150,
+              "nodes": 150,
+              "nodeCategories": {
+                "0": "Company"
+              },
+              "edgeType": "registered"
+            }
+          }
+        },
+        "categories": {
+          "0": "Client"
+        },
+        "properties": {
+          "compliance_classification": "INTERMEDIARY",
+          "region": "GENEVA OFFICE PROFESSIONAL CLIENTS",
+          "subclassification": "",
+          "classification": "Special rates",
+          "activity": "OFFSHORE COMPANY MANAGER",
+          "cross_reference": "CLAMORGAN S.A.",
+          "former_name": "",
+          "name": "AFREX SAL",
+          "status": "ACTIVE",
+          "client_number": "24691",
+          "client_name": "AFREX SAL",
+          "prospect_date": "",
+          "active_since": "07-JUL-2008",
+          "country": "LEBANON",
+          "city": "BEIRUT (BEYROUTH)"
+        }
+      },
+      "id": 588146,
+      "color": "#851d00",
+      "icon": {
+        "content": "",
+        "color": "#fff",
+        "scale": 1,
+        "font": "FontAwesome"
+      },
+      "fa2_x": 7.300087928771973,
+      "fa2_y": 5.074798583984375,
+      "fixed": true,
+      "read_cam0:size": 5,
+      "read_cam0:x": 3.925329515907208,
+      "read_cam0:y": 17.150564900944715
+    }
+  ]
+}
